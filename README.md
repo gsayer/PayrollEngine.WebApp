@@ -10,6 +10,7 @@ The Web Application provides full access to the Payroll Engine. For a better und
 ## Contents
 
 - [Prerequisites](#prerequisites)
+- [Localization](#localization)
 - [Features](#features)
 - [Setup](#setup)
 - [User Login](#user-login)
@@ -36,6 +37,23 @@ The Web Application provides full access to the Payroll Engine. For a better und
 |:--|:--|
 | [.NET](https://dotnet.microsoft.com/download) | 10.0 |
 | [Payroll Engine Backend](https://github.com/Payroll-Engine/PayrollEngine.Backend) | running and accessible |
+
+---
+
+## Localization
+
+| Language   | Code | Status |
+|:-----------|:-----|:-------|
+| English    | en   | Stable |
+| German     | de   | Stable |
+| French     | fr   | Beta   |
+| Italian    | it   | Beta   |
+| Dutch      | nl   | Beta   |
+| Spanish    | es   | Beta   |
+| Portuguese | pt   | Beta   |
+| Arabic     | ar   | Beta   |
+
+> Beta translations are machine-generated and may contain inaccuracies. Contributions and corrections are welcome.
 
 ---
 
