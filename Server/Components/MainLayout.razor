@@ -6,6 +6,7 @@
 
 @inherits MainLayoutBase
 
+<MudRTLProvider RightToLeft="@IsRtl">
 <MudThemeProvider @ref="@ThemeProvider"
                   @bind-IsDarkMode="IsDarkMode"
                   Theme="@AppTheme" />
@@ -196,3 +197,4 @@
 </CascadingValue>
 
 <UserNotification @ref="Notification" />
+</MudRTLProvider>

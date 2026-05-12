@@ -20,6 +20,8 @@ public abstract class MainLayoutBase : MainComponentBase
     [Inject]
     protected ILocalizerService LocalizerService { get; set; }
     [Inject]
+    private ICultureService CultureService { get; set; }
+    [Inject]
     private IConfiguration Configuration { get; set; }
     [Inject]
     private IThemeService ThemeService { get; set; }
@@ -194,6 +196,24 @@ public abstract class MainLayoutBase : MainComponentBase
     {
         await Session.LogoutAsync();
         NavigationManager.NavigateTo("/", true);
+    }
+
+    #endregion
+
+    #region RTL
+
+    protected bool IsRtl
+    {
+        get
+        {
+            var cultureName = Session?.GetUserCulture();
+            if (string.IsNullOrWhiteSpace(cultureName))
+            {
+                return false;
+            }
+            var culture = CultureService.GetCulture(cultureName);
+            return culture?.CultureInfo.TextInfo.IsRightToLeft ?? false;
+        }
     }
 
     #endregion

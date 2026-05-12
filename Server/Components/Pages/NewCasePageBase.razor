@@ -123,7 +123,7 @@
                                     Style="max-width: 20em">
                             <MudStack Spacing="0">
                                 <MudList T="string" Style="overflow-y: auto; max-height: 40em"
-                                         SelectedValueChanged="@(x => SelectForecast(x))"
+                                         SelectedValueChanged="@SelectForecast"
                                          SelectionMode="SelectionMode.SingleSelection">
                                     @foreach (var history in ForecastHistory)
                                     {

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
 		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -59,490 +59,490 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="Enum.ObjectStatus.Active" xml:space="preserve">
-    <value>Active</value>
+    <value>Activo</value>
   </data>
 	<data name="Enum.ObjectStatus.Inactive" xml:space="preserve">
-    <value>Inactive</value>
+    <value>Inactivo</value>
   </data>
 	<data name="Enum.AttributeValueType.Boolean" xml:space="preserve">
-    <value>Boolean</value>
+    <value>Booleano</value>
   </data>
 	<data name="Enum.AttributeValueType.Numeric" xml:space="preserve">
-    <value>Numeric</value>
+    <value>Numérico</value>
   </data>
 	<data name="Enum.AttributeValueType.String" xml:space="preserve">
-    <value>String</value>
+    <value>Cadena</value>
   </data>
 	<data name="Enum.CalendarTimeMap.Cycle" xml:space="preserve">
-    <value>Cycle</value>
+    <value>Ciclo</value>
   </data>
 	<data name="Enum.CalendarTimeMap.Period" xml:space="preserve">
-    <value>Period</value>
+    <value>Período</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.BiMonth" xml:space="preserve">
-    <value>Bi-Month</value>
+    <value>Bimestre</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.BiWeek" xml:space="preserve">
-    <value>Bi-Week</value>
+    <value>Quincena</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.CalendarMonth" xml:space="preserve">
-    <value>Calendar month</value>
+    <value>Mes calendario</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.LunisolarMonth" xml:space="preserve">
-    <value>Lunisolar Month</value>
+    <value>Mes lunisolar</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.Quarter" xml:space="preserve">
-    <value>Quarter</value>
+    <value>Trimestre</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.SemiMonth" xml:space="preserve">
-    <value>Semi-Month</value>
+    <value>Quincena</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.SemiYear" xml:space="preserve">
-    <value>Semi-Year</value>
+    <value>Semestre</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.Week" xml:space="preserve">
-    <value>Week</value>
+    <value>Semana</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Año</value>
   </data>
 	<data name="Enum.CalendarWeekMode.Week" xml:space="preserve">
-    <value>Week</value>
+    <value>Semana</value>
   </data>
 	<data name="Enum.CalendarWeekMode.WorkWeek" xml:space="preserve">
-    <value>Work week</value>
+    <value>Semana laboral</value>
   </data>
 	<data name="Enum.CalendarWeekRule.FirstDay" xml:space="preserve">
-    <value>First day</value>
+    <value>Primer día</value>
   </data>
 	<data name="Enum.CalendarWeekRule.FirstFourDayWeek" xml:space="preserve">
-    <value>First four-day week</value>
+    <value>Primera semana de cuatro días</value>
   </data>
 	<data name="Enum.CalendarWeekRule.FirstFullWeek" xml:space="preserve">
-    <value>First full week</value>
+    <value>Primera semana completa</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Abort" xml:space="preserve">
-    <value>Abort</value>
+    <value>Abortar</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Complete" xml:space="preserve">
-    <value>Complete</value>
+    <value>Completado</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Draft" xml:space="preserve">
-    <value>Draft</value>
+    <value>Borrador</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Forecast" xml:space="preserve">
-    <value>Forecast</value>
+    <value>Previsión</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Process" xml:space="preserve">
-    <value>Process</value>
+    <value>Procesar</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Release" xml:space="preserve">
-    <value>Release</value>
+    <value>Liberar</value>
   </data>
 	<data name="Enum.ResultKind.Collector" xml:space="preserve">
-    <value>Collector</value>
+    <value>Colector</value>
   </data>
 	<data name="Enum.ResultKind.CollectorCustom" xml:space="preserve">
-    <value>Collector custom</value>
+    <value>Colector personalizado</value>
   </data>
 	<data name="Enum.ResultKind.Payrun" xml:space="preserve">
-    <value>Payrun</value>
+    <value>Proceso de nómina</value>
   </data>
 	<data name="Enum.ResultKind.WageType" xml:space="preserve">
-    <value>Wage type</value>
+    <value>Concepto de nómina</value>
   </data>
 	<data name="Enum.ResultKind.WageTypeCustom" xml:space="preserve">
-    <value>Wage type custom</value>
+    <value>Concepto de nómina personalizado</value>
   </data>
 	<data name="Enum.RetroTimeType.Anytime" xml:space="preserve">
-    <value>Anytime</value>
+    <value>En cualquier momento</value>
   </data>
 	<data name="Enum.RetroTimeType.Cycle" xml:space="preserve">
-    <value>Cycle</value>
+    <value>Ciclo</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.None" xml:space="preserve">
-	<value>None</value>
+	<value>Ninguno</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.Consolidation" xml:space="preserve">
-	<value>Consolidation</value>
+	<value>Consolidación</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.Read" xml:space="preserve">
-	<value>Read</value>
+	<value>Lectura</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.Write" xml:space="preserve">
-	<value>Write</value>
+	<value>Escritura</value>
   </data>
 	<data name="Enum.UserType.Employee" xml:space="preserve">
-    <value>Employee</value>
+    <value>Empleado</value>
   </data>
 	<data name="Enum.UserType.User" xml:space="preserve">
-    <value>User</value>
+    <value>Usuario</value>
   </data>
 	<data name="Enum.UserType.TenantAdministrator" xml:space="preserve">
-    <value>Tenant administrator</value>
+    <value>Administrador de inquilino</value>
   </data>
 	<data name="Enum.UserType.SystemAdministrator" xml:space="preserve">
-    <value>System administrator</value>
+    <value>Administrador del sistema</value>
   </data>
 	<data name="Enum.Feature.Calendars" xml:space="preserve">
-    <value>Calendars</value>
+    <value>Calendarios</value>
   </data>
 	<data name="Enum.Feature.CompanyCases" xml:space="preserve">
-    <value>Company cases</value>
+    <value>Casos de empresa</value>
   </data>
 	<data name="Enum.Feature.Divisions" xml:space="preserve">
-    <value>Divisions</value>
+    <value>Divisiones</value>
   </data>
 	<data name="Enum.Feature.EmployeeCases" xml:space="preserve">
-    <value>Employee cases</value>
+    <value>Casos de empleado</value>
   </data>
 	<data name="Enum.Feature.Employees" xml:space="preserve">
-    <value>Employees</value>
+    <value>Empleados</value>
   </data>
 	<data name="Enum.Feature.Forecasts" xml:space="preserve">
-    <value>Forecasts</value>
+    <value>Previsiones</value>
   </data>
 	<data name="Enum.Feature.GlobalCases" xml:space="preserve">
-    <value>Global cases</value>
+    <value>Casos globales</value>
   </data>
 	<data name="Enum.Feature.Logs" xml:space="preserve">
-    <value>Logs</value>
+    <value>Registros</value>
   </data>
 	<data name="Enum.Feature.NationalCases" xml:space="preserve">
-    <value>National cases</value>
+    <value>Casos nacionales</value>
   </data>
 	<data name="Enum.Feature.PayrollLayers" xml:space="preserve">
-    <value>Payroll layers</value>
+    <value>Capas de Payroll</value>
   </data>
 	<data name="Enum.Feature.Payrolls" xml:space="preserve">
     <value>Payrolls</value>
   </data>
 	<data name="Enum.Feature.PayrunJobs" xml:space="preserve">
-    <value>Payrun jobs</value>
+    <value>Tareas de nómina</value>
   </data>
 	<data name="Enum.Feature.PayrunResults" xml:space="preserve">
-    <value>Payrun results</value>
+    <value>Resultados de nómina</value>
   </data>
 	<data name="Enum.Feature.Payruns" xml:space="preserve">
-    <value>Payruns</value>
+    <value>Ejecuciones de nómina</value>
   </data>
 	<data name="Enum.Feature.Regulation" xml:space="preserve">
-    <value>Regulation</value>
+    <value>Regulación</value>
   </data>
 	<data name="Enum.Feature.Regulations" xml:space="preserve">
-    <value>Regulations</value>
+    <value>Regulaciones</value>
   </data>
 	<data name="Enum.Feature.Reports" xml:space="preserve">
-    <value>Reports</value>
+    <value>Informes</value>
   </data>
 	<data name="Enum.Feature.SharedRegulations" xml:space="preserve">
-    <value>Shared regulations</value>
+    <value>Regulaciones compartidas</value>
   </data>
 	<data name="Enum.Feature.Tasks" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Tareas</value>
   </data>
 	<data name="Enum.Feature.Tenants" xml:space="preserve">
-    <value>Tenants</value>
+    <value>Mandantes</value>
   </data>
 	<data name="Enum.Feature.Users" xml:space="preserve">
-    <value>Users</value>
+    <value>Usuarios</value>
   </data>
 	<data name="Enum.Feature.UserStorage" xml:space="preserve">
-    <value>User storage</value>
+    <value>Almacenamiento de usuario</value>
   </data>
 	<data name="Enum.Feature.Webhooks" xml:space="preserve">
     <value>Webhooks</value>
   </data>
 	<data name="Enum.FunctionType.All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
 	<data name="Enum.FunctionType.Case" xml:space="preserve">
-    <value>Case</value>
+    <value>Caso</value>
   </data>
 	<data name="Enum.FunctionType.CaseAvailable" xml:space="preserve">
-    <value>Case available</value>
+    <value>Caso disponible</value>
   </data>
 	<data name="Enum.FunctionType.CaseBuild" xml:space="preserve">
-    <value>Case build</value>
+    <value>Construcción de caso</value>
   </data>
 	<data name="Enum.FunctionType.CaseChange" xml:space="preserve">
-    <value>Case change</value>
+    <value>Cambio de caso</value>
   </data>
 	<data name="Enum.FunctionType.CaseRelation" xml:space="preserve">
-    <value>Case relation</value>
+    <value>Relación de caso</value>
   </data>
 	<data name="Enum.FunctionType.CaseRelationBuild" xml:space="preserve">
-    <value>Case relation build</value>
+    <value>Construcción de relación de caso</value>
   </data>
 	<data name="Enum.FunctionType.CaseRelationValidate" xml:space="preserve">
-    <value>Case relation validate</value>
+    <value>Validación de relación de caso</value>
   </data>
 	<data name="Enum.FunctionType.CaseValidate" xml:space="preserve">
-    <value>Case validate</value>
+    <value>Validación de caso</value>
   </data>
 	<data name="Enum.FunctionType.Collector" xml:space="preserve">
-    <value>Collector</value>
+    <value>Colector</value>
   </data>
 	<data name="Enum.FunctionType.CollectorApply" xml:space="preserve">
-    <value>Collector apply</value>
+    <value>Aplicar colector</value>
   </data>
 	<data name="Enum.FunctionType.CollectorEnd" xml:space="preserve">
-    <value>Collector end</value>
+    <value>Fin de colector</value>
   </data>
 	<data name="Enum.FunctionType.CollectorStart" xml:space="preserve">
-    <value>Collector start</value>
+    <value>Inicio de colector</value>
   </data>
 	<data name="Enum.FunctionType.Payroll" xml:space="preserve">
     <value>Payroll</value>
   </data>
 	<data name="Enum.FunctionType.Payrun" xml:space="preserve">
-    <value>Payrun</value>
+    <value>Proceso de nómina</value>
   </data>
 	<data name="Enum.FunctionType.PayrunBase" xml:space="preserve">
-    <value>Payrun base</value>
+    <value>Base del proceso de nómina</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeAvailable" xml:space="preserve">
-    <value>Payrun employee available</value>
+    <value>Empleado disponible en proceso de nómina</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeEnd" xml:space="preserve">
-    <value>Payrun employee end</value>
+    <value>Fin de empleado en proceso de nómina</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeStart" xml:space="preserve">
-    <value>Payrun employee start</value>
+    <value>Inicio de empleado en proceso de nómina</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEnd" xml:space="preserve">
-    <value>Payrun end</value>
+    <value>Fin de proceso de nómina</value>
   </data>
 	<data name="Enum.FunctionType.PayrunStart" xml:space="preserve">
-    <value>Payrun start</value>
+    <value>Inicio de proceso de nómina</value>
   </data>
 	<data name="Enum.FunctionType.PayrunWageTypeAvailable" xml:space="preserve">
-    <value>Payrun wage type available</value>
+    <value>Concepto de nómina disponible en proceso</value>
   </data>
 	<data name="Enum.FunctionType.Report" xml:space="preserve">
-    <value>Report</value>
+    <value>Informe</value>
   </data>
 	<data name="Enum.FunctionType.ReportBuild" xml:space="preserve">
-    <value>Report build</value>
+    <value>Construcción de informe</value>
   </data>
 	<data name="Enum.FunctionType.ReportEnd" xml:space="preserve">
-    <value>Report end</value>
+    <value>Fin de informe</value>
   </data>
 	<data name="Enum.FunctionType.ReportStart" xml:space="preserve">
-    <value>Report start</value>
+    <value>Inicio de informe</value>
   </data>
 	<data name="Enum.FunctionType.WageType" xml:space="preserve">
-    <value>Wage type</value>
+    <value>Concepto de nómina</value>
   </data>
 	<data name="Enum.FunctionType.WageTypeResult" xml:space="preserve">
-    <value>Wage type result</value>
+    <value>Resultado de concepto de nómina</value>
   </data>
 	<data name="Enum.FunctionType.WageTypeValue" xml:space="preserve">
-    <value>Wage type value</value>
+    <value>Valor de concepto de nómina</value>
   </data>
 	<data name="Enum.CaseCancellationType.Case" xml:space="preserve">
-    <value>Case</value>
+    <value>Caso</value>
   </data>
 	<data name="Enum.CaseCancellationType.None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
 	<data name="Enum.CaseFieldAggregationType.First" xml:space="preserve">
-    <value>First</value>
+    <value>Primero</value>
   </data>
 	<data name="Enum.CaseFieldAggregationType.Last" xml:space="preserve">
-    <value>Last</value>
+    <value>Último</value>
   </data>
 	<data name="Enum.CaseFieldAggregationType.Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Resumen</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Invert" xml:space="preserve">
-    <value>Invert</value>
+    <value>Invertir</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Keep" xml:space="preserve">
-    <value>Keep</value>
+    <value>Mantener</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Previous" xml:space="preserve">
-    <value>Previous</value>
+    <value>Anterior</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Restablecer</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.TimeType" xml:space="preserve">
-    <value>Time type</value>
+    <value>Tipo de tiempo</value>
   </data>
 	<data name="Enum.CaseFieldDateType.April" xml:space="preserve">
-    <value>April</value>
+    <value>Abril</value>
   </data>
 	<data name="Enum.CaseFieldDateType.August" xml:space="preserve">
-    <value>August</value>
+    <value>Agosto</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Día</value>
   </data>
 	<data name="Enum.CaseFieldDateType.December" xml:space="preserve">
-    <value>December</value>
+    <value>Diciembre</value>
   </data>
 	<data name="Enum.CaseFieldDateType.February" xml:space="preserve">
-    <value>February</value>
+    <value>Febrero</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Friday" xml:space="preserve">
-    <value>Friday</value>
+    <value>Viernes</value>
   </data>
 	<data name="Enum.CaseFieldDateType.January" xml:space="preserve">
-    <value>January</value>
+    <value>Enero</value>
   </data>
 	<data name="Enum.CaseFieldDateType.July" xml:space="preserve">
-    <value>July</value>
+    <value>Julio</value>
   </data>
 	<data name="Enum.CaseFieldDateType.June" xml:space="preserve">
-    <value>June</value>
+    <value>Junio</value>
   </data>
 	<data name="Enum.CaseFieldDateType.March" xml:space="preserve">
-    <value>March</value>
+    <value>Marzo</value>
   </data>
 	<data name="Enum.CaseFieldDateType.May" xml:space="preserve">
-    <value>May</value>
+    <value>Mayo</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Monday" xml:space="preserve">
-    <value>Monday</value>
+    <value>Lunes</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Mes</value>
   </data>
 	<data name="Enum.CaseFieldDateType.November" xml:space="preserve">
-    <value>November</value>
+    <value>Noviembre</value>
   </data>
 	<data name="Enum.CaseFieldDateType.October" xml:space="preserve">
-    <value>October</value>
+    <value>Octubre</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Saturday" xml:space="preserve">
-    <value>Saturday</value>
+    <value>Sábado</value>
   </data>
 	<data name="Enum.CaseFieldDateType.September" xml:space="preserve">
-    <value>September</value>
+    <value>Septiembre</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Sunday" xml:space="preserve">
-    <value>Sunday</value>
+    <value>Domingo</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Thursday" xml:space="preserve">
-    <value>Thursday</value>
+    <value>Jueves</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Tuesday" xml:space="preserve">
-    <value>Tuesday</value>
+    <value>Martes</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Wednesday" xml:space="preserve">
-    <value>Wednesday</value>
+    <value>Miércoles</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Año</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.CalendarPeriod" xml:space="preserve">
-    <value>Calendar period</value>
+    <value>Período calendario</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Moment" xml:space="preserve">
-    <value>Moment</value>
+    <value>Momento</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Period" xml:space="preserve">
-    <value>Period</value>
+    <value>Período</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Timeless" xml:space="preserve">
-    <value>Timeless</value>
+    <value>Atemporal</value>
   </data>
 	<data name="Enum.CaseFieldTimeUnit.Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Día</value>
   </data>
 	<data name="Enum.CaseFieldTimeUnit.HalfDay" xml:space="preserve">
-    <value>Half day</value>
+    <value>Medio día</value>
   </data>
 	<data name="Enum.CaseFieldTimeUnit.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Mes</value>
   </data>
 	<data name="Enum.CaseType.Company" xml:space="preserve">
-    <value>Company</value>
+    <value>Empresa</value>
   </data>
 	<data name="Enum.CaseType.Employee" xml:space="preserve">
-    <value>Employee</value>
+    <value>Empleado</value>
   </data>
 	<data name="Enum.CaseType.Global" xml:space="preserve">
     <value>Global</value>
   </data>
 	<data name="Enum.CaseType.National" xml:space="preserve">
-    <value>National</value>
+    <value>Nacional</value>
   </data>
 	<data name="Enum.CaseValueCreationMode.Always" xml:space="preserve">
-    <value>Always</value>
+    <value>Siempre</value>
   </data>
 	<data name="Enum.CaseValueCreationMode.Discard" xml:space="preserve">
-    <value>Discard</value>
+    <value>Descartar</value>
   </data>
 	<data name="Enum.CaseValueCreationMode.OnChanges" xml:space="preserve">
-    <value>On changes</value>
+    <value>Al cambiar</value>
   </data>
 	<data name="Enum.CollectMode.Average" xml:space="preserve">
-    <value>Average</value>
+    <value>Promedio</value>
   </data>
 	<data name="Enum.CollectMode.Count" xml:space="preserve">
-    <value>Count</value>
+    <value>Recuento</value>
   </data>
 	<data name="Enum.CollectMode.Maximum" xml:space="preserve">
-    <value>Maximum</value>
+    <value>Máximo</value>
   </data>
 	<data name="Enum.CollectMode.Minimum" xml:space="preserve">
-    <value>Minimum</value>
+    <value>Mínimo</value>
   </data>
 	<data name="Enum.CollectMode.Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Resumen</value>
   </data>
 	<data name="Enum.CollectMode.Range" xml:space="preserve">
-    <value>Range</value>
+    <value>Rango</value>
   </data>
 	<data name="Enum.OverrideType.Active" xml:space="preserve">
-    <value>Active</value>
+    <value>Activo</value>
   </data>
 	<data name="Enum.OverrideType.Inactive" xml:space="preserve">
-    <value>Inactive</value>
+    <value>Inactivo</value>
   </data>
 	<data name="Enum.ReportAttributeMode.Json" xml:space="preserve">
     <value>Json</value>
   </data>
 	<data name="Enum.ReportAttributeMode.Table" xml:space="preserve">
-    <value>Table</value>
+    <value>Tabla</value>
   </data>
 	<data name="Enum.ReportParameterType.EmployeeId" xml:space="preserve">
-    <value>Employee id</value>
+    <value>Id de empleado</value>
   </data>
 	<data name="Enum.ReportParameterType.Now" xml:space="preserve">
-    <value>Now</value>
+    <value>Ahora</value>
   </data>
 	<data name="Enum.ReportParameterType.PayrollId" xml:space="preserve">
-    <value>Payroll id</value>
+    <value>Id de Payroll</value>
   </data>
 	<data name="Enum.ReportParameterType.PayrunId" xml:space="preserve">
-    <value>Payrun id</value>
+    <value>Id de proceso de nómina</value>
   </data>
 	<data name="Enum.ReportParameterType.RegulationId" xml:space="preserve">
-    <value>Regulation id</value>
+    <value>Id de regulación</value>
   </data>
 	<data name="Enum.ReportParameterType.ReportId" xml:space="preserve">
-    <value>Report id</value>
+    <value>Id de informe</value>
   </data>
 	<data name="Enum.ReportParameterType.TenantId" xml:space="preserve">
-    <value>Tenant id</value>
+    <value>Id de inquilino</value>
   </data>
 	<data name="Enum.ReportParameterType.Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Hoy</value>
   </data>
 	<data name="Enum.ReportParameterType.UserId" xml:space="preserve">
-    <value>User id</value>
+    <value>Id de usuario</value>
   </data>
 	<data name="Enum.ReportParameterType.Value" xml:space="preserve">
-    <value>Value</value>
+    <value>Valor</value>
   </data>
 	<data name="Enum.ReportParameterType.WebhookId" xml:space="preserve">
-    <value>Webhook id</value>
+    <value>Id de Webhook</value>
   </data>
 	<data name="Enum.ValueScope.Global" xml:space="preserve">
     <value>Global</value>
@@ -551,865 +551,865 @@
     <value>Local</value>
   </data>
 	<data name="Enum.ValueType.Boolean" xml:space="preserve">
-    <value>Boolean</value>
+    <value>Booleano</value>
   </data>
 	<data name="Enum.ValueType.Date" xml:space="preserve">
-    <value>Date</value>
+    <value>Fecha</value>
   </data>
 	<data name="Enum.ValueType.DateTime" xml:space="preserve">
-    <value>DateTime</value>
+    <value>Fecha y hora</value>
   </data>
 	<data name="Enum.ValueType.Decimal" xml:space="preserve">
     <value>Decimal</value>
   </data>
 	<data name="Enum.ValueType.Integer" xml:space="preserve">
-    <value>Integer</value>
+    <value>Entero</value>
   </data>
 	<data name="Enum.ValueType.Money" xml:space="preserve">
-    <value>Money</value>
+    <value>Dinero</value>
   </data>
 	<data name="Enum.ValueType.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Mes</value>
   </data>
 	<data name="Enum.ValueType.None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
 	<data name="Enum.ValueType.NumericBoolean" xml:space="preserve">
-    <value>Boolean numeric</value>
+    <value>Booleano numérico</value>
   </data>
 	<data name="Enum.ValueType.Percent" xml:space="preserve">
-    <value>Percent</value>
+    <value>Porcentaje</value>
   </data>
 	<data name="Enum.ValueType.String" xml:space="preserve">
-    <value>String</value>
+    <value>Cadena</value>
   </data>
 	<data name="Enum.ValueType.WebResource" xml:space="preserve">
-    <value>Web resource</value>
+    <value>Recurso web</value>
   </data>
 	<data name="Enum.ValueType.Weekday" xml:space="preserve">
-    <value>Weekday</value>
+    <value>Día de la semana</value>
   </data>
 	<data name="Enum.ValueType.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Año</value>
   </data>
 	<data name="Enum.WebhookAction.CaseChangeAdded" xml:space="preserve">
-    <value>Case change added</value>
+    <value>Cambio de caso añadido</value>
   </data>
 	<data name="Enum.WebhookAction.CaseFunctionRequest" xml:space="preserve">
-    <value>Case function request</value>
+    <value>Solicitud de función de caso</value>
   </data>
 	<data name="Enum.WebhookAction.None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunFunctionRequest" xml:space="preserve">
-    <value>Payrun function request</value>
+    <value>Solicitud de función de proceso de nómina</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunJobFinish" xml:space="preserve">
-    <value>Payrun job finish</value>
+    <value>Finalización de trabajo de proceso de nómina</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunJobProcess" xml:space="preserve">
-    <value>Payrun job process</value>
+    <value>Procesamiento de trabajo de proceso de nómina</value>
   </data>
 	<data name="Enum.WebhookAction.ReportFunctionRequest" xml:space="preserve">
-    <value>Report function request</value>
+    <value>Solicitud de función de informe</value>
   </data>
 	<data name="Enum.WebhookAction.TaskChange" xml:space="preserve">
-    <value>Task change</value>	
+    <value>Cambio de tarea</value>	
   </data>
 	<data name="Enum.MarkerType.Condition" xml:space="preserve">
-    <value>Condition</value>	
+    <value>Condición</value>	
   </data>
 	<data name="Enum.MarkerType.ConditionTrue" xml:space="preserve">
-    <value>Condition true</value>	
+    <value>Condición verdadera</value>	
   </data>
 	<data name="Enum.MarkerType.ConditionFalse" xml:space="preserve">
-    <value>Condition false</value>	
+    <value>Condición falsa</value>	
   </data>
 	<data name="Enum.MarkerType.RuntimeValue" xml:space="preserve">
-    <value>Runtime value</value>	
+    <value>Valor en tiempo de ejecución</value>	
   </data>
 	<data name="Enum.MarkerType.LookupValue" xml:space="preserve">
-    <value>Lookup value</value>	
+    <value>Valor de Lookup</value>	
   </data>
 	<data name="Enum.MarkerType.CaseValue" xml:space="preserve">
-    <value>Case value</value>	
+    <value>Valor de caso</value>	
   </data>
 	<data name="Enum.MarkerType.CaseField" xml:space="preserve">
-    <value>Case field</value>	
+    <value>Campo de caso</value>	
   </data>
 	<data name="Enum.MarkerType.SourceCaseField" xml:space="preserve">
-    <value>Source case field</value>	
+    <value>Campo de caso origen</value>	
   </data>
 	<data name="Enum.MarkerType.TargetCaseField" xml:space="preserve">
-    <value>Target case field</value>	
+    <value>Campo de caso destino</value>	
   </data>
 	<data name="Enum.MarkerType.PayrunResult" xml:space="preserve">
-    <value>Payrun result</value>	
+    <value>Resultado de proceso de nómina</value>	
   </data>
 	<data name="Enum.MarkerType.Collector" xml:space="preserve">
-    <value>Collector</value>	
+    <value>Colector</value>	
   </data>
 	<data name="Enum.MarkerType.WageType" xml:space="preserve">
-    <value>Wage type</value>	
+    <value>Concepto de nómina</value>	
   </data>
 	<data name="Action.ActionSyntax" xml:space="preserve">
-    <value>Action syntax</value>
+    <value>Sintaxis de acción</value>
   </data>
 	<data name="Action.ActionSyntaxHelp" xml:space="preserve">
-    <value>Syntax help</value>
+    <value>Ayuda de sintaxis</value>
   </data>
 	<data name="Action.Actions" xml:space="preserve">
-    <value>Actions</value>
+    <value>Acciones</value>
   </data>
 	<data name="Action.AppendAction" xml:space="preserve">
-    <value>Append action</value>
+    <value>Añadir acción</value>
   </data>
 	<data name="Action.Marker" xml:space="preserve">
-    <value>Marker</value>
+    <value>Marcador</value>
   </data>
 	<data name="Action.ShowActions" xml:space="preserve">
-    <value>Show actions</value>
+    <value>Mostrar acciones</value>
   </data>
 	<data name="Action.LoadingActions" xml:space="preserve">
-    <value>Loading actions</value>
+    <value>Cargando acciones</value>
   </data>
 	<data name="Action.HideActions" xml:space="preserve">
-    <value>Hide actions</value>
+    <value>Ocultar acciones</value>
   </data>
 	<data name="Action.Categories" xml:space="preserve">
-    <value>Categories</value>
+    <value>Categorías</value>
   </data>
 	<data name="Action.Issues" xml:space="preserve">
-    <value>Issues</value>
+    <value>Incidencias</value>
   </data>
 	<data name="Action.MoveDown" xml:space="preserve">
-    <value>Mode down</value>
+    <value>Mover abajo</value>
   </data>
 	<data name="Action.MoveUp" xml:space="preserve">
-    <value>Move up</value>
+    <value>Mover arriba</value>
   </data>
 	<data name="Action.NotAvailable" xml:space="preserve">
-    <value>No action available</value>
+    <value>No hay acciones disponibles</value>
   </data>
 	<data name="Action.Parameters" xml:space="preserve">
-    <value>Parameters</value>
+    <value>Parámetros</value>
   </data>
 	<data name="Action.Source" xml:space="preserve">
-    <value>Source</value>
+    <value>Origen</value>
   </data>
 	<data name="App.About" xml:space="preserve">
-    <value>About</value>
+    <value>Acerca de</value>
   </data>
 	<data name="App.AdminContactError" xml:space="preserve">
-    <value>Please contact your administrator</value>
+    <value>Por favor, contacte a su administrador</value>
   </data>
 	<data name="App.ContactEmail" xml:space="preserve">
-    <value>Contact Email</value>
+    <value>Correo de contacto</value>
   </data>
 	<data name="App.BackendVersion" xml:space="preserve">
-    <value>Backend-Server: v{version}</value>
+    <value>Servidor Backend: v{version}</value>
   </data>
 	<data name="App.CollapseGroups" xml:space="preserve">
-    <value>Collapse groups</value>
+    <value>Contraer grupos</value>
   </data>
 	<data name="App.CompactView" xml:space="preserve">
-    <value>Compact view</value>
+    <value>Vista compacta</value>
   </data>
 	<data name="App.Copyright" xml:space="preserve">
     <value>Copyright {owner}</value>
   </data>
 	<data name="App.DarkMode" xml:space="preserve">
-    <value>Dark mode</value>
+    <value>Modo oscuro</value>
   </data>
 	<data name="App.ExpandGroups" xml:space="preserve">
-    <value>Expand groups</value>
+    <value>Expandir grupos</value>
   </data>
 	<data name="App.LightMode" xml:space="preserve">
-    <value>Light mode</value>
+    <value>Modo claro</value>
   </data>
 	<data name="App.Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Cerrar sesión</value>
   </data>
 	<data name="App.MissingFeatures" xml:space="preserve">
-    <value>No features available</value>
+    <value>No hay funciones disponibles</value>
   </data>
 	<data name="App.SelectEmployee" xml:space="preserve">
-    <value>Please select an employee</value>
+    <value>Por favor, seleccione un empleado</value>
   </data>
 	<data name="App.SelectPayroll" xml:space="preserve">
-    <value>Please select a payroll</value>
+    <value>Por favor, seleccione un Payroll</value>
   </data>
 	<data name="App.SelectPayrollWithPayrun" xml:space="preserve">
-    <value>Please select a payroll with a payrun</value>
+    <value>Por favor, seleccione un Payroll con un proceso de nómina</value>
   </data>
 	<data name="App.SelectPayrun" xml:space="preserve">
-    <value>Please select a payrun</value>
+    <value>Por favor, seleccione un proceso de nómina</value>
   </data>
 	<data name="App.SelectTenant" xml:space="preserve">
-    <value>Please select a tenant</value>
+    <value>Por favor, seleccione un inquilino</value>
   </data>
 	<data name="App.ToggleSidebar" xml:space="preserve">
-    <value>Toggle sidebar</value>
+    <value>Alternar barra lateral</value>
   </data>
 	<data name="App.WebAppVersion" xml:space="preserve">
-    <value>Web-Application: v{version}</value>
+    <value>Aplicación web: v{version}</value>
   </data>
 	<data name="Attribute.Attribute" xml:space="preserve">
-    <value>Attribute</value>
+    <value>Atributo</value>
   </data>
 	<data name="Attribute.Attributes" xml:space="preserve">
-    <value>Attributes</value>
+    <value>Atributos</value>
   </data>
 	<data name="Attribute.NotAvailable" xml:space="preserve">
-    <value>No attributes available</value>
+    <value>No hay atributos disponibles</value>
   </data>
 	<data name="Calendar.Calendar" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Calendario</value>
   </data>
 	<data name="Calendar.Calendars" xml:space="preserve">
-    <value>Calendars</value>
+    <value>Calendarios</value>
   </data>
 	<data name="Calendar.CycleTimeUnit" xml:space="preserve">
-    <value>Cycle time unit</value>
+    <value>Unidad de tiempo del ciclo</value>
   </data>
 	<data name="Calendar.FirstDayOfWeek" xml:space="preserve">
-    <value>First day of week</value>
+    <value>Primer día de la semana</value>
   </data>
 	<data name="Calendar.FirstMonthOfYear" xml:space="preserve">
-    <value>First month of year</value>
+    <value>Primer mes del año</value>
   </data>
 	<data name="Calendar.PeriodDayCount" xml:space="preserve">
-    <value>Period day count</value>
+    <value>Días del período</value>
   </data>
 	<data name="Calendar.NotAvailable" xml:space="preserve">
-    <value>No calendars available</value>
+    <value>No hay calendarios disponibles</value>
   </data>
 	<data name="Calendar.PeriodTimeUnit" xml:space="preserve">
-    <value>Period time unit</value>
+    <value>Unidad de tiempo del período</value>
   </data>
 	<data name="Calendar.TimeMap" xml:space="preserve">
-    <value>Calendar time map</value>
+    <value>Mapa temporal del calendario</value>
   </data>
 	<data name="Calendar.WeekMode" xml:space="preserve">
-    <value>Week mode</value>
+    <value>Modo de semana</value>
   </data>
 	<data name="Calendar.YearWeekRule" xml:space="preserve">
-    <value>Calendar week rule</value>
+    <value>Regla de semana del calendario</value>
   </data>
 	<data name="Case.AvailableActions" xml:space="preserve">
-    <value>Available actions</value>
+    <value>Acciones disponibles</value>
   </data>
 	<data name="Case.AvailableExpression" xml:space="preserve">
-    <value>Available expression</value>
+    <value>Expresión de disponibilidad</value>
   </data>
 	<data name="Case.AvailableScript" xml:space="preserve">
-    <value>Available script</value>
+    <value>Script de disponibilidad</value>
   </data>
 	<data name="Case.BaseCase" xml:space="preserve">
-    <value>Base case</value>
+    <value>Caso base</value>
   </data>
 	<data name="Case.BaseCaseField" xml:space="preserve">
-    <value>Base case field</value>
+    <value>Campo de caso base</value>
   </data>
 	<data name="Case.BaseCaseFields" xml:space="preserve">
-    <value>Base case fields</value>
+    <value>Campos de caso base</value>
   </data>
 	<data name="Case.BuildActions" xml:space="preserve">
-    <value>Build actions</value>
+    <value>Acciones de construcción</value>
   </data>
 	<data name="Case.BuildExpression" xml:space="preserve">
-    <value>Build expression</value>
+    <value>Expresión de construcción</value>
   </data>
 	<data name="Case.BuildScript" xml:space="preserve">
-    <value>Build script</value>
+    <value>Script de construcción</value>
   </data>
 	<data name="Case.CancellationType" xml:space="preserve">
-    <value>Cancellation type</value>
+    <value>Tipo de cancelación</value>
   </data>
 	<data name="Case.ProcessLevel" xml:space="preserve">
-    <value>Process level</value>
+    <value>Nivel de proceso</value>
   </data>
 	<data name="Case.Case" xml:space="preserve">
-    <value>Case</value>
+    <value>Caso</value>
   </data>
 	<data name="Case.Cases" xml:space="preserve">
-    <value>Cases</value>
+    <value>Casos</value>
   </data>
 	<data name="Case.CaseType" xml:space="preserve">
-    <value>Case type</value>
+    <value>Tipo de caso</value>
   </data>
 	<data name="Case.ChangeHistory" xml:space="preserve">
-    <value>Change history</value>
+    <value>Historial de cambios</value>
   </data>
 	<data name="Case.CompanyCases" xml:space="preserve">
-    <value>Company cases</value>
+    <value>Casos de empresa</value>
   </data>
 	<data name="Case.DefaultReason" xml:space="preserve">
-    <value>Default reason</value>
+    <value>Motivo predeterminado</value>
   </data>
 	<data name="Case.EmployeeCases" xml:space="preserve">
-    <value>Employee cases</value>
+    <value>Casos de empleado</value>
   </data>
 	<data name="Case.GlobalCases" xml:space="preserve">
-    <value>Global cases</value>
+    <value>Casos globales</value>
   </data>
 	<data name="Case.NationalCases" xml:space="preserve">
-    <value>National cases</value>
+    <value>Casos nacionales</value>
   </data>
 	<data name="Case.NotAvailable" xml:space="preserve">
-    <value>No cases available</value>
+    <value>No hay casos disponibles</value>
   </data>
 	<data name="Case.SearchCase" xml:space="preserve">
-    <value>Search case {case}</value>
+    <value>Buscar caso {case}</value>
   </data>
 	<data name="Case.Slots" xml:space="preserve">
     <value>Slots</value>
   </data>
 	<data name="Case.StartCase" xml:space="preserve">
-    <value>Start case {case}</value>
+    <value>Iniciar caso {case}</value>
   </data>
 	<data name="Case.UndoCase" xml:space="preserve">
-    <value>Case with undo</value>
+    <value>Caso con deshacer</value>
   </data>
 	<data name="Case.ValidateActions" xml:space="preserve">
-    <value>Validate actions</value>
+    <value>Acciones de validación</value>
   </data>
 	<data name="Case.ValidateExpression" xml:space="preserve">
-    <value>Validate expression</value>
+    <value>Expresión de validación</value>
   </data>
 	<data name="Case.ValidateScript" xml:space="preserve">
-    <value>Validate script</value>
+    <value>Script de validación</value>
   </data>
 	<data name="CaseChange.CaseChange" xml:space="preserve">
-    <value>Case change</value>
+    <value>Cambio de caso</value>
   </data>
 	<data name="CaseChange.CaseChanges" xml:space="preserve">
-    <value>Case changes</value>
+    <value>Cambios de caso</value>
   </data>
 	<data name="CaseChange.EmptyCaseChange" xml:space="preserve">
-    <value>Case change without values</value>
+    <value>Cambio de caso sin valores</value>
   </data>
 	<data name="CaseChange.NotAvailable" xml:space="preserve">
-    <value>No case changes available</value>
+    <value>No hay cambios de caso disponibles</value>
   </data>
 	<data name="CaseChange.Reason" xml:space="preserve">
-    <value>Reason</value>
+    <value>Motivo</value>
   </data>
 	<data name="CaseChange.Undo" xml:space="preserve">
-    <value>Undo</value>
+    <value>Deshacer</value>
   </data>
 	<data name="CaseChange.UndoCancelGroup" xml:space="preserve">
-    <value>Undo • {date}</value>
+    <value>Deshacer • {date}</value>
   </data>
 	<data name="CaseChange.UndoCaseChange" xml:space="preserve">
-    <value>Undo case</value>
+    <value>Deshacer caso</value>
   </data>
 	<data name="CaseChange.UndoError" xml:space="preserve">
-    <value>Undo error for case {case}</value>
+    <value>Error al deshacer el caso {case}</value>
   </data>
 	<data name="CaseChange.UndoQuery" xml:space="preserve">
-    <value>Undo case {case}?</value>
+    <value>¿Deshacer caso {case}?</value>
   </data>
 	<data name="CaseChange.UndoSuccess" xml:space="preserve">
-    <value>Undo successful for case {case}</value>
+    <value>Deshacer exitoso para el caso {case}</value>
   </data>
 	<data name="CaseField.CancellationMode" xml:space="preserve">
-    <value>Cancellation mode</value>
+    <value>Modo de cancelación</value>
   </data>
 	<data name="CaseField.CaseField" xml:space="preserve">
-    <value>Case field</value>
+    <value>Campo de caso</value>
   </data>
 	<data name="CaseField.CaseFields" xml:space="preserve">
-    <value>Case fields</value>
+    <value>Campos de caso</value>
   </data>
 	<data name="CaseField.DefaultEnd" xml:space="preserve">
-    <value>Default end</value>
+    <value>Fin predeterminado</value>
   </data>
 	<data name="CaseField.DefaultStart" xml:space="preserve">
-    <value>Default start</value>
+    <value>Inicio predeterminado</value>
   </data>
 	<data name="CaseField.DefaultValue" xml:space="preserve">
-    <value>Default value</value>
+    <value>Valor predeterminado</value>
   </data>
 	<data name="CaseField.EndDateType" xml:space="preserve">
-    <value>End date type</value>
+    <value>Tipo de fecha de fin</value>
   </data>
 	<data name="CaseField.EndMandatory" xml:space="preserve">
-    <value>End mandatory</value>
+    <value>Fin obligatorio</value>
   </data>
 	<data name="CaseField.LookupSettings" xml:space="preserve">
-    <value>Lookup settings</value>
+    <value>Configuración de Lookup</value>
   </data>
 	<data name="CaseField.LookupSettingsRemoved" xml:space="preserve">
-    <value>Lookup settings removed</value>
+    <value>Configuración de Lookup eliminada</value>
   </data>
 	<data name="CaseField.StartDateType" xml:space="preserve">
-    <value>Start date type</value>
+    <value>Tipo de fecha de inicio</value>
   </data>
 	<data name="CaseField.TimeGroup" xml:space="preserve">
-    <value>Time</value>
+    <value>Tiempo</value>
   </data>
 	<data name="CaseField.TimeType" xml:space="preserve">
-    <value>Time type</value>
+    <value>Tipo de tiempo</value>
   </data>
 	<data name="CaseField.TimeUnit" xml:space="preserve">
-    <value>Time unit</value>
+    <value>Unidad de tiempo</value>
   </data>
 	<data name="CaseField.ValueCreationMode" xml:space="preserve">
-    <value>Value creation mode</value>
+    <value>Modo de creación de valor</value>
   </data>
 	<data name="CaseField.ValueMandatory" xml:space="preserve">
-    <value>Value mandatory</value>
+    <value>Valor obligatorio</value>
   </data>
 	<data name="CaseField.ValueScope" xml:space="preserve">
-    <value>Value scope</value>
+    <value>Ámbito del valor</value>
   </data>
 	<data name="CaseRelation.BuildActions" xml:space="preserve">
-    <value>Build actions</value>
+    <value>Acciones de construcción</value>
   </data>
 	<data name="CaseRelation.BuildExpression" xml:space="preserve">
-    <value>Build expression</value>
+    <value>Expresión de construcción</value>
   </data>
 	<data name="CaseRelation.CaseRelation" xml:space="preserve">
-    <value>Case relation</value>
+    <value>Relación de caso</value>
   </data>
 	<data name="CaseRelation.CaseRelations" xml:space="preserve">
-    <value>Case relations</value>
+    <value>Relaciones de caso</value>
   </data>
 	<data name="CaseRelation.Relation" xml:space="preserve">
-    <value>Relation</value>
+    <value>Relación</value>
   </data>
 	<data name="CaseRelation.SourceCaseName" xml:space="preserve">
-    <value>Source case name</value>
+    <value>Nombre del caso origen</value>
   </data>
 	<data name="CaseRelation.SourceCaseSlot" xml:space="preserve">
-    <value>Source case slot</value>
+    <value>Slot del caso origen</value>
   </data>
 	<data name="CaseRelation.TargetCaseName" xml:space="preserve">
-    <value>Target case  name</value>
+    <value>Nombre del caso destino</value>
   </data>
 	<data name="CaseRelation.TargetCaseSlot" xml:space="preserve">
-    <value>Target case  slot</value>
+    <value>Slot del caso destino</value>
   </data>
 	<data name="CaseRelation.ValidateActions" xml:space="preserve">
-    <value>Validate actions</value>
+    <value>Acciones de validación</value>
   </data>
 	<data name="CaseRelation.ValidateExpression" xml:space="preserve">
-    <value>Validate expression</value>
+    <value>Expresión de validación</value>
   </data>
 	<data name="CaseRelation.SourceEqualsTargetError" xml:space="preserve">
-    <value>Target case can not be the source case.</value>
+    <value>El caso destino no puede ser el caso origen.</value>
   </data>
 	<data name="CaseSlot.CaseSlot" xml:space="preserve">
-    <value>Case slot</value>
+    <value>Slot de caso</value>
   </data>
 	<data name="CaseSlot.CaseSlots" xml:space="preserve">
-    <value>Case slots</value>
+    <value>Slots de caso</value>
   </data>
 	<data name="CaseSlot.Localizations" xml:space="preserve">
-    <value>Case slot localizations</value>
+    <value>Localizaciones de slot de caso</value>
   </data>
 	<data name="CaseSlot.NotAvailable" xml:space="preserve">
-    <value>No case slot available</value>
+    <value>No hay slots de caso disponibles</value>
   </data>
 	<data name="CaseValue.CaseValue" xml:space="preserve">
-    <value>Case value</value>
+    <value>Valor de caso</value>
   </data>
 	<data name="CaseValue.CaseValues" xml:space="preserve">
-    <value>Case values</value>
+    <value>Valores de caso</value>
   </data>
 	<data name="CaseValue.NotAvailable" xml:space="preserve">
-    <value>No case value available</value>
+    <value>No hay valores de caso disponibles</value>
   </data>
 	<data name="ClusterSet.ClusterSet" xml:space="preserve">
-    <value>Cluster set</value>
+    <value>Conjunto de Cluster</value>
   </data>
 	<data name="ClusterSet.ClusterSets" xml:space="preserve">
-    <value>Cluster sets</value>
+    <value>Conjuntos de Cluster</value>
   </data>
 	<data name="ClusterSet.NotAvailable" xml:space="preserve">
-    <value>No cluster sets available</value>
+    <value>No hay conjuntos de Cluster disponibles</value>
   </data>
 	<data name="Collector.ApplyExpression" xml:space="preserve">
-    <value>Apply expression</value>
+    <value>Expresión de aplicación</value>
   </data>
 	<data name="Collector.Collector" xml:space="preserve">
-    <value>Collector</value>
+    <value>Colector</value>
   </data>
 	<data name="Collector.Collectors" xml:space="preserve">
-    <value>Collectors</value>
+    <value>Colectores</value>
   </data>
 	<data name="Collector.CollectMode" xml:space="preserve">
-    <value>Collect mode</value>
+    <value>Modo de recopilación</value>
   </data>
 	<data name="Collector.EndExpression" xml:space="preserve">
-    <value>End expression</value>
+    <value>Expresión de fin</value>
   </data>
 	<data name="Collector.MaxResult" xml:space="preserve">
-    <value>Max result</value>
+    <value>Resultado máximo</value>
   </data>
 	<data name="Collector.MinResult" xml:space="preserve">
-    <value>Min result</value>
+    <value>Resultado mínimo</value>
   </data>
 	<data name="Collector.StartExpression" xml:space="preserve">
-    <value>Start expression</value>
+    <value>Expresión de inicio</value>
   </data>
 	<data name="Collector.StartActions" xml:space="preserve">
-    <value>Start actions</value>
+    <value>Acciones de inicio</value>
   </data>
 	<data name="Collector.ApplyActions" xml:space="preserve">
-    <value>Apply actions</value>
+    <value>Acciones de aplicación</value>
   </data>
 	<data name="Collector.EndActions" xml:space="preserve">
-    <value>End actions</value>
+    <value>Acciones de fin</value>
   </data>
 	<data name="Collector.Threshold" xml:space="preserve">
-    <value>Threshold</value>
+    <value>Umbral</value>
   </data>
 	<data name="Dialog.AddTitle" xml:space="preserve">
-    <value>Create {0}</value>
+    <value>Crear {0}</value>
   </data>
 	<data name="Dialog.Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
 	<data name="Dialog.Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Cerrar</value>
   </data>
 	<data name="Dialog.Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Eliminar</value>
   </data>
 	<data name="Dialog.EditTitle" xml:space="preserve">
-    <value>Edit {0}</value>
+    <value>Editar {0}</value>
   </data>
 	<data name="Dialog.Ok" xml:space="preserve">
-    <value>Ok</value>
+    <value>Aceptar</value>
   </data>
 	<data name="Division.Division" xml:space="preserve">
-    <value>Division</value>
+    <value>División</value>
   </data>
 	<data name="Division.Divisions" xml:space="preserve">
-    <value>Divisions</value>
+    <value>Divisiones</value>
   </data>
 	<data name="Division.NotAvailable" xml:space="preserve">
-    <value>No divisions available</value>
+    <value>No hay divisiones disponibles</value>
   </data>
 	<data name="Document.ClearContent" xml:space="preserve">
-    <value>Clear content</value>
+    <value>Borrar contenido</value>
   </data>
 	<data name="Document.ClearContentQuery" xml:space="preserve">
-    <value>Delete content (length {bytes})?</value>
+    <value>¿Eliminar contenido (tamaño {bytes})?</value>
   </data>
 	<data name="Document.ContentReplaceQuery" xml:space="preserve">
-    <value>Replace content?</value>
+    <value>¿Reemplazar contenido?</value>
   </data>
 	<data name="Document.ContentUnchanged" xml:space="preserve">
-    <value>Document {document} unchanged</value>
+    <value>Documento {document} sin cambios</value>
   </data>
 	<data name="Document.ContentUpload" xml:space="preserve">
-    <value>Content upload</value>
+    <value>Carga de contenido</value>
   </data>
 	<data name="Document.ContentUploaded" xml:space="preserve">
-    <value>Content {document} uploaded</value>
+    <value>Contenido {document} cargado</value>
   </data>
 	<data name="Document.Document" xml:space="preserve">
-    <value>Document</value>
+    <value>Documento</value>
   </data>
 	<data name="Document.DocumentRemoved" xml:space="preserve">
-    <value>Document removed</value>
+    <value>Documento eliminado</value>
   </data>
 	<data name="Document.Documents" xml:space="preserve">
-    <value>Documents</value>
+    <value>Documentos</value>
   </data>
 	<data name="Document.FileSize" xml:space="preserve">
-    <value>Size {bytes}</value>
+    <value>Tamaño {bytes}</value>
   </data>
 	<data name="Document.NotAvailable" xml:space="preserve">
-    <value>No documents available</value>
+    <value>No hay documentos disponibles</value>
   </data>
 	<data name="Document.Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>Reemplazar</value>
   </data>
 	<data name="Employee.AllEmployees" xml:space="preserve">
-    <value>All {count} employees</value>
+    <value>Todos los {count} empleados</value>
   </data>
 	<data name="Employee.Employee" xml:space="preserve">
-    <value>Employee</value>
+    <value>Empleado</value>
   </data>
 	<data name="Employee.Employees" xml:space="preserve">
-    <value>Employees</value>
+    <value>Empleados</value>
   </data>
 	<data name="Employee.FirstName" xml:space="preserve">
-    <value>First name</value>
+    <value>Nombre</value>
   </data>
 	<data name="Employee.LastName" xml:space="preserve">
-    <value>Last name</value>
+    <value>Apellido</value>
   </data>
 	<data name="Employee.NotAvailable" xml:space="preserve">
-    <value>No employees available</value>
+    <value>No hay empleados disponibles</value>
   </data>
 	<data name="Employee.OneEmployee" xml:space="preserve">
-    <value>1 employee</value>
+    <value>1 empleado</value>
   </data>
 	<data name="Employee.SelectedEmployees" xml:space="preserve">
-    <value>{selected} of {total} employees</value>
+    <value>{selected} de {total} empleados</value>
   </data>
 	<data name="Error.EmptyActionField" xml:space="preserve">
-    <value>Field {field} has no actions.</value>
+    <value>El campo {field} no tiene acciones.</value>
   </data>
 	<data name="Error.EmptyCollection" xml:space="preserve">
-    <value>Empty collection.</value>
+    <value>Colección vacía.</value>
   </data>
 	<data name="Error.RequiredField" xml:space="preserve">
-    <value>{field} is required.</value>
+    <value>{field} es obligatorio.</value>
   </data>
 	<data name="Error.FileDownloadError" xml:space="preserve">
-    <value>Download error.</value>
+    <value>Error de descarga.</value>
   </data>
 	<data name="Error.FileUploadError" xml:space="preserve">
-    <value>File upload error.</value>
+    <value>Error al cargar el archivo.</value>
   </data>
 	<data name="Error.ItemUnknown" xml:space="preserve">
-    <value>Unknown {type} {item}.</value>
+    <value>{type} {item} desconocido.</value>
   </data>
 	<data name="Error.JsonFormatError" xml:space="preserve">
-    <value>Json format error.</value>
+    <value>Error de formato Json.</value>
   </data>
 	<data name="Error.MissingEmployee" xml:space="preserve">
-    <value>Please ensure an existing employee with identifier {identifier}.</value>
+    <value>Asegúrese de que existe un empleado con el identificador {identifier}.</value>
   </data>
 	<data name="Error.UniqueConflict" xml:space="preserve">
-    <value>{key} already in use.</value>
+    <value>{key} ya está en uso.</value>
   </data>
 	<data name="Forecast.Copy" xml:space="preserve">
-    <value>Forecast copy</value>
+    <value>Copia de previsión</value>
   </data>
 	<data name="Forecast.CopyQuery" xml:space="preserve">
-    <value>Replace all forecast values?</value>
+    <value>¿Reemplazar todos los valores de previsión?</value>
   </data>
 	<data name="Forecast.CopyToForecast" xml:space="preserve">
-    <value>Copy job to forecast</value>
+    <value>Copiar trabajo a previsión</value>
   </data>
 	<data name="Forecast.Forecast" xml:space="preserve">
-    <value>Forecast</value>
+    <value>Previsión</value>
   </data>
 	<data name="Forecast.JobHistory" xml:space="preserve">
-    <value>Job history</value>
+    <value>Historial de trabajos</value>
   </data>
 	<data name="Forecast.JobName" xml:space="preserve">
-    <value>Forecast name</value>
+    <value>Nombre de previsión</value>
   </data>
 	<data name="Forecast.JobNotSupported" xml:space="preserve">
-    <value>Forecast payrun jobs not supported</value>
+    <value>Trabajos de proceso de nómina de previsión no soportados</value>
   </data>
 	<data name="Forecast.JobPeriod" xml:space="preserve">
-    <value>Forecast period</value>
+    <value>Período de previsión</value>
   </data>
 	<data name="Forecast.JobDate" xml:space="preserve">
-    <value>Forecast date</value>
+    <value>Fecha de previsión</value>
   </data>
 	<data name="Forecast.Name" xml:space="preserve">
-    <value>Forecast name</value>
+    <value>Nombre de previsión</value>
   </data>
 	<data name="Forecast.NotAvailable" xml:space="preserve">
-    <value>No forecasts available</value>
+    <value>No hay previsiones disponibles</value>
   </data>
 	<data name="Forecast.PayrunJob" xml:space="preserve">
-    <value>Forecast payrun job</value>
+    <value>Trabajo de proceso de nómina de previsión</value>
   </data>
 	<data name="Forecast.StartForecastPayrun" xml:space="preserve">
-    <value>Start forecast payrun</value>
+    <value>Iniciar proceso de nómina de previsión</value>
   </data>
 	<data name="Item.Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Añadir</value>
   </data>
 	<data name="Item.Added" xml:space="preserve">
-    <value>{item} added</value>
+    <value>{item} añadido</value>
   </data>
 	<data name="Item.AddHelp" xml:space="preserve">
-    <value>Add new {item}</value>
+    <value>Añadir nuevo {item}</value>
   </data>
 	<data name="Item.AddTitle" xml:space="preserve">
-    <value>Add {item}</value>
+    <value>Añadir {item}</value>
   </data>
 	<data name="Item.Create" xml:space="preserve">
-    <value>Create</value>
+    <value>Crear</value>
   </data>
 	<data name="Item.Created" xml:space="preserve">
-    <value>{item} created</value>
+    <value>{item} creado</value>
   </data>
 	<data name="Item.CreateHelp" xml:space="preserve">
-    <value>Create new {item}</value>
+    <value>Crear nuevo {item}</value>
   </data>
 	<data name="Item.CreateTitle" xml:space="preserve">
-    <value>Create {item}</value>
+    <value>Crear {item}</value>
   </data>
 	<data name="Item.Derived" xml:space="preserve">
-    <value>Created derived copy of {item}</value>
+    <value>Copia derivada de {item} creada</value>
   </data>
 	<data name="Item.BaseField" xml:space="preserve">
     <value>base</value>
   </data>
 	<data name="Item.CSharpExpression" xml:space="preserve">
-    <value>C# expression</value>
+    <value>Expresión C#</value>
   </data>
 	<data name="Item.Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Eliminar</value>
   </data>
 	<data name="Item.Deleted" xml:space="preserve">
-    <value>{item} deleted</value>
+    <value>{item} eliminado</value>
   </data>
 	<data name="Item.DeleteHelp" xml:space="preserve">
-    <value>Delete {item}</value>
+    <value>Eliminar {item}</value>
   </data>
 	<data name="Item.UndoHelp" xml:space="preserve">
-    <value>Undo {item}</value>
+    <value>Deshacer {item}</value>
   </data>
 	<data name="Item.DeleteMarkupQuery" xml:space="preserve">
-    <value>Delete &lt;b&gt;{item}&lt;/b&gt; permanently?</value>
+    <value>¿Eliminar &lt;b&gt;{item}&lt;/b&gt; permanentemente?</value>
   </data>
 	<data name="Item.DeleteQuery" xml:space="preserve">
-    <value>Delete {item} permanently?</value>
+    <value>¿Eliminar {item} permanentemente?</value>
   </data>
 	<data name="Item.DeleteTitle" xml:space="preserve">
-    <value>Delete {item}</value>
+    <value>Eliminar {item}</value>
   </data>
 	<data name="Item.DeriveHelp" xml:space="preserve">
-    <value>Derive {item}</value>
+    <value>Derivar {item}</value>
   </data>
 	<data name="Item.Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Editar</value>
   </data>
 	<data name="Item.EditHelp" xml:space="preserve">
-    <value>Edit {item}</value>
+    <value>Editar {item}</value>
   </data>
 	<data name="Item.EditTitle" xml:space="preserve">
-    <value>Edit {item}</value>
+    <value>Editar {item}</value>
   </data>
 	<data name="Item.InitOnlyField" xml:space="preserve">
-    <value>init-only</value>
+    <value>solo inicialización</value>
   </data>
 	<data name="Item.NotAvailable" xml:space="preserve">
-    <value>No {item} available</value>
+    <value>No hay {item} disponibles</value>
   </data>
 	<data name="Item.ReadOnlyField" xml:space="preserve">
-    <value>read-only</value>
+    <value>solo lectura</value>
   </data>
 	<data name="Item.Remove" xml:space="preserve">
-    <value>Remove</value>
+    <value>Quitar</value>
   </data>
 	<data name="Item.RemoveAll" xml:space="preserve">
-    <value>Remove all</value>
+    <value>Quitar todos</value>
   </data>
 	<data name="Item.SelectToChange" xml:space="preserve">
-    <value>Select an item to view and edit it.</value>
+    <value>Seleccione un elemento para verlo y editarlo.</value>
   </data>
 	<data name="Item.RemoveQuery" xml:space="preserve">
-    <value>Remove {item}?</value>
+    <value>¿Quitar {item}?</value>
   </data>
 	<data name="Item.RemoveHelp" xml:space="preserve">
-    <value>Remove {item}</value>
+    <value>Quitar {item}</value>
   </data>
 	<data name="Item.Removed" xml:space="preserve">
-    <value>Removed {item}</value>
+    <value>{item} quitado</value>
   </data>
 	<data name="Item.SaveHelp" xml:space="preserve">
-    <value>Save {item}</value>
+    <value>Guardar {item}</value>
   </data>
 	<data name="Item.Saved" xml:space="preserve">
-    <value>{item} saved</value>
+    <value>{item} guardado</value>
   </data>
 	<data name="Item.SelectParent" xml:space="preserve">
-    <value>Select {item}</value>
+    <value>Seleccionar {item}</value>
   </data>
 	<data name="Item.Updated" xml:space="preserve">
-    <value>{item} updated</value>
+    <value>{item} actualizado</value>
   </data>
 	<data name="Localization.DialogTitle" xml:space="preserve">
-    <value>{localization} localizations</value>
+    <value>Localizaciones de {localization}</value>
   </data>
 	<data name="Localization.Localization" xml:space="preserve">
-    <value>Localization</value>
+    <value>Localización</value>
   </data>
 	<data name="Localization.LocalizationBase" xml:space="preserve">
-    <value>Localization base</value>
+    <value>Base de localización</value>
   </data>
 	<data name="Localization.Localizations" xml:space="preserve">
-    <value>Localizations</value>
+    <value>Localizaciones</value>
   </data>
 	<data name="Localization.NotAvailable" xml:space="preserve">
-    <value>No localizations available</value>
+    <value>No hay localizaciones disponibles</value>
   </data>
 	<data name="Log.Comment" xml:space="preserve">
-    <value>Comment</value>
+    <value>Comentario</value>
   </data>
 	<data name="Log.Level" xml:space="preserve">
-    <value>Level</value>
+    <value>Nivel</value>
   </data>
 	<data name="Log.Log" xml:space="preserve">
-    <value>Log</value>
+    <value>Registro</value>
   </data>
 	<data name="Log.Logs" xml:space="preserve">
-    <value>Logs</value>
+    <value>Registros</value>
   </data>
 	<data name="Log.Message" xml:space="preserve">
-    <value>Message</value>
+    <value>Mensaje</value>
   </data>
 	<data name="Log.NotAvailable" xml:space="preserve">
-    <value>No logs available</value>
+    <value>No hay registros disponibles</value>
   </data>
 	<data name="Log.OwnerType" xml:space="preserve">
-    <value>Owner type</value>
+    <value>Tipo de propietario</value>
   </data>
 	<data name="Login.Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Iniciar sesión</value>
   </data>
 	<data name="Login.NewPasswordTitle" xml:space="preserve">
-    <value>Create new password</value>
+    <value>Crear nueva contraseña</value>
   </data>
 	<data name="Login.Password" xml:space="preserve">
-    <value>Password</value>
+    <value>Contraseña</value>
   </data>
 	<data name="Login.PasswordInfo" xml:space="preserve">
-    <value>Password: 1 digit, 1 lowercase, 1 uppercase, 1 special character and minimum 8 characters</value>
+    <value>Contraseña: 1 dígito, 1 minúscula, 1 mayúscula, 1 carácter especial y mínimo 8 caracteres</value>
   </data>
 	<data name="Login.TenantHelp" xml:space="preserve">
-    <value>Please select a tenant</value>
+    <value>Por favor, seleccione un inquilino</value>
   </data>
 	<data name="Login.UserHelp" xml:space="preserve">
-    <value>Please enter your identification</value>
+    <value>Por favor, introduzca su identificación</value>
   </data>
 	<data name="Lookup.Lookup" xml:space="preserve">
     <value>Lookup</value>
   </data>
 	<data name="Lookup.LookupName" xml:space="preserve">
-    <value>Lookup name</value>
+    <value>Nombre de Lookup</value>
   </data>
 	<data name="Lookup.Lookups" xml:space="preserve">
     <value>Lookups</value>
   </data>
 	<data name="Lookup.RangeSize" xml:space="preserve">
-    <value>Range size</value>
+    <value>Tamaño del rango</value>
   </data>
 	<data name="Lookup.TextFieldName" xml:space="preserve">
-    <value>Text field name</value>
+    <value>Nombre del campo de texto</value>
   </data>
 	<data name="Lookup.ValueFieldName" xml:space="preserve">
-    <value>Value field name</value>
+    <value>Nombre del campo de valor</value>
   </data>
 	<data name="LookupValue.LookupValue" xml:space="preserve">
-    <value>Lookup value</value>
+    <value>Valor de Lookup</value>
   </data>
 	<data name="LookupValue.LookupValues" xml:space="preserve">
-    <value>Lookup values</value>
+    <value>Valores de Lookup</value>
   </data>
 	<data name="LookupValue.RangeValue" xml:space="preserve">
-    <value>Range value</value>
+    <value>Valor de rango</value>
   </data>
 	<data name="Payroll.CollectorRetro" xml:space="preserve">
-    <value>Collector retro</value>
+    <value>Colector retroactivo</value>
   </data>
 	<data name="Payroll.NotAvailable" xml:space="preserve">
-    <value>No payroll available</value>
+    <value>No hay Payroll disponible</value>
   </data>
 	<data name="Payroll.Payroll" xml:space="preserve">
     <value>Payroll</value>
@@ -1418,331 +1418,331 @@
     <value>Payrolls</value>
   </data>
 	<data name="Payroll.WageTypePeriod" xml:space="preserve">
-    <value>Wage type period</value>
+    <value>Período del concepto de nómina</value>
   </data>
 	<data name="Payroll.WageTypeRetro" xml:space="preserve">
-    <value>Wage type retro</value>
+    <value>Concepto de nómina retroactivo</value>
   </data>
 	<data name="PayrollLayer.DefaultLevel" xml:space="preserve">
-    <value>Default level is 1</value>
+    <value>El nivel predeterminado es 1</value>
   </data>
 	<data name="PayrollLayer.InvalidBaseRegulation" xml:space="preserve">
-    <value>Invalid base regulation</value>
+    <value>Regulación base no válida</value>
   </data>
 	<data name="PayrollLayer.InvalidPayrollRegulation" xml:space="preserve">
-    <value>No regulations available, please add a regulation to the payroll.</value>
+    <value>No hay regulaciones disponibles, por favor añada una regulación al Payroll.</value>
   </data>
 	<data name="PayrollLayer.Level" xml:space="preserve">
-    <value>Level</value>
+    <value>Nivel</value>
   </data>
 	<data name="PayrollLayer.MissingBaseRegulation" xml:space="preserve">
-    <value>Missing base regulation {regulation}</value>
+    <value>Regulación base faltante {regulation}</value>
   </data>
 	<data name="PayrollLayer.MissingRegulation" xml:space="preserve">
-    <value>Missing regulation {regulation}</value>
+    <value>Regulación faltante {regulation}</value>
   </data>
 	<data name="PayrollLayer.NextLevelHelp" xml:space="preserve">
-    <value>Set the next free level</value>
+    <value>Establecer el siguiente nivel libre</value>
   </data>
 	<data name="PayrollLayer.NextPriorityHelp" xml:space="preserve">
-    <value>Set the next free priority</value>
+    <value>Establecer la siguiente prioridad libre</value>
   </data>
 	<data name="PayrollLayer.PayrollLayer" xml:space="preserve">
-    <value>Payroll layer</value>
+    <value>Capa de Payroll</value>
   </data>
 	<data name="PayrollLayer.PayrollLayers" xml:space="preserve">
-    <value>Payroll layers</value>
+    <value>Capas de Payroll</value>
   </data>
 	<data name="PayrollLayer.Priority" xml:space="preserve">
-    <value>Priority</value>
+    <value>Prioridad</value>
   </data>
 	<data name="PayrollLayer.RuleLevelMin" xml:space="preserve">
-    <value>Level must be 1 or greater</value>
+    <value>El nivel debe ser 1 o mayor</value>
   </data>
 	<data name="PayrollLayer.RulePriorityMin" xml:space="preserve">
-    <value>Priority must be 1 or greater</value>
+    <value>La prioridad debe ser 1 o mayor</value>
   </data>
 	<data name="Payrun.DefaultReason" xml:space="preserve">
-    <value>Default reason</value>
+    <value>Motivo predeterminado</value>
   </data>
 	<data name="Payrun.EmployeeAvailableExpression" xml:space="preserve">
-    <value>Employee available expression</value>
+    <value>Expresión de disponibilidad de empleado</value>
   </data>
 	<data name="Payrun.EmployeeEndExpression" xml:space="preserve">
-    <value>Employee end expression</value>
+    <value>Expresión de fin de empleado</value>
   </data>
 	<data name="Payrun.EmployeeStartExpression" xml:space="preserve">
-    <value>Employee start expression</value>
+    <value>Expresión de inicio de empleado</value>
   </data>
 	<data name="Payrun.EndExpression" xml:space="preserve">
-    <value>End expression</value>
+    <value>Expresión de fin</value>
   </data>
 	<data name="Payrun.Expressions" xml:space="preserve">
-    <value>Expressions</value>
+    <value>Expresiones</value>
   </data>
 	<data name="Payrun.NotAvailable" xml:space="preserve">
-    <value>No payruns available</value>
+    <value>No hay procesos de nómina disponibles</value>
   </data>
 	<data name="Payrun.Parameters" xml:space="preserve">
-    <value>Parameters</value>
+    <value>Parámetros</value>
   </data>
 	<data name="Payrun.Payrun" xml:space="preserve">
-    <value>Payrun</value>
+    <value>Proceso de nómina</value>
   </data>
 	<data name="Payrun.Payruns" xml:space="preserve">
-    <value>Payruns</value>
+    <value>Procesos de nómina</value>
   </data>
 	<data name="Payrun.RetroTimeType" xml:space="preserve">
-    <value>Retro time type</value>
+    <value>Tipo de tiempo retroactivo</value>
   </data>
 	<data name="Payrun.StartExpression" xml:space="preserve">
-    <value>Start expression</value>
+    <value>Expresión de inicio</value>
   </data>
 	<data name="Payrun.UnknownPayrun" xml:space="preserve">
-    <value>Unknown payrun {payrun}</value>
+    <value>Proceso de nómina desconocido {payrun}</value>
   </data>
 	<data name="Payrun.WageTypeAvailableExpression" xml:space="preserve">
-    <value>Wage type available expression</value>
+    <value>Expresión de disponibilidad de concepto de nómina</value>
   </data>
 	<data name="PayrunJob.Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>Copiar</value>
   </data>
 	<data name="PayrunJob.DefaultReason" xml:space="preserve">
-    <value>Change to status {status}</value>
+    <value>Cambio al estado {status}</value>
   </data>
 	<data name="PayrunJob.JobCompleted" xml:space="preserve">
-    <value>Payrun job completed successfully</value>
+    <value>Trabajo de proceso de nómina completado exitosamente</value>
   </data>
 	<data name="PayrunJob.JobDate" xml:space="preserve">
-    <value>Job date</value>
+    <value>Fecha del trabajo</value>
   </data>
 	<data name="PayrunJob.JobProcessing" xml:space="preserve">
-    <value>Completed {percent}%</value>
+    <value>Completado {percent}%</value>
   </data>
 	<data name="PayrunJob.JobFailed" xml:space="preserve">
-    <value>Payrun job execution failed</value>
+    <value>Error en la ejecución del trabajo de proceso de nómina</value>
   </data>
 	<data name="PayrunJob.JobHistory" xml:space="preserve">
-    <value>History</value>
+    <value>Historial</value>
   </data>
 	<data name="PayrunJob.EvaluationDate" xml:space="preserve">
-    <value>Evaluation date</value>
+    <value>Fecha de evaluación</value>
   </data>
 	<data name="PayrunJob.JobName" xml:space="preserve">
-    <value>Name</value>
+    <value>Nombre</value>
   </data>
 	<data name="PayrunJob.JobPeriod" xml:space="preserve">
-    <value>Period</value>
+    <value>Período</value>
   </data>
 	<data name="PayrunJob.JobReason" xml:space="preserve">
-    <value>Reason</value>
+    <value>Motivo</value>
   </data>
 	<data name="PayrunJob.JobResults" xml:space="preserve">
-    <value>Job results</value>
+    <value>Resultados del trabajo</value>
   </data>
 	<data name="PayrunJob.JobStart" xml:space="preserve">
-    <value>Start</value>
+    <value>Inicio</value>
   </data>
 	<data name="PayrunJob.JobStatus" xml:space="preserve">
-    <value>Status</value>
+    <value>Estado</value>
   </data>
 	<data name="PayrunJob.JobValidationFailed" xml:space="preserve">
-    <value>Payrun job validation failed</value>
+    <value>Error en la validación del trabajo de proceso de nómina</value>
   </data>
 	<data name="PayrunJob.Legal" xml:space="preserve">
     <value>Legal</value>
   </data>
 	<data name="PayrunJob.MissingJobPeriod" xml:space="preserve">
-    <value>Missing job period</value>
+    <value>Período del trabajo faltante</value>
   </data>
 	<data name="PayrunJob.MissingJobReason" xml:space="preserve">
-    <value>Missing job reason</value>
+    <value>Motivo del trabajo faltante</value>
   </data>
 	<data name="PayrunJob.New" xml:space="preserve">
-    <value>New</value>
+    <value>Nuevo</value>
   </data>
 	<data name="PayrunJob.NotAvailable" xml:space="preserve">
-    <value>No payrun jobs available</value>
+    <value>No hay trabajos de proceso de nómina disponibles</value>
   </data>
 	<data name="PayrunJob.PayrunJob" xml:space="preserve">
-    <value>Payrun job</value>
+    <value>Trabajo de proceso de nómina</value>
   </data>
 	<data name="PayrunJob.PayrunJobs" xml:space="preserve">
-    <value>Payrun jobs</value>
+    <value>Trabajos de proceso de nómina</value>
   </data>
 	<data name="PayrunJob.ShowJobDetails" xml:space="preserve">
-    <value>Show job details</value>
+    <value>Mostrar detalles del trabajo</value>
   </data>
 	<data name="PayrunJob.StartPayrun" xml:space="preserve">
-    <value>Start payrun</value>
+    <value>Iniciar proceso de nómina</value>
   </data>
 	<data name="PayrunJob.StatusChanged" xml:space="preserve">
-    <value>Changed payrun job status to {status}</value>
+    <value>Estado del trabajo de proceso de nómina cambiado a {status}</value>
   </data>
 	<data name="PayrunJob.ChangeStatusQuery" xml:space="preserve">
-    <value>Changed job status from «{source}» to «{target}»?</value>
+    <value>¿Cambiar estado del trabajo de «{source}» a «{target}»?</value>
   </data>
 	<data name="PayrunParameter.CountParameters" xml:space="preserve">
-    <value>{count} parameters</value>
+    <value>{count} parámetros</value>
   </data>
 	<data name="PayrunParameter.NoParameters" xml:space="preserve">
-    <value>No parameters</value>
+    <value>Sin parámetros</value>
   </data>
 	<data name="PayrunParameter.NotAvailable" xml:space="preserve">
-    <value>No payrun parameters available</value>
+    <value>No hay parámetros de proceso de nómina disponibles</value>
   </data>
 	<data name="PayrunParameter.PayrunParameter" xml:space="preserve">
-    <value>Payrun parameter</value>
+    <value>Parámetro de proceso de nómina</value>
   </data>
 	<data name="PayrunParameter.PayrunParameters" xml:space="preserve">
-    <value>Payrun parameters</value>
+    <value>Parámetros de proceso de nómina</value>
   </data>
 	<data name="PayrunResult.KindName" xml:space="preserve">
-    <value>Name</value>
+    <value>Nombre</value>
   </data>
 	<data name="PayrunResult.NotAvailable" xml:space="preserve">
-    <value>No payrun results available</value>
+    <value>No hay resultados de proceso de nómina disponibles</value>
   </data>
 	<data name="PayrunResult.PayrunResult" xml:space="preserve">
-    <value>Payrun result</value>
+    <value>Resultado de proceso de nómina</value>
   </data>
 	<data name="PayrunResult.PayrunResults" xml:space="preserve">
-    <value>Payrun results</value>
+    <value>Resultados de proceso de nómina</value>
   </data>
 	<data name="PayrunResult.Period" xml:space="preserve">
-    <value>Period</value>
+    <value>Período</value>
   </data>
 	<data name="PayrunResult.ResultKind" xml:space="preserve">
-    <value>Result type</value>
+    <value>Tipo de resultado</value>
   </data>
 	<data name="Shared.NumericValue" xml:space="preserve">
-    <value># Value</value>
+    <value># Valor</value>
   </data>
 	<data name="Regulation.InheritanceBase" xml:space="preserve">
     <value>Base</value>
   </data>
 	<data name="Regulation.InheritanceDerived" xml:space="preserve">
-    <value>Derived</value>
+    <value>Derivado</value>
   </data>
 	<data name="Regulation.InheritanceNew" xml:space="preserve">
-    <value>New</value>
+    <value>Nuevo</value>
   </data>
 	<data name="Regulation.Missing" xml:space="preserve">
-    <value>Please create the regulation before</value>
+    <value>Por favor, cree primero la regulación</value>
   </data>
 	<data name="Regulation.NotAvailable" xml:space="preserve">
-    <value>No regulations available</value>
+    <value>No hay regulaciones disponibles</value>
   </data>
 	<data name="Regulation.Regulation" xml:space="preserve">
-    <value>Regulation</value>
+    <value>Regulación</value>
   </data>
 	<data name="Regulation.Regulations" xml:space="preserve">
-    <value>Regulations</value>
+    <value>Regulaciones</value>
   </data>
 	<data name="Regulation.SharedRegulation" xml:space="preserve">
-    <value>Shared regulation</value>
+    <value>Regulación compartida</value>
   </data>
 	<data name="Regulation.ValidFrom" xml:space="preserve">
-    <value>Valid from</value>
+    <value>Válido desde</value>
   </data>
 	<data name="Regulation.Namespace" xml:space="preserve">
-    <value>Namespace</value>
+    <value>Espacio de nombres</value>
   </data>
 	<data name="Regulation.Version" xml:space="preserve">
-    <value>Version</value>
+    <value>Versión</value>
   </data>
 	<data name="RegulationShare.ConsumerDivision" xml:space="preserve">
-    <value>Consumer division</value>
+    <value>División consumidora</value>
   </data>
 	<data name="RegulationShare.ConsumerTenant" xml:space="preserve">
-    <value>Consumer tenant</value>
+    <value>Inquilino consumidor</value>
   </data>
 	<data name="RegulationShare.MissingTenants" xml:space="preserve">
-    <value>Missing tenants</value>
+    <value>Inquilinos faltantes</value>
   </data>
 	<data name="RegulationShare.MissingDivisions" xml:space="preserve">
-    <value>Missing divisions</value>
+    <value>Divisiones faltantes</value>
   </data>
 	<data name="RegulationShare.MissingSharedRegulations" xml:space="preserve">
-    <value>Missing shared regulations</value>
+    <value>Regulaciones compartidas faltantes</value>
   </data>
 	<data name="RegulationShare.MissingShares" xml:space="preserve">
-    <value>Please select a tenant with shared regulations</value>
+    <value>Por favor, seleccione un inquilino con regulaciones compartidas</value>
   </data>
 	<data name="RegulationShare.NotAvailable" xml:space="preserve">
-    <value>No regulation shares available</value>
+    <value>No hay regulaciones compartidas disponibles</value>
   </data>
 	<data name="RegulationShare.ProviderRegulation" xml:space="preserve">
-    <value>Provider regulation</value>
+    <value>Regulación del proveedor</value>
   </data>
 	<data name="RegulationShare.ProviderTenant" xml:space="preserve">
-    <value>Provider tenant</value>
+    <value>Inquilino proveedor</value>
   </data>
 	<data name="RegulationShare.RegulationShare" xml:space="preserve">
-    <value>Regulation share</value>
+    <value>Regulación compartida</value>
   </data>
 	<data name="RegulationShare.RegulationShares" xml:space="preserve">
-    <value>Regulation shares</value>
+    <value>Regulaciones compartidas</value>
   </data>
 	<data name="RegulationShare.IsolationLevel" xml:space="preserve">
-    <value>Isolation level</value>
+    <value>Nivel de aislamiento</value>
   </data>
 	<data name="Report.AttributeMode" xml:space="preserve">
-    <value>Attribute mode</value>
+    <value>Modo de atributo</value>
   </data>
 	<data name="Report.BuildExpression" xml:space="preserve">
-    <value>Build expression</value>
+    <value>Expresión de construcción</value>
   </data>
 	<data name="Report.Category" xml:space="preserve">
-    <value>Category</value>
+    <value>Categoría</value>
   </data>
 	<data name="Report.EndExpression" xml:space="preserve">
-    <value>End expression</value>
+    <value>Expresión de fin</value>
   </data>
 	<data name="Report.Excel" xml:space="preserve">
     <value>Excel</value>
   </data>
 	<data name="Report.ExecutionError" xml:space="preserve">
-    <value>Report execution failure</value>
+    <value>Error en la ejecución del informe</value>
   </data>
 	<data name="Report.NotAvailable" xml:space="preserve">
-    <value>No reports available</value>
+    <value>No hay informes disponibles</value>
   </data>
 	<data name="Report.Pdf" xml:space="preserve">
     <value>Pdf</value>
   </data>
 	<data name="Report.BuildingReport" xml:space="preserve">
-    <value>Building report...</value>
+    <value>Generando informe...</value>
   </data>
 	<data name="Report.Relation" xml:space="preserve">
-    <value>Relation</value>
+    <value>Relación</value>
   </data>
 	<data name="Report.RelationChildColumn" xml:space="preserve">
-    <value>Child column</value>
+    <value>Columna hija</value>
   </data>
 	<data name="Report.RelationChildTable" xml:space="preserve">
-    <value>Child table</value>
+    <value>Tabla hija</value>
   </data>
 	<data name="Report.RelationNotAvailable" xml:space="preserve">
-    <value>No relations available</value>
+    <value>No hay relaciones disponibles</value>
   </data>
 	<data name="Report.RelationParentColumn" xml:space="preserve">
-    <value>Parent column</value>
+    <value>Columna padre</value>
   </data>
 	<data name="Report.RelationParentTable" xml:space="preserve">
-    <value>Parent table</value>
+    <value>Tabla padre</value>
   </data>
 	<data name="Report.Relations" xml:space="preserve">
-    <value>Relations</value>
+    <value>Relaciones</value>
   </data>
 	<data name="Report.Report" xml:space="preserve">
-    <value>Report</value>
+    <value>Informe</value>
   </data>
 	<data name="Report.Reports" xml:space="preserve">
-    <value>Reports</value>
+    <value>Informes</value>
   </data>
 	<data name="Report.StartExpression" xml:space="preserve">
-    <value>Start expression</value>
+    <value>Expresión de inicio</value>
   </data>
 	<data name="Report.Word" xml:space="preserve">
     <value>Word</value>
@@ -1754,64 +1754,64 @@
     <value>XML</value>
   </data>
 	<data name="ReportLog.Message" xml:space="preserve">
-    <value>Message</value>
+    <value>Mensaje</value>
   </data>
 	<data name="ReportLog.NotAvailable" xml:space="preserve">
-    <value>No report logs available</value>
+    <value>No hay registros de informe disponibles</value>
   </data>
 	<data name="ReportLog.ReportDate" xml:space="preserve">
-    <value>Report date</value>
+    <value>Fecha del informe</value>
   </data>
 	<data name="ReportLog.ReportLog" xml:space="preserve">
-    <value>Report log</value>
+    <value>Registro de informe</value>
   </data>
 	<data name="ReportLog.ReportLogs" xml:space="preserve">
-    <value>Report logs</value>
+    <value>Registros de informe</value>
   </data>
 	<data name="ReportParameter.ParameterType" xml:space="preserve">
-    <value>Parameter type</value>
+    <value>Tipo de parámetro</value>
   </data>
 	<data name="ReportParameter.ReportParameter" xml:space="preserve">
-    <value>Report parameter</value>
+    <value>Parámetro de informe</value>
   </data>
 	<data name="ReportParameter.ReportParameters" xml:space="preserve">
-    <value>Report parameters</value>
+    <value>Parámetros de informe</value>
   </data>
 	<data name="ReportQuery.NotAvailable" xml:space="preserve">
-    <value>No report queries available</value>
+    <value>No hay consultas de informe disponibles</value>
   </data>
 	<data name="ReportQuery.ReportQuery" xml:space="preserve">
-    <value>Report query</value>
+    <value>Consulta de informe</value>
   </data>
 	<data name="ReportQuery.ReportQuerys" xml:space="preserve">
-    <value>Report queries</value>
+    <value>Consultas de informe</value>
   </data>
 	<data name="ReportTemplate.Content" xml:space="preserve">
-    <value>Content</value>
+    <value>Contenido</value>
   </data>
 	<data name="ReportTemplate.ContentType" xml:space="preserve">
-    <value>Content type</value>
+    <value>Tipo de contenido</value>
   </data>
 	<data name="ReportTemplate.ReportTemplate" xml:space="preserve">
-    <value>Report template</value>
+    <value>Plantilla de informe</value>
   </data>
 	<data name="ReportTemplate.ReportTemplates" xml:space="preserve">
-    <value>Report templates</value>
+    <value>Plantillas de informe</value>
   </data>
 	<data name="ReportTemplate.Resource" xml:space="preserve">
-    <value>Resource</value>
+    <value>Recurso</value>
   </data>
 	<data name="ReportTemplate.MissingContentError" xml:space="preserve">
-    <value>Missing template content.</value>
+    <value>Contenido de plantilla faltante.</value>
   </data>
 	<data name="ReportTemplate.Schema" xml:space="preserve">
-    <value>Schema</value>
+    <value>Esquema</value>
   </data>
 	<data name="Script.FunctionTypes" xml:space="preserve">
-    <value>Function types</value>
+    <value>Tipos de función</value>
   </data>
 	<data name="Script.FunctionCount" xml:space="preserve">
-    <value>{count} functions</value>
+    <value>{count} funciones</value>
   </data>
 	<data name="Script.Script" xml:space="preserve">
     <value>Script</value>
@@ -1820,268 +1820,268 @@
     <value>Scripts</value>
   </data>
 	<data name="Script.SingleFunction" xml:space="preserve">
-    <value>1 function</value>
+    <value>1 función</value>
   </data>
 	<data name="Shared,Text" xml:space="preserve">
-    <value>Text</value>
+    <value>Texto</value>
   </data>
 	<data name="Shared.All" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
 	<data name="Shared.Calendar" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Calendario</value>
   </data>
 	<data name="Shared.Clusters" xml:space="preserve">
     <value>Clusters</value>
   </data>
 	<data name="Shared.CommonFields" xml:space="preserve">
-    <value>Common</value>
+    <value>Común</value>
   </data>
 	<data name="Shared.Properties" xml:space="preserve">
-    <value>Properties</value>
+    <value>Propiedades</value>
   </data>
 	<data name="Shared.Property" xml:space="preserve">
-    <value>Property</value>
+    <value>Propiedad</value>
   </data>
 	<data name="Shared.Culture" xml:space="preserve">
-    <value>Culture</value>
+    <value>Cultura</value>
   </data>
 	<data name="Shared.Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Descripción</value>
   </data>
 	<data name="Shared.DownloadCompleted" xml:space="preserve">
-    <value>Download completed</value>
+    <value>Descarga completada</value>
   </data>
 	<data name="Shared.End" xml:space="preserve">
-    <value>End</value>
+    <value>Fin</value>
   </data>
 	<data name="Shared.ExcelDownload" xml:space="preserve">
-    <value>Excel download</value>
+    <value>Descarga Excel</value>
   </data>
 	<data name="Shared.FeaturesAdmin" xml:space="preserve">
-    <value>Administration</value>
+    <value>Administración</value>
   </data>
 	<data name="Shared.FeaturesSystem" xml:space="preserve">
-    <value>System</value>
+    <value>Sistema</value>
   </data>
 	<data name="Shared.Field" xml:space="preserve">
-    <value>Field</value>
+    <value>Campo</value>
   </data>
 	<data name="Shared.FilterReset" xml:space="preserve">
-    <value>Filter reset</value>
+    <value>Restablecer filtro</value>
   </data>
 	<data name="Shared.Identifier" xml:space="preserve">
-    <value>Identifier</value>
+    <value>Identificador</value>
   </data>
 	<data name="Shared.ImmediateChanges" xml:space="preserve">
-    <value>Changes are applied immediately</value>
+    <value>Los cambios se aplican inmediatamente</value>
   </data>
 	<data name="Shared.Immutable" xml:space="preserve">
-    <value>Immutable</value>
+    <value>Inmutable</value>
   </data>
 	<data name="Shared.Inheritance" xml:space="preserve">
-    <value>Inheritance</value>
+    <value>Herencia</value>
   </data>
 	<data name="Shared.JsonReformat" xml:space="preserve">
-    <value>Json reformat</value>
+    <value>Reformatear Json</value>
   </data>
 	<data name="Shared.Key" xml:space="preserve">
-    <value>Key</value>
+    <value>Clave</value>
   </data>
 	<data name="Shared.Language" xml:space="preserve">
-    <value>Language</value>
+    <value>Idioma</value>
   </data>
 	<data name="Shared.Mandatory" xml:space="preserve">
-    <value>Mandatory</value>
+    <value>Obligatorio</value>
   </data>
 	<data name="Shared.Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nombre</value>
   </data>
 	<data name="Shared.None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
 	<data name="Shared.NotAvailable" xml:space="preserve">
-    <value>Not available</value>
+    <value>No disponible</value>
   </data>
 	<data name="Shared.ObjectCreated" xml:space="preserve">
-    <value>Created</value>
+    <value>Creado</value>
   </data>
 	<data name="Shared.ObjectId" xml:space="preserve">
     <value>Id</value>
   </data>
 	<data name="Shared.ObjectStatus" xml:space="preserve">
-    <value>Status</value>
+    <value>Estado</value>
   </data>
 	<data name="Shared.ObjectUpdated" xml:space="preserve">
-    <value>Updated</value>
+    <value>Actualizado</value>
   </data>
 	<data name="Shared.Order" xml:space="preserve">
-    <value>Order</value>
+    <value>Orden</value>
   </data>
 	<data name="Shared.OverrideType" xml:space="preserve">
-    <value>Override type</value>
+    <value>Tipo de anulación</value>
   </data>
 	<data name="Shared.Owner" xml:space="preserve">
-    <value>Owner</value>
+    <value>Propietario</value>
   </data>
 	<data name="Shared.SelectAll" xml:space="preserve">
-    <value>Select all</value>
+    <value>Seleccionar todo</value>
   </data>
 	<data name="Shared.Start" xml:space="preserve">
-    <value>Start</value>
+    <value>Inicio</value>
   </data>
 	<data name="Shared.Tags" xml:space="preserve">
     <value>Tags</value>
   </data>
 	<data name="Shared.Type" xml:space="preserve">
-    <value>Type</value>
+    <value>Tipo</value>
   </data>
 	<data name="Shared.Value" xml:space="preserve">
-    <value>Value</value>
+    <value>Valor</value>
   </data>
 	<data name="Shared.ValueType" xml:space="preserve">
-    <value>Value type</value>
+    <value>Tipo de valor</value>
   </data>
 	<data name="Storage.Cleared" xml:space="preserve">
-    <value>Storage cleared</value>
+    <value>Almacenamiento borrado</value>
   </data>
 	<data name="Storage.ClearQuery" xml:space="preserve">
-    <value>Remove all {count} storage items?</value>
+    <value>¿Eliminar todos los {count} elementos de almacenamiento?</value>
   </data>
 	<data name="Storage.ClearStorage" xml:space="preserve">
-    <value>Clear storage</value>
+    <value>Borrar almacenamiento</value>
   </data>
 	<data name="Storage.NotAvailable" xml:space="preserve">
-    <value>No storage items available</value>
+    <value>No hay elementos de almacenamiento disponibles</value>
   </data>
 	<data name="Storage.Storage" xml:space="preserve">
-    <value>User storage</value>
+    <value>Almacenamiento de usuario</value>
   </data>
 	<data name="Storage.StorageItem" xml:space="preserve">
-    <value>Storage item</value>
+    <value>Elemento de almacenamiento</value>
   </data>
 	<data name="Task.Category" xml:space="preserve">
-    <value>Category</value>
+    <value>Categoría</value>
   </data>
 	<data name="Task.Complete" xml:space="preserve">
-    <value>Complete</value>
+    <value>Completar</value>
   </data>
 	<data name="Task.CompletedDate" xml:space="preserve">
-    <value>Completed date</value>
+    <value>Fecha de finalización</value>
   </data>
 	<data name="Task.CompleteToggle" xml:space="preserve">
-    <value>Show completed</value>
+    <value>Mostrar completados</value>
   </data>
 	<data name="Task.CompleteToggleHelp" xml:space="preserve">
-    <value>Show or hide completed tasks</value>
+    <value>Mostrar u ocultar tareas completadas</value>
   </data>
 	<data name="Task.Instruction" xml:space="preserve">
-    <value>Instruction</value>
+    <value>Instrucción</value>
   </data>
 	<data name="Task.NotAvailable" xml:space="preserve">
-    <value>No tasks available</value>
+    <value>No hay tareas disponibles</value>
   </data>
 	<data name="Task.ScheduledDate" xml:space="preserve">
-    <value>Scheduled date</value>
+    <value>Fecha programada</value>
   </data>
 	<data name="Task.Task" xml:space="preserve">
-    <value>Task</value>
+    <value>Tarea</value>
   </data>
 	<data name="Task.Tasks" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Tareas</value>
   </data>
 	<data name="Tenant.NotAvailable" xml:space="preserve">
-    <value>No tenants available</value>
+    <value>No hay inquilinos disponibles</value>
   </data>
 	<data name="Tenant.Tenant" xml:space="preserve">
-    <value>Tenant</value>
+    <value>Inquilino</value>
   </data>
 	<data name="Tenant.Tenants" xml:space="preserve">
-    <value>Tenants</value>
+    <value>Inquilinos</value>
   </data>
 	<data name="User.ChangePasswordButton" xml:space="preserve">
-    <value>Change</value>
+    <value>Cambiar</value>
   </data>
 	<data name="User.ChangePasswordTitle" xml:space="preserve">
-    <value>Change password</value>
+    <value>Cambiar contraseña</value>
   </data>
 	<data name="User.ExistingPassword" xml:space="preserve">
-    <value>Existing password</value>
+    <value>Contraseña actual</value>
   </data>
 	<data name="User.ExistingPasswordHelp" xml:space="preserve">
-    <value>Please enter your existing password</value>
+    <value>Por favor, introduzca su contraseña actual</value>
   </data>
 	<data name="User.Features" xml:space="preserve">
-    <value>Features</value>
+    <value>Funciones</value>
   </data>
 	<data name="User.FirstName" xml:space="preserve">
-    <value>First name</value>
+    <value>Nombre</value>
   </data>
 	<data name="User.LastName" xml:space="preserve">
-    <value>Last name</value>
+    <value>Apellido</value>
   </data>
 	<data name="User.NewPassword" xml:space="preserve">
-    <value>New password</value>
+    <value>Nueva contraseña</value>
   </data>
 	<data name="User.NewPasswordHelp" xml:space="preserve">
-    <value>Please enter new password</value>
+    <value>Por favor, introduzca la nueva contraseña</value>
   </data>
 	<data name="User.NewPasswordRepeat" xml:space="preserve">
-    <value>Repeat password</value>
+    <value>Repetir contraseña</value>
   </data>
 	<data name="User.NewPasswordRepeatHelp" xml:space="preserve">
-    <value>Please repeat new password</value>
+    <value>Por favor, repita la nueva contraseña</value>
   </data>
 	<data name="User.NotAvailable" xml:space="preserve">
-    <value>No users available</value>
+    <value>No hay usuarios disponibles</value>
   </data>
 	<data name="User.ShowPassword" xml:space="preserve">
-    <value>Show password</value>
+    <value>Mostrar contraseña</value>
   </data>
 	<data name="User.User" xml:space="preserve">
-    <value>User</value>
+    <value>Usuario</value>
   </data>
 	<data name="User.Users" xml:space="preserve">
-    <value>Users</value>
+    <value>Usuarios</value>
   </data>
 	<data name="User.UserSettings" xml:space="preserve">
-    <value>User settings</value>
+    <value>Configuración de usuario</value>
   </data>
 	<data name="User.UserType" xml:space="preserve">
-    <value>User type</value>
+    <value>Tipo de usuario</value>
   </data>
 	<data name="WageType.CollectorGroups" xml:space="preserve">
-    <value>Collector groups</value>
+    <value>Grupos de colectores</value>
   </data>
 	<data name="WageType.ResultExpression" xml:space="preserve">
-    <value>Result expression</value>
+    <value>Expresión de resultado</value>
   </data>
 	<data name="WageType.ValueExpression" xml:space="preserve">
-    <value>Value expression</value>
+    <value>Expresión de valor</value>
   </data>
 	<data name="WageType.ResultActions" xml:space="preserve">
-    <value>Result actions</value>
+    <value>Acciones de resultado</value>
   </data>
 	<data name="WageType.ValueActions" xml:space="preserve">
-    <value>Value actions</value>
+    <value>Acciones de valor</value>
   </data>
 	<data name="WageType.WageType" xml:space="preserve">
-    <value>Wage type</value>
+    <value>Concepto de nómina</value>
   </data>
 	<data name="WageType.WageTypeNumber" xml:space="preserve">
-    <value>Wage type number</value>
+    <value>Número de concepto de nómina</value>
   </data>
 	<data name="WageType.WageTypes" xml:space="preserve">
-    <value>Wage types</value>
+    <value>Conceptos de nómina</value>
   </data>
 	<data name="Webhook.Action" xml:space="preserve">
-    <value>Action</value>
+    <value>Acción</value>
   </data>
 	<data name="Webhook.NotAvailable" xml:space="preserve">
-    <value>No webhooks available</value>
+    <value>No hay Webhooks disponibles</value>
   </data>
 	<data name="Webhook.ReceiverAddress" xml:space="preserve">
-    <value>Receiver address</value>
+    <value>Dirección del receptor</value>
   </data>
 	<data name="Webhook.Webhook" xml:space="preserve">
     <value>Webhook</value>
@@ -2090,229 +2090,229 @@
     <value>Webhooks</value>
   </data>
 	<data name="WebhookMessage.NotAvailable" xml:space="preserve">
-    <value>No webhook messages available</value>
+    <value>No hay mensajes de Webhook disponibles</value>
   </data>
 	<data name="WebhookMessage.RequestDate" xml:space="preserve">
-    <value>Request date</value>
+    <value>Fecha de solicitud</value>
   </data>
 	<data name="WebhookMessage.RequestMessage" xml:space="preserve">
-    <value>Request message</value>
+    <value>Mensaje de solicitud</value>
   </data>
 	<data name="WebhookMessage.RequestOperation" xml:space="preserve">
-    <value>Request operation</value>
+    <value>Operación de solicitud</value>
   </data>
 	<data name="WebhookMessage.ResponseDate" xml:space="preserve">
-    <value>Response date</value>
+    <value>Fecha de respuesta</value>
   </data>
 	<data name="WebhookMessage.ResponseMessage" xml:space="preserve">
-    <value>Response message</value>
+    <value>Mensaje de respuesta</value>
   </data>
 	<data name="WebhookMessage.ResponseStatus" xml:space="preserve">
-    <value>Response status</value>
+    <value>Estado de respuesta</value>
   </data>
 	<data name="WebhookMessage.WebhookMessage" xml:space="preserve">
-    <value>Webhook message</value>
+    <value>Mensaje de Webhook</value>
   </data>
 	<data name="WebhookMessage.WebhookMessages" xml:space="preserve">
-    <value>Webhook messages</value>
+    <value>Mensajes de Webhook</value>
   </data>
 	<data name="App.AccessDenied" xml:space="preserve">
-    <value>Access denied</value>
+    <value>Acceso denegado</value>
   </data>
 	<data name="Calendar.Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Día</value>
   </data>
 	<data name="Calendar.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Mes</value>
   </data>
 	<data name="Calendar.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Año</value>
   </data>
 	<data name="Case.AvailableCases" xml:space="preserve">
-    <value>Available cases</value>
+    <value>Casos disponibles</value>
   </data>
 	<data name="Case.CaseWithoutFields" xml:space="preserve">
-    <value>Case without fields</value>
+    <value>Caso sin campos</value>
   </data>
 	<data name="Case.SelectCase" xml:space="preserve">
-    <value>Please select a case</value>
+    <value>Por favor, seleccione un caso</value>
   </data>
 	<data name="CaseChange.CaseChangeGroup" xml:space="preserve">
-    <value>Case change {group}</value>
+    <value>Cambio de caso {group}</value>
   </data>
 	<data name="CaseField.FieldDocuments" xml:space="preserve">
-    <value>Field documents</value>
+    <value>Documentos del campo</value>
   </data>
 	<data name="ClusterSet.ExcludeClusters" xml:space="preserve">
-    <value>Exclude clusters</value>
+    <value>Excluir Clusters</value>
   </data>
 	<data name="ClusterSet.IncludeClusters" xml:space="preserve">
-    <value>Include clusters</value>
+    <value>Incluir Clusters</value>
   </data>
 	<data name="Document.Attachments" xml:space="preserve">
-    <value>Attachments</value>
+    <value>Adjuntos</value>
   </data>
 	<data name="Document.ContentType" xml:space="preserve">
-    <value>Content type</value>
+    <value>Tipo de contenido</value>
   </data>
 	<data name="Document.DownloadTitle" xml:space="preserve">
-    <value>Download {document}</value>
+    <value>Descargar {document}</value>
   </data>
 	<data name="Error.Error" xml:space="preserve">
     <value>Error</value>
   </data>
 	<data name="Error.MissingMandatoryValue" xml:space="preserve">
-    <value>Value is required.</value>
+    <value>El valor es obligatorio.</value>
   </data>
 	<data name="Item.RemoveTitle" xml:space="preserve">
-    <value>Remove {item}</value>
+    <value>Quitar {item}</value>
   </data>
 	<data name="Shared.CommaSeparatedList" xml:space="preserve">
-    <value>Comma separated list</value>
+    <value>Lista separada por comas</value>
   </data>
 	<data name="Shared.Search" xml:space="preserve">
-    <value>Search</value>
+    <value>Buscar</value>
   </data>
 	<data name="Shared.TrueToggle" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sí</value>
   </data>
 	<data name="Shared.FalseToggle" xml:space="preserve">
     <value>No</value>
   </data>
 	<data name="Report.BuildReport" xml:space="preserve">
-    <value>Build report</value>
+    <value>Generar informe</value>
   </data>
 	<data name="Report.EmptyReport" xml:space="preserve">
-    <value>Report without data</value>
+    <value>Informe sin datos</value>
   </data>
 	<data name="Report.EmptyXml" xml:space="preserve">
-    <value>Empty XML report {report}</value>
+    <value>Informe XML vacío {report}</value>
   </data>
 	<data name="Report.TemplateNotAvailable" xml:space="preserve">
-    <value>Report {report} not available in {culture}</value>
+    <value>Informe {report} no disponible en {culture}</value>
   </data>
 	<data name="Report.XmlValidationError" xml:space="preserve">
-    <value>Invalid XML report {report}, please check the XSD schema</value>
+    <value>Informe XML no válido {report}, por favor verifique el esquema XSD</value>
   </data>
 	<data name="DataGrid.AddFilter" xml:space="preserve">
-    <value>Add filter</value>
+    <value>Añadir filtro</value>
   </data>
 	<data name="DataGrid.Apply" xml:space="preserve">
-    <value>Apply</value>
+    <value>Aplicar</value>
   </data>
 	<data name="DataGrid.Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Borrar</value>
   </data>
 	<data name="DataGrid.ClearFilter" xml:space="preserve">
-    <value>Clear Filter</value>
+    <value>Borrar filtro</value>
   </data>
 	<data name="DataGrid.CollapseAllGroups" xml:space="preserve">
-    <value>Collapse all groups</value>
+    <value>Contraer todos los grupos</value>
   </data>
 	<data name="DataGrid.Column" xml:space="preserve">
-    <value>Column</value>
+    <value>Columna</value>
   </data>
 	<data name="DataGrid.Columns" xml:space="preserve">
-    <value>Columns</value>
+    <value>Columnas</value>
   </data>
 	<data name="DataGrid.Contains" xml:space="preserve">
-    <value>contains</value>
+    <value>contiene</value>
   </data>
 	<data name="DataGrid.EndsWith" xml:space="preserve">
-    <value>ends with</value>
+    <value>termina con</value>
   </data>
 	<data name="DataGrid.Equals" xml:space="preserve">
-    <value>equals</value>
+    <value>igual a</value>
   </data>
 	<data name="DataGrid.ExpandAllGroups" xml:space="preserve">
-    <value>Expand all groups</value>
+    <value>Expandir todos los grupos</value>
   </data>
 	<data name="DataGrid.False" xml:space="preserve">
-    <value>false</value>
+    <value>falso</value>
   </data>
 	<data name="DataGrid.Filter" xml:space="preserve">
-    <value>Filter</value>
+    <value>Filtro</value>
   </data>
 	<data name="DataGrid.FilterValue" xml:space="preserve">
-    <value>Filter value</value>
+    <value>Valor del filtro</value>
   </data>
 	<data name="DataGrid.Group" xml:space="preserve">
-    <value>Group</value>
+    <value>Grupo</value>
   </data>
 	<data name="DataGrid.Hide" xml:space="preserve">
-    <value>Hide</value>
+    <value>Ocultar</value>
   </data>
 	<data name="DataGrid.HideAll" xml:space="preserve">
-    <value>Hide All</value>
+    <value>Ocultar todo</value>
   </data>
 	<data name="DataGrid.Is" xml:space="preserve">
-    <value>is</value>
+    <value>es</value>
   </data>
 	<data name="DataGrid.IsAfter" xml:space="preserve">
-    <value>is after</value>
+    <value>es posterior a</value>
   </data>
 	<data name="DataGrid.IsBefore" xml:space="preserve">
-    <value>is before</value>
+    <value>es anterior a</value>
   </data>
 	<data name="DataGrid.IsEmpty" xml:space="preserve">
-    <value>is empty</value>
+    <value>está vacío</value>
   </data>
 	<data name="DataGrid.IsNot" xml:space="preserve">
-    <value>is not</value>
+    <value>no es</value>
   </data>
 	<data name="DataGrid.IsNotEmpty" xml:space="preserve">
-    <value>is not empty</value>
+    <value>no está vacío</value>
   </data>
 	<data name="DataGrid.IsOnOrAfter" xml:space="preserve">
-    <value>is on or after</value>
+    <value>es igual o posterior a</value>
   </data>
 	<data name="DataGrid.IsOnOrBefore" xml:space="preserve">
-    <value>is on or before</value>
+    <value>es igual o anterior a</value>
   </data>
 	<data name="DataGrid.Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Cargando...</value>
   </data>
 	<data name="DataGrid.MoveDown" xml:space="preserve">
-    <value>Move Down</value>
+    <value>Mover abajo</value>
   </data>
 	<data name="DataGrid.MoveUp" xml:space="preserve">
-    <value>Move Up</value>
+    <value>Mover arriba</value>
   </data>
 	<data name="DataGrid.NotContains" xml:space="preserve">
-    <value>not contains</value>
+    <value>no contiene</value>
   </data>
 	<data name="DataGrid.NotEquals" xml:space="preserve">
-    <value>not equals</value>
+    <value>no igual a</value>
   </data>
 	<data name="DataGrid.OpenFilters" xml:space="preserve">
-    <value>Open Filters</value>
+    <value>Abrir filtros</value>
   </data>
 	<data name="DataGrid.Operator" xml:space="preserve">
-    <value>Operator</value>
+    <value>Operador</value>
   </data>
 	<data name="DataGrid.RemoveFilter" xml:space="preserve">
-    <value>Remove Filter</value>
+    <value>Eliminar filtro</value>
   </data>
 	<data name="DataGrid.RefreshData" xml:space="preserve">
-    <value>Refresh data</value>
+    <value>Actualizar datos</value>
   </data>
 	<data name="Dialog.Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Guardar</value>
   </data>
 	<data name="DataGrid.ShowColumnOptions" xml:space="preserve">
-    <value>Show Column Options</value>
+    <value>Mostrar opciones de columna</value>
   </data>
 	<data name="DataGrid.ShowAll" xml:space="preserve">
-    <value>Show all</value>
+    <value>Mostrar todo</value>
   </data>
 	<data name="DataGrid.Sort" xml:space="preserve">
-    <value>Sort</value>
+    <value>Ordenar</value>
   </data>
 	<data name="DataGrid.StartsWith" xml:space="preserve">
-    <value>starts with</value>
+    <value>empieza con</value>
   </data>
 	<data name="DataGrid.ToggleGroupExpansion" xml:space="preserve">
-    <value>Toggle Group Expansion</value>
+    <value>Alternar expansión de grupo</value>
   </data>
 	<data name="DataGrid.SymbolEquals" xml:space="preserve">
     <value>=</value>
@@ -2333,213 +2333,213 @@
     <value>!=</value>
   </data>
 	<data name="DataGrid.True" xml:space="preserve">
-    <value>true</value>
+    <value>verdadero</value>
   </data>
 	<data name="DataGrid.Ungroup" xml:space="preserve">
-    <value>Ungroup</value>
+    <value>Desagrupar</value>
   </data>
 	<data name="DataGrid.Unsort" xml:space="preserve">
-    <value>Unsort</value>
+    <value>Quitar orden</value>
   </data>
 	<data name="DataGridPager.AllItems" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
 	<data name="DataGridPager.FirstPage" xml:space="preserve">
-    <value>First Page</value>
+    <value>Primera página</value>
   </data>
 	<data name="DataGridPager.InfoFormat" xml:space="preserve">
-    <value>{0}-{1} of {2}</value>
+    <value>{0}-{1} de {2}</value>
   </data>
 	<data name="DataGridPager.LastPage" xml:space="preserve">
-    <value>Last Page</value>
+    <value>Última página</value>
   </data>
 	<data name="DataGridPager.NextPage" xml:space="preserve">
-    <value>Next Page</value>
+    <value>Página siguiente</value>
   </data>
 	<data name="DataGridPager.PreviousPage" xml:space="preserve">
-    <value>Previous Page</value>
+    <value>Página anterior</value>
   </data>
 	<data name="DataGridPager.RowsPerPage" xml:space="preserve">
-    <value>Rows per page:</value>
+    <value>Filas por página:</value>
   </data>
 	<data name="Input.Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Borrar</value>
   </data>
 	<data name="Input.Decrement" xml:space="preserve">
-    <value>Decrement</value>
+    <value>Decrementar</value>
   </data>
 	<data name="Input.Increment" xml:space="preserve">
-    <value>Increment</value>
+    <value>Incrementar</value>
   </data>
 	<data name="NavGroup.ToggleExpand" xml:space="preserve">
-    <value>Toggle {0}</value>
+    <value>Alternar {0}</value>
   </data>
 	<data name="SnackBar.Close" xml:space="preserve">
-    <value>Close snackbar</value>
+    <value>Cerrar notificación</value>
   </data>
 	<data name="TimePicker.Open" xml:space="preserve">
-    <value>Open</value>
+    <value>Abrir</value>
   </data>
 	<data name="DatePicker.Open" xml:space="preserve">
-    <value>Open</value>
+    <value>Abrir</value>
   </data>
 	<data name="DatePicker.PrevMonth" xml:space="preserve">
-    <value>Previous month {0}</value>
+    <value>Mes anterior {0}</value>
   </data>
 	<data name="DatePicker.NextMonth" xml:space="preserve">
-    <value>Next month {0}</value>
+    <value>Mes siguiente {0}</value>
   </data>
 	<data name="DatePicker.PrevYear" xml:space="preserve">
-    <value>Previous year {0}</value>
+    <value>Año anterior {0}</value>
   </data>
 	<data name="DatePicker.NextYear" xml:space="preserve">
-    <value>Next year {0}</value>
+    <value>Año siguiente {0}</value>
   </data>
 	<data name="DataGrid.PagerInfoFormat" xml:space="preserve">
-    <value>{first_item}-{last_item} of {all_items}</value>
+    <value>{first_item}-{last_item} de {all_items}</value>
   </data>
 	<data name="DataGrid.PagerRowsPerPage" xml:space="preserve">
-    <value>Rows per page:</value>
+    <value>Filas por página:</value>
   </data>
 	<data name="Calendar.InvalidPeriodTimeUnit" xml:space="preserve">
-    <value>Periods of '{period}' do not fit into the cycle '{cycle}'</value>
+    <value>Los períodos de '{period}' no caben en el ciclo '{cycle}'</value>
   </data>
 	<data name="Calendar.PeriodTimeUnitHelp" xml:space="preserve">
-    <value>Period time unit must fit into the cycle time unit</value>
+    <value>La unidad de tiempo del período debe caber en la unidad de tiempo del ciclo</value>
   </data>
 	<data name="Action.Action" xml:space="preserve">
-    <value>Action</value>
+    <value>Acción</value>
   </data>
 	<data name="Division.CalendarHelp" xml:space="preserve">
-    <value>Override the tenant calendar</value>
+    <value>Anular el calendario del inquilino</value>
   </data>
 	<data name="Division.CultureHelp" xml:space="preserve">
-    <value>Override the tenant culture</value>
+    <value>Anular la cultura del inquilino</value>
   </data>
 	<data name="Employee.CalendarHelp" xml:space="preserve">
-    <value>Override the division calendar</value>
+    <value>Anular el calendario de la división</value>
   </data>
 	<data name="Employee.CultureHelp" xml:space="preserve">
-    <value>Override the division culture</value>
+    <value>Anular la cultura de la división</value>
   </data>
 	<data name="Login.InvalidPassword" xml:space="preserve">
-    <value>Invalid password</value>
+    <value>Contraseña no válida</value>
   </data>
 	<data name="Login.InvalidPasswordConfirmation" xml:space="preserve">
-    <value>Invalid password confirmation</value>
+    <value>Confirmación de contraseña no válida</value>
   </data>
 	<data name="Login.MissingBackendService" xml:space="preserve">
-    <value>The payroll service is not available</value>
+    <value>El servicio de nómina no está disponible</value>
   </data>
 	<data name="Login.PasswordChangeError" xml:space="preserve">
-    <value>Password change error</value>
+    <value>Error al cambiar la contraseña</value>
   </data>
 	<data name="Login.TenantReadError" xml:space="preserve">
-    <value>The tenant selection is currently not available</value>
+    <value>La selección de inquilino no está disponible actualmente</value>
   </data>
 	<data name="Login.UnknownUser" xml:space="preserve">
-    <value>Unknown user {user}</value>
+    <value>Usuario desconocido {user}</value>
   </data>
 	<data name="Login.UserReadError" xml:space="preserve">
-    <value>The user selection is currently not available</value>
+    <value>La selección de usuario no está disponible actualmente</value>
   </data>
 	<data name="Tenant.CalendarHelp" xml:space="preserve">
-    <value>Override the default calendar</value>
+    <value>Anular el calendario predeterminado</value>
   </data>
 	<data name="Tenant.UserTenant" xml:space="preserve">
-    <value>Tenant: {tenant}</value>
+    <value>Inquilino: {tenant}</value>
   </data>
 	<data name="Tenant.CultureHelp" xml:space="preserve">
-    <value>Override the system culture</value>
+    <value>Anular la cultura del sistema</value>
   </data>
 	<data name="CaseField.CultureHelp" xml:space="preserve">
-    <value>RFC 4646 language code: en-US, de-DE...</value>
+    <value>Código de idioma RFC 4646: en-US, de-DE...</value>
   </data>
 	<data name="WageType.CalendarHelp" xml:space="preserve">
-    <value>Wage type calendar</value>
+    <value>Calendario del concepto de nómina</value>
   </data>
 	<data name="Calendar.PeriodDayCountHelp" xml:space="preserve">
-    <value>Override the effective period day count</value>
+    <value>Anular el recuento efectivo de días del período</value>
   </data>
 	<data name="Calendar.PeriodCycleHelp" xml:space="preserve">
-    <value>{count} periods of '{period}' in the cycle '{cycle}'</value>
+    <value>{count} períodos de '{period}' en el ciclo '{cycle}'</value>
   </data>
 	<data name="Case.CaseAdded" xml:space="preserve">
-    <value>Case {case} successfully submitted</value>
+    <value>Caso {case} enviado exitosamente</value>
   </data>
 	<data name="Case.CaseIgnored" xml:space="preserve">
-    <value>No data change, the case {case} was ignored</value>
+    <value>Sin cambio de datos, el caso {case} fue ignorado</value>
   </data>
 	<data name="Case.MissingCase" xml:space="preserve">
-    <value>The case {name} cannot be executed</value>
+    <value>El caso {name} no se puede ejecutar</value>
   </data>
 	<data name="Case.SubmitCase" xml:space="preserve">
-    <value>Submit case</value>
+    <value>Enviar caso</value>
   </data>
 	<data name="Case.SubmitCaseTitle" xml:space="preserve">
-    <value>Submit {case}</value>
+    <value>Enviar {case}</value>
   </data>
 	<data name="Case.ValidationFailed" xml:space="preserve">
-    <value>Validation failed</value>
+    <value>Validación fallida</value>
   </data>
 	<data name="CaseField.MissingAttachment" xml:space="preserve">
-    <value>Missing attachment</value>
+    <value>Adjunto faltante</value>
   </data>
 	<data name="CaseField.CaseFieldDocuments" xml:space="preserve">
-    <value>Documents</value>
+    <value>Documentos</value>
   </data>
 	<data name="CaseField.EmptyChangeHistory" xml:space="preserve">
-    <value>No change history</value>
+    <value>Sin historial de cambios</value>
   </data>
 	<data name="CaseField.ChangeHistory" xml:space="preserve">
-    <value>Change history</value>
+    <value>Historial de cambios</value>
   </data>
 	<data name="CaseField.MissingEnd" xml:space="preserve">
-    <value>Missing end date</value>
+    <value>Fecha de fin faltante</value>
   </data>
 	<data name="CaseField.MissingStart" xml:space="preserve">
-    <value>Missing start date</value>
+    <value>Fecha de inicio faltante</value>
   </data>
 	<data name="CaseField.MissingValue" xml:space="preserve">
-    <value>Missing value</value>
+    <value>Valor faltante</value>
   </data>
 	<data name="Shared.Hidden" xml:space="preserve">
-    <value>Hidden</value>
+    <value>Oculto</value>
   </data>
 	<data name="Shared.UnsaveChangesTitle" xml:space="preserve">
-    <value>Unsaved Changes</value>
+    <value>Cambios sin guardar</value>
   </data>
 	<data name="Shared.UnsaveChangesQuery" xml:space="preserve">
-    <value>You have unsaved changes. Are you sure you want to leave?</value>
+    <value>Tiene cambios sin guardar. ¿Está seguro de que desea salir?</value>
   </data>
 	<data name="Shared.Leave" xml:space="preserve">
-    <value>Leave</value>
+    <value>Salir</value>
   </data>
 	<data name="Shared.Stay" xml:space="preserve">
-    <value>Stay</value>
+    <value>Permanecer</value>
   </data>
 	<data name="Case.SubmitForecastCase" xml:space="preserve">
-    <value>Submit forecast case</value>
+    <value>Enviar caso de previsión</value>
   </data>
 	<data name="Collector.Negated" xml:space="preserve">
-    <value>Negated value</value>
+    <value>Valor negado</value>
   </data>
 	<data name="Error.ItemCreate" xml:space="preserve">
-    <value>{type} create error.</value>
+    <value>Error al crear {type}.</value>
   </data>
 	<data name="Error.ItemDerive" xml:space="preserve">
-    <value>{type} derive error.</value>
+    <value>Error al derivar {type}.</value>
   </data>
 	<data name="Error.ItemDelete" xml:space="preserve">
-    <value>{type} delete error.</value>
+    <value>Error al eliminar {type}.</value>
   </data>
 	<data name="Error.ItemRead" xml:space="preserve">
-    <value>{type} read error.</value>
+    <value>Error al leer {type}.</value>
   </data>
 	<data name="Error.ItemUpdate" xml:space="preserve">
-    <value>{type} update error.</value>
+    <value>Error al actualizar {type}.</value>
   </data>
 	<data name="User.PasswordChanged" xml:space="preserve">
-    <value>Password changed</value>
+    <value>Contraseña cambiada</value>
   </data>
 </root>

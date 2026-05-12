@@ -187,6 +187,75 @@
 	<data name="Enum.UserType.SystemAdministrator" xml:space="preserve">
     <value>Systemadministrator</value>
   </data>
+	<data name="Enum.Feature.Calendars" xml:space="preserve">
+    <value>Kalender</value>
+  </data>
+	<data name="Enum.Feature.CompanyCases" xml:space="preserve">
+    <value>Firmenfälle</value>
+  </data>
+	<data name="Enum.Feature.Divisions" xml:space="preserve">
+    <value>Abteilungen</value>
+  </data>
+	<data name="Enum.Feature.EmployeeCases" xml:space="preserve">
+    <value>Mitarbeiterfälle</value>
+  </data>
+	<data name="Enum.Feature.Employees" xml:space="preserve">
+    <value>Mitarbeiter</value>
+  </data>
+	<data name="Enum.Feature.Forecasts" xml:space="preserve">
+    <value>Prognosen</value>
+  </data>
+	<data name="Enum.Feature.GlobalCases" xml:space="preserve">
+    <value>Globale Fälle</value>
+  </data>
+	<data name="Enum.Feature.Logs" xml:space="preserve">
+    <value>Protokolle</value>
+  </data>
+	<data name="Enum.Feature.NationalCases" xml:space="preserve">
+    <value>Nationale Fälle</value>
+  </data>
+	<data name="Enum.Feature.PayrollLayers" xml:space="preserve">
+    <value>Payroll-Ebenen</value>
+  </data>
+	<data name="Enum.Feature.Payrolls" xml:space="preserve">
+    <value>Payrolls</value>
+  </data>
+	<data name="Enum.Feature.PayrunJobs" xml:space="preserve">
+    <value>Abrechnungsaufträge</value>
+  </data>
+	<data name="Enum.Feature.PayrunResults" xml:space="preserve">
+    <value>Abrechnungsergebnisse</value>
+  </data>
+	<data name="Enum.Feature.Payruns" xml:space="preserve">
+    <value>Abrechnungsläufe</value>
+  </data>
+	<data name="Enum.Feature.Regulation" xml:space="preserve">
+    <value>Regulation</value>
+  </data>
+	<data name="Enum.Feature.Regulations" xml:space="preserve">
+    <value>Regulationen</value>
+  </data>
+	<data name="Enum.Feature.Reports" xml:space="preserve">
+    <value>Berichte</value>
+  </data>
+	<data name="Enum.Feature.SharedRegulations" xml:space="preserve">
+    <value>Geteilte Regulationen</value>
+  </data>
+	<data name="Enum.Feature.Tasks" xml:space="preserve">
+    <value>Aufgaben</value>
+  </data>
+	<data name="Enum.Feature.Tenants" xml:space="preserve">
+    <value>Mandanten</value>
+  </data>
+	<data name="Enum.Feature.Users" xml:space="preserve">
+    <value>Benutzer</value>
+  </data>
+	<data name="Enum.Feature.UserStorage" xml:space="preserve">
+    <value>Benutzerspeicher</value>
+  </data>
+	<data name="Enum.Feature.Webhooks" xml:space="preserve">
+    <value>Webhooks</value>
+  </data>
 	<data name="Enum.FunctionType.All" xml:space="preserve">
     <value>Alle</value>
   </data>
@@ -231,6 +300,9 @@
   </data>
 	<data name="Enum.FunctionType.Payrun" xml:space="preserve">
     <value>Lohnlauf</value>
+  </data>
+	<data name="Enum.FunctionType.PayrunBase" xml:space="preserve">
+    <value>Lohnlauf Basis</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeAvailable" xml:space="preserve">
     <value>Lohnlauf Mitarbeiter Verfügbar</value>
@@ -436,7 +508,7 @@
 	<data name="Enum.ReportAttributeMode.Json" xml:space="preserve">
     <value>Json</value>
   </data>
-	<data name="Enum.ReportAttributeModeTable" xml:space="preserve">
+	<data name="Enum.ReportAttributeMode.Table" xml:space="preserve">
     <value>Tabelle</value>
   </data>
 	<data name="Enum.ReportParameterType.EmployeeId" xml:space="preserve">
@@ -2469,14 +2541,5 @@
   </data>
 	<data name="User.PasswordChanged" xml:space="preserve">
     <value>Passwort geänderrt</value>
-  </data>
-	<data name="User.InvalidPasswordError" xml:space="preserve">
-    <value>Ungültiges Passwort.</value>
-  </data>
-	<data name="User.InvalidPasswordConfirmationError" xml:space="preserve">
-    <value>Ungültige Passwort.</value>
-  </data>
-	<data name="User.PasswordChangeError" xml:space="preserve">
-    <value>Password change error.</value>
   </data>
 </root>

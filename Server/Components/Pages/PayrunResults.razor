@@ -162,8 +162,8 @@
         <PropertyColumn Property="x => x.ResultValue" Title="@Localizer.Shared.Value" />
         <PropertyColumn Property="x => x.ResultNumericValue" Title="@Localizer.Shared.NumericValue">
             <CellTemplate>
-                @ValueFormatter.ToString((object)context.Item.ResultNumericValue,
-                context.Item.ResultType, GetCultureInfo(context.Item.ResultCulture))
+                @ValueFormatter.ToString(context.Item.ResultNumericValue,
+                    context.Item.ResultType, GetCultureInfo(context.Item.ResultCulture))
             </CellTemplate>
         </PropertyColumn>
         <CustomColumns T="PayrollResultValue" Columns="ColumnConfiguration" />

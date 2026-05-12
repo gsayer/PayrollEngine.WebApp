@@ -8,7 +8,13 @@ public static class SharedCultures
     private static string[] SupportedCultures =>
     [
         "en",
-        "de"
+        "de",
+        "fr",
+        "it",
+        "nl",
+        "es",
+        "pt",
+        "ar"
     ];
 
     public static string DefaultCulture => "en-US";

@@ -10,7 +10,7 @@
             Style="max-width: 20em">
     <MudStack Spacing="0">
         <MudList T="string" Style="overflow-y: auto; max-height: 40em"
-                 SelectedValueChanged="@(x => SelectFilterAsync(x))">
+                 SelectedValueChanged="@SelectFilterAsync">
             <EnumListItems T="TEnum" />
         </MudList>
     </MudStack>

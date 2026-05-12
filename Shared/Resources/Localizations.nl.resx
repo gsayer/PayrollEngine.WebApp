@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
 	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
 		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -59,238 +59,238 @@
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
 	<data name="Enum.ObjectStatus.Active" xml:space="preserve">
-    <value>Active</value>
+    <value>Actief</value>
   </data>
 	<data name="Enum.ObjectStatus.Inactive" xml:space="preserve">
-    <value>Inactive</value>
+    <value>Inactief</value>
   </data>
 	<data name="Enum.AttributeValueType.Boolean" xml:space="preserve">
     <value>Boolean</value>
   </data>
 	<data name="Enum.AttributeValueType.Numeric" xml:space="preserve">
-    <value>Numeric</value>
+    <value>Numeriek</value>
   </data>
 	<data name="Enum.AttributeValueType.String" xml:space="preserve">
-    <value>String</value>
+    <value>Tekst</value>
   </data>
 	<data name="Enum.CalendarTimeMap.Cycle" xml:space="preserve">
-    <value>Cycle</value>
+    <value>Cyclus</value>
   </data>
 	<data name="Enum.CalendarTimeMap.Period" xml:space="preserve">
-    <value>Period</value>
+    <value>Periode</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.BiMonth" xml:space="preserve">
-    <value>Bi-Month</value>
+    <value>Tweemaandelijks</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.BiWeek" xml:space="preserve">
-    <value>Bi-Week</value>
+    <value>Tweewekelijks</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.CalendarMonth" xml:space="preserve">
-    <value>Calendar month</value>
+    <value>Kalendermaand</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.LunisolarMonth" xml:space="preserve">
-    <value>Lunisolar Month</value>
+    <value>Lunisolaire maand</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.Quarter" xml:space="preserve">
-    <value>Quarter</value>
+    <value>Kwartaal</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.SemiMonth" xml:space="preserve">
-    <value>Semi-Month</value>
+    <value>Halve maand</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.SemiYear" xml:space="preserve">
-    <value>Semi-Year</value>
+    <value>Halfjaar</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.Week" xml:space="preserve">
     <value>Week</value>
   </data>
 	<data name="Enum.CalendarTimeUnit.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Jaar</value>
   </data>
 	<data name="Enum.CalendarWeekMode.Week" xml:space="preserve">
     <value>Week</value>
   </data>
 	<data name="Enum.CalendarWeekMode.WorkWeek" xml:space="preserve">
-    <value>Work week</value>
+    <value>Werkweek</value>
   </data>
 	<data name="Enum.CalendarWeekRule.FirstDay" xml:space="preserve">
-    <value>First day</value>
+    <value>Eerste dag</value>
   </data>
 	<data name="Enum.CalendarWeekRule.FirstFourDayWeek" xml:space="preserve">
-    <value>First four-day week</value>
+    <value>Eerste vierdaagse week</value>
   </data>
 	<data name="Enum.CalendarWeekRule.FirstFullWeek" xml:space="preserve">
-    <value>First full week</value>
+    <value>Eerste volledige week</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Abort" xml:space="preserve">
-    <value>Abort</value>
+    <value>Afbreken</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleren</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Complete" xml:space="preserve">
-    <value>Complete</value>
+    <value>Voltooid</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Draft" xml:space="preserve">
-    <value>Draft</value>
+    <value>Concept</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Forecast" xml:space="preserve">
-    <value>Forecast</value>
+    <value>Prognose</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Process" xml:space="preserve">
-    <value>Process</value>
+    <value>Verwerken</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Release" xml:space="preserve">
-    <value>Release</value>
+    <value>Vrijgeven</value>
   </data>
 	<data name="Enum.ResultKind.Collector" xml:space="preserve">
     <value>Collector</value>
   </data>
 	<data name="Enum.ResultKind.CollectorCustom" xml:space="preserve">
-    <value>Collector custom</value>
+    <value>Collector aangepast</value>
   </data>
 	<data name="Enum.ResultKind.Payrun" xml:space="preserve">
-    <value>Payrun</value>
+    <value>Loonverwerking</value>
   </data>
 	<data name="Enum.ResultKind.WageType" xml:space="preserve">
-    <value>Wage type</value>
+    <value>Looncomponent</value>
   </data>
 	<data name="Enum.ResultKind.WageTypeCustom" xml:space="preserve">
-    <value>Wage type custom</value>
+    <value>Looncomponent aangepast</value>
   </data>
 	<data name="Enum.RetroTimeType.Anytime" xml:space="preserve">
-    <value>Anytime</value>
+    <value>Altijd</value>
   </data>
 	<data name="Enum.RetroTimeType.Cycle" xml:space="preserve">
-    <value>Cycle</value>
+    <value>Cyclus</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.None" xml:space="preserve">
-	<value>None</value>
+	<value>Geen</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.Consolidation" xml:space="preserve">
-	<value>Consolidation</value>
+	<value>Consolidatie</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.Read" xml:space="preserve">
-	<value>Read</value>
+	<value>Lezen</value>
   </data>
 	<data name="Enum.TenantIsolationLevel.Write" xml:space="preserve">
-	<value>Write</value>
+	<value>Schrijven</value>
   </data>
 	<data name="Enum.UserType.Employee" xml:space="preserve">
-    <value>Employee</value>
+    <value>Werknemer</value>
   </data>
 	<data name="Enum.UserType.User" xml:space="preserve">
-    <value>User</value>
+    <value>Gebruiker</value>
   </data>
 	<data name="Enum.UserType.TenantAdministrator" xml:space="preserve">
-    <value>Tenant administrator</value>
+    <value>Huurderadministrator</value>
   </data>
 	<data name="Enum.UserType.SystemAdministrator" xml:space="preserve">
-    <value>System administrator</value>
+    <value>Systeembeheerder</value>
   </data>
 	<data name="Enum.Feature.Calendars" xml:space="preserve">
-    <value>Calendars</value>
+    <value>Kalenders</value>
   </data>
 	<data name="Enum.Feature.CompanyCases" xml:space="preserve">
-    <value>Company cases</value>
+    <value>Bedrijfsdossiers</value>
   </data>
 	<data name="Enum.Feature.Divisions" xml:space="preserve">
-    <value>Divisions</value>
+    <value>Afdelingen</value>
   </data>
 	<data name="Enum.Feature.EmployeeCases" xml:space="preserve">
-    <value>Employee cases</value>
+    <value>Werknemersdossiers</value>
   </data>
 	<data name="Enum.Feature.Employees" xml:space="preserve">
-    <value>Employees</value>
+    <value>Werknemers</value>
   </data>
 	<data name="Enum.Feature.Forecasts" xml:space="preserve">
-    <value>Forecasts</value>
+    <value>Prognoses</value>
   </data>
 	<data name="Enum.Feature.GlobalCases" xml:space="preserve">
-    <value>Global cases</value>
+    <value>Globale dossiers</value>
   </data>
 	<data name="Enum.Feature.Logs" xml:space="preserve">
-    <value>Logs</value>
+    <value>Logboeken</value>
   </data>
 	<data name="Enum.Feature.NationalCases" xml:space="preserve">
-    <value>National cases</value>
+    <value>Nationale dossiers</value>
   </data>
 	<data name="Enum.Feature.PayrollLayers" xml:space="preserve">
-    <value>Payroll layers</value>
+    <value>Payroll-lagen</value>
   </data>
 	<data name="Enum.Feature.Payrolls" xml:space="preserve">
     <value>Payrolls</value>
   </data>
 	<data name="Enum.Feature.PayrunJobs" xml:space="preserve">
-    <value>Payrun jobs</value>
+    <value>Verwerkingsopdrachten</value>
   </data>
 	<data name="Enum.Feature.PayrunResults" xml:space="preserve">
-    <value>Payrun results</value>
+    <value>Verwerkingsresultaten</value>
   </data>
 	<data name="Enum.Feature.Payruns" xml:space="preserve">
-    <value>Payruns</value>
+    <value>Loonverwerkingen</value>
   </data>
 	<data name="Enum.Feature.Regulation" xml:space="preserve">
-    <value>Regulation</value>
+    <value>Regeling</value>
   </data>
 	<data name="Enum.Feature.Regulations" xml:space="preserve">
-    <value>Regulations</value>
+    <value>Regelingen</value>
   </data>
 	<data name="Enum.Feature.Reports" xml:space="preserve">
-    <value>Reports</value>
+    <value>Rapporten</value>
   </data>
 	<data name="Enum.Feature.SharedRegulations" xml:space="preserve">
-    <value>Shared regulations</value>
+    <value>Gedeelde regelingen</value>
   </data>
 	<data name="Enum.Feature.Tasks" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Taken</value>
   </data>
 	<data name="Enum.Feature.Tenants" xml:space="preserve">
-    <value>Tenants</value>
+    <value>Mandanten</value>
   </data>
 	<data name="Enum.Feature.Users" xml:space="preserve">
-    <value>Users</value>
+    <value>Gebruikers</value>
   </data>
 	<data name="Enum.Feature.UserStorage" xml:space="preserve">
-    <value>User storage</value>
+    <value>Gebruikersopslag</value>
   </data>
 	<data name="Enum.Feature.Webhooks" xml:space="preserve">
     <value>Webhooks</value>
   </data>
 	<data name="Enum.FunctionType.All" xml:space="preserve">
-    <value>All</value>
+    <value>Alle</value>
   </data>
 	<data name="Enum.FunctionType.Case" xml:space="preserve">
-    <value>Case</value>
+    <value>Dossier</value>
   </data>
 	<data name="Enum.FunctionType.CaseAvailable" xml:space="preserve">
-    <value>Case available</value>
+    <value>Dossier beschikbaar</value>
   </data>
 	<data name="Enum.FunctionType.CaseBuild" xml:space="preserve">
-    <value>Case build</value>
+    <value>Dossier opbouw</value>
   </data>
 	<data name="Enum.FunctionType.CaseChange" xml:space="preserve">
-    <value>Case change</value>
+    <value>Dossierwijziging</value>
   </data>
 	<data name="Enum.FunctionType.CaseRelation" xml:space="preserve">
-    <value>Case relation</value>
+    <value>Dossierrelatie</value>
   </data>
 	<data name="Enum.FunctionType.CaseRelationBuild" xml:space="preserve">
-    <value>Case relation build</value>
+    <value>Dossierrelatie opbouw</value>
   </data>
 	<data name="Enum.FunctionType.CaseRelationValidate" xml:space="preserve">
-    <value>Case relation validate</value>
+    <value>Dossierrelatie validatie</value>
   </data>
 	<data name="Enum.FunctionType.CaseValidate" xml:space="preserve">
-    <value>Case validate</value>
+    <value>Dossier validatie</value>
   </data>
 	<data name="Enum.FunctionType.Collector" xml:space="preserve">
     <value>Collector</value>
   </data>
 	<data name="Enum.FunctionType.CollectorApply" xml:space="preserve">
-    <value>Collector apply</value>
+    <value>Collector toepassen</value>
   </data>
 	<data name="Enum.FunctionType.CollectorEnd" xml:space="preserve">
-    <value>Collector end</value>
+    <value>Collector einde</value>
   </data>
 	<data name="Enum.FunctionType.CollectorStart" xml:space="preserve">
     <value>Collector start</value>
@@ -299,193 +299,193 @@
     <value>Payroll</value>
   </data>
 	<data name="Enum.FunctionType.Payrun" xml:space="preserve">
-    <value>Payrun</value>
+    <value>Loonverwerking</value>
   </data>
 	<data name="Enum.FunctionType.PayrunBase" xml:space="preserve">
-    <value>Payrun base</value>
+    <value>Loonverwerking basis</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeAvailable" xml:space="preserve">
-    <value>Payrun employee available</value>
+    <value>Loonverwerking werknemer beschikbaar</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeEnd" xml:space="preserve">
-    <value>Payrun employee end</value>
+    <value>Loonverwerking werknemer einde</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeStart" xml:space="preserve">
-    <value>Payrun employee start</value>
+    <value>Loonverwerking werknemer start</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEnd" xml:space="preserve">
-    <value>Payrun end</value>
+    <value>Loonverwerking einde</value>
   </data>
 	<data name="Enum.FunctionType.PayrunStart" xml:space="preserve">
-    <value>Payrun start</value>
+    <value>Loonverwerking start</value>
   </data>
 	<data name="Enum.FunctionType.PayrunWageTypeAvailable" xml:space="preserve">
-    <value>Payrun wage type available</value>
+    <value>Loonverwerking looncomponent beschikbaar</value>
   </data>
 	<data name="Enum.FunctionType.Report" xml:space="preserve">
-    <value>Report</value>
+    <value>Rapport</value>
   </data>
 	<data name="Enum.FunctionType.ReportBuild" xml:space="preserve">
-    <value>Report build</value>
+    <value>Rapport opbouw</value>
   </data>
 	<data name="Enum.FunctionType.ReportEnd" xml:space="preserve">
-    <value>Report end</value>
+    <value>Rapport einde</value>
   </data>
 	<data name="Enum.FunctionType.ReportStart" xml:space="preserve">
-    <value>Report start</value>
+    <value>Rapport start</value>
   </data>
 	<data name="Enum.FunctionType.WageType" xml:space="preserve">
-    <value>Wage type</value>
+    <value>Looncomponent</value>
   </data>
 	<data name="Enum.FunctionType.WageTypeResult" xml:space="preserve">
-    <value>Wage type result</value>
+    <value>Looncomponent resultaat</value>
   </data>
 	<data name="Enum.FunctionType.WageTypeValue" xml:space="preserve">
-    <value>Wage type value</value>
+    <value>Looncomponent waarde</value>
   </data>
 	<data name="Enum.CaseCancellationType.Case" xml:space="preserve">
-    <value>Case</value>
+    <value>Dossier</value>
   </data>
 	<data name="Enum.CaseCancellationType.None" xml:space="preserve">
-    <value>None</value>
+    <value>Geen</value>
   </data>
 	<data name="Enum.CaseFieldAggregationType.First" xml:space="preserve">
-    <value>First</value>
+    <value>Eerste</value>
   </data>
 	<data name="Enum.CaseFieldAggregationType.Last" xml:space="preserve">
-    <value>Last</value>
+    <value>Laatste</value>
   </data>
 	<data name="Enum.CaseFieldAggregationType.Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Samenvatting</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Invert" xml:space="preserve">
-    <value>Invert</value>
+    <value>Inverteren</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Keep" xml:space="preserve">
-    <value>Keep</value>
+    <value>Behouden</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Previous" xml:space="preserve">
-    <value>Previous</value>
+    <value>Vorige</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Reset" xml:space="preserve">
-    <value>Reset</value>
+    <value>Herstellen</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.TimeType" xml:space="preserve">
-    <value>Time type</value>
+    <value>Tijdtype</value>
   </data>
 	<data name="Enum.CaseFieldDateType.April" xml:space="preserve">
     <value>April</value>
   </data>
 	<data name="Enum.CaseFieldDateType.August" xml:space="preserve">
-    <value>August</value>
+    <value>Augustus</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Dag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.December" xml:space="preserve">
     <value>December</value>
   </data>
 	<data name="Enum.CaseFieldDateType.February" xml:space="preserve">
-    <value>February</value>
+    <value>Februari</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Friday" xml:space="preserve">
-    <value>Friday</value>
+    <value>Vrijdag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.January" xml:space="preserve">
-    <value>January</value>
+    <value>Januari</value>
   </data>
 	<data name="Enum.CaseFieldDateType.July" xml:space="preserve">
-    <value>July</value>
+    <value>Juli</value>
   </data>
 	<data name="Enum.CaseFieldDateType.June" xml:space="preserve">
-    <value>June</value>
+    <value>Juni</value>
   </data>
 	<data name="Enum.CaseFieldDateType.March" xml:space="preserve">
-    <value>March</value>
+    <value>Maart</value>
   </data>
 	<data name="Enum.CaseFieldDateType.May" xml:space="preserve">
-    <value>May</value>
+    <value>Mei</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Monday" xml:space="preserve">
-    <value>Monday</value>
+    <value>Maandag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Maand</value>
   </data>
 	<data name="Enum.CaseFieldDateType.November" xml:space="preserve">
     <value>November</value>
   </data>
 	<data name="Enum.CaseFieldDateType.October" xml:space="preserve">
-    <value>October</value>
+    <value>Oktober</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Saturday" xml:space="preserve">
-    <value>Saturday</value>
+    <value>Zaterdag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.September" xml:space="preserve">
     <value>September</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Sunday" xml:space="preserve">
-    <value>Sunday</value>
+    <value>Zondag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Thursday" xml:space="preserve">
-    <value>Thursday</value>
+    <value>Donderdag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Tuesday" xml:space="preserve">
-    <value>Tuesday</value>
+    <value>Dinsdag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Wednesday" xml:space="preserve">
-    <value>Wednesday</value>
+    <value>Woensdag</value>
   </data>
 	<data name="Enum.CaseFieldDateType.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Jaar</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.CalendarPeriod" xml:space="preserve">
-    <value>Calendar period</value>
+    <value>Kalenderperiode</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Moment" xml:space="preserve">
     <value>Moment</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Period" xml:space="preserve">
-    <value>Period</value>
+    <value>Periode</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Timeless" xml:space="preserve">
-    <value>Timeless</value>
+    <value>Tijdloos</value>
   </data>
 	<data name="Enum.CaseFieldTimeUnit.Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Dag</value>
   </data>
 	<data name="Enum.CaseFieldTimeUnit.HalfDay" xml:space="preserve">
-    <value>Half day</value>
+    <value>Halve dag</value>
   </data>
 	<data name="Enum.CaseFieldTimeUnit.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Maand</value>
   </data>
 	<data name="Enum.CaseType.Company" xml:space="preserve">
-    <value>Company</value>
+    <value>Bedrijf</value>
   </data>
 	<data name="Enum.CaseType.Employee" xml:space="preserve">
-    <value>Employee</value>
+    <value>Werknemer</value>
   </data>
 	<data name="Enum.CaseType.Global" xml:space="preserve">
-    <value>Global</value>
+    <value>Globaal</value>
   </data>
 	<data name="Enum.CaseType.National" xml:space="preserve">
-    <value>National</value>
+    <value>Nationaal</value>
   </data>
 	<data name="Enum.CaseValueCreationMode.Always" xml:space="preserve">
-    <value>Always</value>
+    <value>Altijd</value>
   </data>
 	<data name="Enum.CaseValueCreationMode.Discard" xml:space="preserve">
-    <value>Discard</value>
+    <value>Verwerpen</value>
   </data>
 	<data name="Enum.CaseValueCreationMode.OnChanges" xml:space="preserve">
-    <value>On changes</value>
+    <value>Bij wijzigingen</value>
   </data>
 	<data name="Enum.CollectMode.Average" xml:space="preserve">
-    <value>Average</value>
+    <value>Gemiddelde</value>
   </data>
 	<data name="Enum.CollectMode.Count" xml:space="preserve">
-    <value>Count</value>
+    <value>Aantal</value>
   </data>
 	<data name="Enum.CollectMode.Maximum" xml:space="preserve">
     <value>Maximum</value>
@@ -494,544 +494,544 @@
     <value>Minimum</value>
   </data>
 	<data name="Enum.CollectMode.Summary" xml:space="preserve">
-    <value>Summary</value>
+    <value>Samenvatting</value>
   </data>
 	<data name="Enum.CollectMode.Range" xml:space="preserve">
-    <value>Range</value>
+    <value>Bereik</value>
   </data>
 	<data name="Enum.OverrideType.Active" xml:space="preserve">
-    <value>Active</value>
+    <value>Actief</value>
   </data>
 	<data name="Enum.OverrideType.Inactive" xml:space="preserve">
-    <value>Inactive</value>
+    <value>Inactief</value>
   </data>
 	<data name="Enum.ReportAttributeMode.Json" xml:space="preserve">
     <value>Json</value>
   </data>
 	<data name="Enum.ReportAttributeMode.Table" xml:space="preserve">
-    <value>Table</value>
+    <value>Tabel</value>
   </data>
 	<data name="Enum.ReportParameterType.EmployeeId" xml:space="preserve">
-    <value>Employee id</value>
+    <value>Werknemer-id</value>
   </data>
 	<data name="Enum.ReportParameterType.Now" xml:space="preserve">
-    <value>Now</value>
+    <value>Nu</value>
   </data>
 	<data name="Enum.ReportParameterType.PayrollId" xml:space="preserve">
-    <value>Payroll id</value>
+    <value>Payroll-id</value>
   </data>
 	<data name="Enum.ReportParameterType.PayrunId" xml:space="preserve">
-    <value>Payrun id</value>
+    <value>Loonverwerking-id</value>
   </data>
 	<data name="Enum.ReportParameterType.RegulationId" xml:space="preserve">
-    <value>Regulation id</value>
+    <value>Regeling-id</value>
   </data>
 	<data name="Enum.ReportParameterType.ReportId" xml:space="preserve">
-    <value>Report id</value>
+    <value>Rapport-id</value>
   </data>
 	<data name="Enum.ReportParameterType.TenantId" xml:space="preserve">
-    <value>Tenant id</value>
+    <value>Huurder-id</value>
   </data>
 	<data name="Enum.ReportParameterType.Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Vandaag</value>
   </data>
 	<data name="Enum.ReportParameterType.UserId" xml:space="preserve">
-    <value>User id</value>
+    <value>Gebruiker-id</value>
   </data>
 	<data name="Enum.ReportParameterType.Value" xml:space="preserve">
-    <value>Value</value>
+    <value>Waarde</value>
   </data>
 	<data name="Enum.ReportParameterType.WebhookId" xml:space="preserve">
-    <value>Webhook id</value>
+    <value>Webhook-id</value>
   </data>
 	<data name="Enum.ValueScope.Global" xml:space="preserve">
-    <value>Global</value>
+    <value>Globaal</value>
   </data>
 	<data name="Enum.ValueScope.Local" xml:space="preserve">
-    <value>Local</value>
+    <value>Lokaal</value>
   </data>
 	<data name="Enum.ValueType.Boolean" xml:space="preserve">
     <value>Boolean</value>
   </data>
 	<data name="Enum.ValueType.Date" xml:space="preserve">
-    <value>Date</value>
+    <value>Datum</value>
   </data>
 	<data name="Enum.ValueType.DateTime" xml:space="preserve">
-    <value>DateTime</value>
+    <value>DatumTijd</value>
   </data>
 	<data name="Enum.ValueType.Decimal" xml:space="preserve">
-    <value>Decimal</value>
+    <value>Decimaal</value>
   </data>
 	<data name="Enum.ValueType.Integer" xml:space="preserve">
-    <value>Integer</value>
+    <value>Geheel getal</value>
   </data>
 	<data name="Enum.ValueType.Money" xml:space="preserve">
-    <value>Money</value>
+    <value>Geldbedrag</value>
   </data>
 	<data name="Enum.ValueType.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Maand</value>
   </data>
 	<data name="Enum.ValueType.None" xml:space="preserve">
-    <value>None</value>
+    <value>Geen</value>
   </data>
 	<data name="Enum.ValueType.NumericBoolean" xml:space="preserve">
-    <value>Boolean numeric</value>
+    <value>Numeriek boolean</value>
   </data>
 	<data name="Enum.ValueType.Percent" xml:space="preserve">
-    <value>Percent</value>
+    <value>Percentage</value>
   </data>
 	<data name="Enum.ValueType.String" xml:space="preserve">
-    <value>String</value>
+    <value>Tekst</value>
   </data>
 	<data name="Enum.ValueType.WebResource" xml:space="preserve">
-    <value>Web resource</value>
+    <value>Webresource</value>
   </data>
 	<data name="Enum.ValueType.Weekday" xml:space="preserve">
-    <value>Weekday</value>
+    <value>Weekdag</value>
   </data>
 	<data name="Enum.ValueType.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Jaar</value>
   </data>
 	<data name="Enum.WebhookAction.CaseChangeAdded" xml:space="preserve">
-    <value>Case change added</value>
+    <value>Dossierwijziging toegevoegd</value>
   </data>
 	<data name="Enum.WebhookAction.CaseFunctionRequest" xml:space="preserve">
-    <value>Case function request</value>
+    <value>Dossierfunctie-aanvraag</value>
   </data>
 	<data name="Enum.WebhookAction.None" xml:space="preserve">
-    <value>None</value>
+    <value>Geen</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunFunctionRequest" xml:space="preserve">
-    <value>Payrun function request</value>
+    <value>Loonverwerkingsfunctie-aanvraag</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunJobFinish" xml:space="preserve">
-    <value>Payrun job finish</value>
+    <value>Loonverwerkingstaak voltooid</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunJobProcess" xml:space="preserve">
-    <value>Payrun job process</value>
+    <value>Loonverwerkingstaak verwerken</value>
   </data>
 	<data name="Enum.WebhookAction.ReportFunctionRequest" xml:space="preserve">
-    <value>Report function request</value>
+    <value>Rapportfunctie-aanvraag</value>
   </data>
 	<data name="Enum.WebhookAction.TaskChange" xml:space="preserve">
-    <value>Task change</value>	
+    <value>Taakwijziging</value>
   </data>
 	<data name="Enum.MarkerType.Condition" xml:space="preserve">
-    <value>Condition</value>	
+    <value>Voorwaarde</value>
   </data>
 	<data name="Enum.MarkerType.ConditionTrue" xml:space="preserve">
-    <value>Condition true</value>	
+    <value>Voorwaarde waar</value>
   </data>
 	<data name="Enum.MarkerType.ConditionFalse" xml:space="preserve">
-    <value>Condition false</value>	
+    <value>Voorwaarde onwaar</value>
   </data>
 	<data name="Enum.MarkerType.RuntimeValue" xml:space="preserve">
-    <value>Runtime value</value>	
+    <value>Runtimewaarde</value>
   </data>
 	<data name="Enum.MarkerType.LookupValue" xml:space="preserve">
-    <value>Lookup value</value>	
+    <value>Lookup-waarde</value>
   </data>
 	<data name="Enum.MarkerType.CaseValue" xml:space="preserve">
-    <value>Case value</value>	
+    <value>Dossierwaarde</value>
   </data>
 	<data name="Enum.MarkerType.CaseField" xml:space="preserve">
-    <value>Case field</value>	
+    <value>Dossierveld</value>
   </data>
 	<data name="Enum.MarkerType.SourceCaseField" xml:space="preserve">
-    <value>Source case field</value>	
+    <value>Brondossierveld</value>
   </data>
 	<data name="Enum.MarkerType.TargetCaseField" xml:space="preserve">
-    <value>Target case field</value>	
+    <value>Doeldossierveld</value>
   </data>
 	<data name="Enum.MarkerType.PayrunResult" xml:space="preserve">
-    <value>Payrun result</value>	
+    <value>Loonverwerkingsresultaat</value>
   </data>
 	<data name="Enum.MarkerType.Collector" xml:space="preserve">
-    <value>Collector</value>	
+    <value>Collector</value>
   </data>
 	<data name="Enum.MarkerType.WageType" xml:space="preserve">
-    <value>Wage type</value>	
+    <value>Looncomponent</value>
   </data>
 	<data name="Action.ActionSyntax" xml:space="preserve">
-    <value>Action syntax</value>
+    <value>Actiesyntax</value>
   </data>
 	<data name="Action.ActionSyntaxHelp" xml:space="preserve">
-    <value>Syntax help</value>
+    <value>Syntaxhulp</value>
   </data>
 	<data name="Action.Actions" xml:space="preserve">
-    <value>Actions</value>
+    <value>Acties</value>
   </data>
 	<data name="Action.AppendAction" xml:space="preserve">
-    <value>Append action</value>
+    <value>Actie toevoegen</value>
   </data>
 	<data name="Action.Marker" xml:space="preserve">
-    <value>Marker</value>
+    <value>Markering</value>
   </data>
 	<data name="Action.ShowActions" xml:space="preserve">
-    <value>Show actions</value>
+    <value>Acties tonen</value>
   </data>
 	<data name="Action.LoadingActions" xml:space="preserve">
-    <value>Loading actions</value>
+    <value>Acties laden</value>
   </data>
 	<data name="Action.HideActions" xml:space="preserve">
-    <value>Hide actions</value>
+    <value>Acties verbergen</value>
   </data>
 	<data name="Action.Categories" xml:space="preserve">
-    <value>Categories</value>
+    <value>Categorieën</value>
   </data>
 	<data name="Action.Issues" xml:space="preserve">
-    <value>Issues</value>
+    <value>Problemen</value>
   </data>
 	<data name="Action.MoveDown" xml:space="preserve">
-    <value>Mode down</value>
+    <value>Omlaag verplaatsen</value>
   </data>
 	<data name="Action.MoveUp" xml:space="preserve">
-    <value>Move up</value>
+    <value>Omhoog verplaatsen</value>
   </data>
 	<data name="Action.NotAvailable" xml:space="preserve">
-    <value>No action available</value>
+    <value>Geen actie beschikbaar</value>
   </data>
 	<data name="Action.Parameters" xml:space="preserve">
     <value>Parameters</value>
   </data>
 	<data name="Action.Source" xml:space="preserve">
-    <value>Source</value>
+    <value>Bron</value>
   </data>
 	<data name="App.About" xml:space="preserve">
-    <value>About</value>
+    <value>Over</value>
   </data>
 	<data name="App.AdminContactError" xml:space="preserve">
-    <value>Please contact your administrator</value>
+    <value>Neem contact op met uw beheerder</value>
   </data>
 	<data name="App.ContactEmail" xml:space="preserve">
-    <value>Contact Email</value>
+    <value>Contacte-mail</value>
   </data>
 	<data name="App.BackendVersion" xml:space="preserve">
     <value>Backend-Server: v{version}</value>
   </data>
 	<data name="App.CollapseGroups" xml:space="preserve">
-    <value>Collapse groups</value>
+    <value>Groepen inklappen</value>
   </data>
 	<data name="App.CompactView" xml:space="preserve">
-    <value>Compact view</value>
+    <value>Compacte weergave</value>
   </data>
 	<data name="App.Copyright" xml:space="preserve">
     <value>Copyright {owner}</value>
   </data>
 	<data name="App.DarkMode" xml:space="preserve">
-    <value>Dark mode</value>
+    <value>Donkere modus</value>
   </data>
 	<data name="App.ExpandGroups" xml:space="preserve">
-    <value>Expand groups</value>
+    <value>Groepen uitklappen</value>
   </data>
 	<data name="App.LightMode" xml:space="preserve">
-    <value>Light mode</value>
+    <value>Lichte modus</value>
   </data>
 	<data name="App.Logout" xml:space="preserve">
-    <value>Logout</value>
+    <value>Afmelden</value>
   </data>
 	<data name="App.MissingFeatures" xml:space="preserve">
-    <value>No features available</value>
+    <value>Geen functies beschikbaar</value>
   </data>
 	<data name="App.SelectEmployee" xml:space="preserve">
-    <value>Please select an employee</value>
+    <value>Selecteer een werknemer</value>
   </data>
 	<data name="App.SelectPayroll" xml:space="preserve">
-    <value>Please select a payroll</value>
+    <value>Selecteer een payroll</value>
   </data>
 	<data name="App.SelectPayrollWithPayrun" xml:space="preserve">
-    <value>Please select a payroll with a payrun</value>
+    <value>Selecteer een payroll met een loonverwerking</value>
   </data>
 	<data name="App.SelectPayrun" xml:space="preserve">
-    <value>Please select a payrun</value>
+    <value>Selecteer een loonverwerking</value>
   </data>
 	<data name="App.SelectTenant" xml:space="preserve">
-    <value>Please select a tenant</value>
+    <value>Selecteer een huurder</value>
   </data>
 	<data name="App.ToggleSidebar" xml:space="preserve">
-    <value>Toggle sidebar</value>
+    <value>Zijbalk in-/uitschakelen</value>
   </data>
 	<data name="App.WebAppVersion" xml:space="preserve">
-    <value>Web-Application: v{version}</value>
+    <value>Webapplicatie: v{version}</value>
   </data>
 	<data name="Attribute.Attribute" xml:space="preserve">
-    <value>Attribute</value>
+    <value>Attribuut</value>
   </data>
 	<data name="Attribute.Attributes" xml:space="preserve">
-    <value>Attributes</value>
+    <value>Attributen</value>
   </data>
 	<data name="Attribute.NotAvailable" xml:space="preserve">
-    <value>No attributes available</value>
+    <value>Geen attributen beschikbaar</value>
   </data>
 	<data name="Calendar.Calendar" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Kalender</value>
   </data>
 	<data name="Calendar.Calendars" xml:space="preserve">
-    <value>Calendars</value>
+    <value>Kalenders</value>
   </data>
 	<data name="Calendar.CycleTimeUnit" xml:space="preserve">
-    <value>Cycle time unit</value>
+    <value>Cyclustijdeenheid</value>
   </data>
 	<data name="Calendar.FirstDayOfWeek" xml:space="preserve">
-    <value>First day of week</value>
+    <value>Eerste dag van de week</value>
   </data>
 	<data name="Calendar.FirstMonthOfYear" xml:space="preserve">
-    <value>First month of year</value>
+    <value>Eerste maand van het jaar</value>
   </data>
 	<data name="Calendar.PeriodDayCount" xml:space="preserve">
-    <value>Period day count</value>
+    <value>Aantal dagen in periode</value>
   </data>
 	<data name="Calendar.NotAvailable" xml:space="preserve">
-    <value>No calendars available</value>
+    <value>Geen kalenders beschikbaar</value>
   </data>
 	<data name="Calendar.PeriodTimeUnit" xml:space="preserve">
-    <value>Period time unit</value>
+    <value>Periodetijdeenheid</value>
   </data>
 	<data name="Calendar.TimeMap" xml:space="preserve">
-    <value>Calendar time map</value>
+    <value>Kalendertijdkaart</value>
   </data>
 	<data name="Calendar.WeekMode" xml:space="preserve">
-    <value>Week mode</value>
+    <value>Weekmodus</value>
   </data>
 	<data name="Calendar.YearWeekRule" xml:space="preserve">
-    <value>Calendar week rule</value>
+    <value>Kalenderweekregel</value>
   </data>
 	<data name="Case.AvailableActions" xml:space="preserve">
-    <value>Available actions</value>
+    <value>Beschikbaarheidsacties</value>
   </data>
 	<data name="Case.AvailableExpression" xml:space="preserve">
-    <value>Available expression</value>
+    <value>Beschikbaarheidsexpressie</value>
   </data>
 	<data name="Case.AvailableScript" xml:space="preserve">
-    <value>Available script</value>
+    <value>Beschikbaarheidsscript</value>
   </data>
 	<data name="Case.BaseCase" xml:space="preserve">
-    <value>Base case</value>
+    <value>Basisdossier</value>
   </data>
 	<data name="Case.BaseCaseField" xml:space="preserve">
-    <value>Base case field</value>
+    <value>Basisdossierveld</value>
   </data>
 	<data name="Case.BaseCaseFields" xml:space="preserve">
-    <value>Base case fields</value>
+    <value>Basisdossiervelden</value>
   </data>
 	<data name="Case.BuildActions" xml:space="preserve">
-    <value>Build actions</value>
+    <value>Opbouwacties</value>
   </data>
 	<data name="Case.BuildExpression" xml:space="preserve">
-    <value>Build expression</value>
+    <value>Opbouwexpressie</value>
   </data>
 	<data name="Case.BuildScript" xml:space="preserve">
-    <value>Build script</value>
+    <value>Opbouwscript</value>
   </data>
 	<data name="Case.CancellationType" xml:space="preserve">
-    <value>Cancellation type</value>
+    <value>Annuleringstype</value>
   </data>
 	<data name="Case.ProcessLevel" xml:space="preserve">
-    <value>Process level</value>
+    <value>Verwerkingsniveau</value>
   </data>
 	<data name="Case.Case" xml:space="preserve">
-    <value>Case</value>
+    <value>Dossier</value>
   </data>
 	<data name="Case.Cases" xml:space="preserve">
-    <value>Cases</value>
+    <value>Dossiers</value>
   </data>
 	<data name="Case.CaseType" xml:space="preserve">
-    <value>Case type</value>
+    <value>Dossiertype</value>
   </data>
 	<data name="Case.ChangeHistory" xml:space="preserve">
-    <value>Change history</value>
+    <value>Wijzigingsgeschiedenis</value>
   </data>
 	<data name="Case.CompanyCases" xml:space="preserve">
-    <value>Company cases</value>
+    <value>Bedrijfsdossiers</value>
   </data>
 	<data name="Case.DefaultReason" xml:space="preserve">
-    <value>Default reason</value>
+    <value>Standaardreden</value>
   </data>
 	<data name="Case.EmployeeCases" xml:space="preserve">
-    <value>Employee cases</value>
+    <value>Werknemersdossiers</value>
   </data>
 	<data name="Case.GlobalCases" xml:space="preserve">
-    <value>Global cases</value>
+    <value>Globale dossiers</value>
   </data>
 	<data name="Case.NationalCases" xml:space="preserve">
-    <value>National cases</value>
+    <value>Nationale dossiers</value>
   </data>
 	<data name="Case.NotAvailable" xml:space="preserve">
-    <value>No cases available</value>
+    <value>Geen dossiers beschikbaar</value>
   </data>
 	<data name="Case.SearchCase" xml:space="preserve">
-    <value>Search case {case}</value>
+    <value>Dossier zoeken {case}</value>
   </data>
 	<data name="Case.Slots" xml:space="preserve">
     <value>Slots</value>
   </data>
 	<data name="Case.StartCase" xml:space="preserve">
-    <value>Start case {case}</value>
+    <value>Dossier starten {case}</value>
   </data>
 	<data name="Case.UndoCase" xml:space="preserve">
-    <value>Case with undo</value>
+    <value>Dossier met ongedaan maken</value>
   </data>
 	<data name="Case.ValidateActions" xml:space="preserve">
-    <value>Validate actions</value>
+    <value>Validatieacties</value>
   </data>
 	<data name="Case.ValidateExpression" xml:space="preserve">
-    <value>Validate expression</value>
+    <value>Validatie-expressie</value>
   </data>
 	<data name="Case.ValidateScript" xml:space="preserve">
-    <value>Validate script</value>
+    <value>Validatiescript</value>
   </data>
 	<data name="CaseChange.CaseChange" xml:space="preserve">
-    <value>Case change</value>
+    <value>Dossierwijziging</value>
   </data>
 	<data name="CaseChange.CaseChanges" xml:space="preserve">
-    <value>Case changes</value>
+    <value>Dossierwijzigingen</value>
   </data>
 	<data name="CaseChange.EmptyCaseChange" xml:space="preserve">
-    <value>Case change without values</value>
+    <value>Dossierwijziging zonder waarden</value>
   </data>
 	<data name="CaseChange.NotAvailable" xml:space="preserve">
-    <value>No case changes available</value>
+    <value>Geen dossierwijzigingen beschikbaar</value>
   </data>
 	<data name="CaseChange.Reason" xml:space="preserve">
-    <value>Reason</value>
+    <value>Reden</value>
   </data>
 	<data name="CaseChange.Undo" xml:space="preserve">
-    <value>Undo</value>
+    <value>Ongedaan maken</value>
   </data>
 	<data name="CaseChange.UndoCancelGroup" xml:space="preserve">
-    <value>Undo • {date}</value>
+    <value>Ongedaan maken • {date}</value>
   </data>
 	<data name="CaseChange.UndoCaseChange" xml:space="preserve">
-    <value>Undo case</value>
+    <value>Dossier ongedaan maken</value>
   </data>
 	<data name="CaseChange.UndoError" xml:space="preserve">
-    <value>Undo error for case {case}</value>
+    <value>Fout bij ongedaan maken van dossier {case}</value>
   </data>
 	<data name="CaseChange.UndoQuery" xml:space="preserve">
-    <value>Undo case {case}?</value>
+    <value>Dossier {case} ongedaan maken?</value>
   </data>
 	<data name="CaseChange.UndoSuccess" xml:space="preserve">
-    <value>Undo successful for case {case}</value>
+    <value>Ongedaan maken gelukt voor dossier {case}</value>
   </data>
 	<data name="CaseField.CancellationMode" xml:space="preserve">
-    <value>Cancellation mode</value>
+    <value>Annuleringsmodus</value>
   </data>
 	<data name="CaseField.CaseField" xml:space="preserve">
-    <value>Case field</value>
+    <value>Dossierveld</value>
   </data>
 	<data name="CaseField.CaseFields" xml:space="preserve">
-    <value>Case fields</value>
+    <value>Dossiervelden</value>
   </data>
 	<data name="CaseField.DefaultEnd" xml:space="preserve">
-    <value>Default end</value>
+    <value>Standaardeinde</value>
   </data>
 	<data name="CaseField.DefaultStart" xml:space="preserve">
-    <value>Default start</value>
+    <value>Standaardstart</value>
   </data>
 	<data name="CaseField.DefaultValue" xml:space="preserve">
-    <value>Default value</value>
+    <value>Standaardwaarde</value>
   </data>
 	<data name="CaseField.EndDateType" xml:space="preserve">
-    <value>End date type</value>
+    <value>Einddatumtype</value>
   </data>
 	<data name="CaseField.EndMandatory" xml:space="preserve">
-    <value>End mandatory</value>
+    <value>Einde verplicht</value>
   </data>
 	<data name="CaseField.LookupSettings" xml:space="preserve">
-    <value>Lookup settings</value>
+    <value>Lookup-instellingen</value>
   </data>
 	<data name="CaseField.LookupSettingsRemoved" xml:space="preserve">
-    <value>Lookup settings removed</value>
+    <value>Lookup-instellingen verwijderd</value>
   </data>
 	<data name="CaseField.StartDateType" xml:space="preserve">
-    <value>Start date type</value>
+    <value>Startdatumtype</value>
   </data>
 	<data name="CaseField.TimeGroup" xml:space="preserve">
-    <value>Time</value>
+    <value>Tijd</value>
   </data>
 	<data name="CaseField.TimeType" xml:space="preserve">
-    <value>Time type</value>
+    <value>Tijdtype</value>
   </data>
 	<data name="CaseField.TimeUnit" xml:space="preserve">
-    <value>Time unit</value>
+    <value>Tijdeenheid</value>
   </data>
 	<data name="CaseField.ValueCreationMode" xml:space="preserve">
-    <value>Value creation mode</value>
+    <value>Waardecreatiemodus</value>
   </data>
 	<data name="CaseField.ValueMandatory" xml:space="preserve">
-    <value>Value mandatory</value>
+    <value>Waarde verplicht</value>
   </data>
 	<data name="CaseField.ValueScope" xml:space="preserve">
-    <value>Value scope</value>
+    <value>Waardebereik</value>
   </data>
 	<data name="CaseRelation.BuildActions" xml:space="preserve">
-    <value>Build actions</value>
+    <value>Opbouwacties</value>
   </data>
 	<data name="CaseRelation.BuildExpression" xml:space="preserve">
-    <value>Build expression</value>
+    <value>Opbouwexpressie</value>
   </data>
 	<data name="CaseRelation.CaseRelation" xml:space="preserve">
-    <value>Case relation</value>
+    <value>Dossierrelatie</value>
   </data>
 	<data name="CaseRelation.CaseRelations" xml:space="preserve">
-    <value>Case relations</value>
+    <value>Dossierrelaties</value>
   </data>
 	<data name="CaseRelation.Relation" xml:space="preserve">
-    <value>Relation</value>
+    <value>Relatie</value>
   </data>
 	<data name="CaseRelation.SourceCaseName" xml:space="preserve">
-    <value>Source case name</value>
+    <value>Brondossiernaam</value>
   </data>
 	<data name="CaseRelation.SourceCaseSlot" xml:space="preserve">
-    <value>Source case slot</value>
+    <value>Brondossierslot</value>
   </data>
 	<data name="CaseRelation.TargetCaseName" xml:space="preserve">
-    <value>Target case  name</value>
+    <value>Doeldossiernaam</value>
   </data>
 	<data name="CaseRelation.TargetCaseSlot" xml:space="preserve">
-    <value>Target case  slot</value>
+    <value>Doeldossierslot</value>
   </data>
 	<data name="CaseRelation.ValidateActions" xml:space="preserve">
-    <value>Validate actions</value>
+    <value>Validatieacties</value>
   </data>
 	<data name="CaseRelation.ValidateExpression" xml:space="preserve">
-    <value>Validate expression</value>
+    <value>Validatie-expressie</value>
   </data>
 	<data name="CaseRelation.SourceEqualsTargetError" xml:space="preserve">
-    <value>Target case can not be the source case.</value>
+    <value>Doeldossier kan niet hetzelfde zijn als het brondossier.</value>
   </data>
 	<data name="CaseSlot.CaseSlot" xml:space="preserve">
-    <value>Case slot</value>
+    <value>Dossierslot</value>
   </data>
 	<data name="CaseSlot.CaseSlots" xml:space="preserve">
-    <value>Case slots</value>
+    <value>Dossierslots</value>
   </data>
 	<data name="CaseSlot.Localizations" xml:space="preserve">
-    <value>Case slot localizations</value>
+    <value>Dossierslot-lokalisaties</value>
   </data>
 	<data name="CaseSlot.NotAvailable" xml:space="preserve">
-    <value>No case slot available</value>
+    <value>Geen dossierslot beschikbaar</value>
   </data>
 	<data name="CaseValue.CaseValue" xml:space="preserve">
-    <value>Case value</value>
+    <value>Dossierwaarde</value>
   </data>
 	<data name="CaseValue.CaseValues" xml:space="preserve">
-    <value>Case values</value>
+    <value>Dossierwaarden</value>
   </data>
 	<data name="CaseValue.NotAvailable" xml:space="preserve">
-    <value>No case value available</value>
+    <value>Geen dossierwaarde beschikbaar</value>
   </data>
 	<data name="ClusterSet.ClusterSet" xml:space="preserve">
-    <value>Cluster set</value>
+    <value>Clusterset</value>
   </data>
 	<data name="ClusterSet.ClusterSets" xml:space="preserve">
-    <value>Cluster sets</value>
+    <value>Clustersets</value>
   </data>
 	<data name="ClusterSet.NotAvailable" xml:space="preserve">
-    <value>No cluster sets available</value>
+    <value>Geen clustersets beschikbaar</value>
   </data>
 	<data name="Collector.ApplyExpression" xml:space="preserve">
-    <value>Apply expression</value>
+    <value>Toepassingsexpressie</value>
   </data>
 	<data name="Collector.Collector" xml:space="preserve">
     <value>Collector</value>
@@ -1040,376 +1040,376 @@
     <value>Collectors</value>
   </data>
 	<data name="Collector.CollectMode" xml:space="preserve">
-    <value>Collect mode</value>
+    <value>Verzamelmodus</value>
   </data>
 	<data name="Collector.EndExpression" xml:space="preserve">
-    <value>End expression</value>
+    <value>Eindexpressie</value>
   </data>
 	<data name="Collector.MaxResult" xml:space="preserve">
-    <value>Max result</value>
+    <value>Max. resultaat</value>
   </data>
 	<data name="Collector.MinResult" xml:space="preserve">
-    <value>Min result</value>
+    <value>Min. resultaat</value>
   </data>
 	<data name="Collector.StartExpression" xml:space="preserve">
-    <value>Start expression</value>
+    <value>Startexpressie</value>
   </data>
 	<data name="Collector.StartActions" xml:space="preserve">
-    <value>Start actions</value>
+    <value>Startacties</value>
   </data>
 	<data name="Collector.ApplyActions" xml:space="preserve">
-    <value>Apply actions</value>
+    <value>Toepassingsacties</value>
   </data>
 	<data name="Collector.EndActions" xml:space="preserve">
-    <value>End actions</value>
+    <value>Eindacties</value>
   </data>
 	<data name="Collector.Threshold" xml:space="preserve">
-    <value>Threshold</value>
+    <value>Drempel</value>
   </data>
 	<data name="Dialog.AddTitle" xml:space="preserve">
-    <value>Create {0}</value>
+    <value>{0} aanmaken</value>
   </data>
 	<data name="Dialog.Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleren</value>
   </data>
 	<data name="Dialog.Close" xml:space="preserve">
-    <value>Close</value>
+    <value>Sluiten</value>
   </data>
 	<data name="Dialog.Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Verwijderen</value>
   </data>
 	<data name="Dialog.EditTitle" xml:space="preserve">
-    <value>Edit {0}</value>
+    <value>{0} bewerken</value>
   </data>
 	<data name="Dialog.Ok" xml:space="preserve">
     <value>Ok</value>
   </data>
 	<data name="Division.Division" xml:space="preserve">
-    <value>Division</value>
+    <value>Afdeling</value>
   </data>
 	<data name="Division.Divisions" xml:space="preserve">
-    <value>Divisions</value>
+    <value>Afdelingen</value>
   </data>
 	<data name="Division.NotAvailable" xml:space="preserve">
-    <value>No divisions available</value>
+    <value>Geen afdelingen beschikbaar</value>
   </data>
 	<data name="Document.ClearContent" xml:space="preserve">
-    <value>Clear content</value>
+    <value>Inhoud wissen</value>
   </data>
 	<data name="Document.ClearContentQuery" xml:space="preserve">
-    <value>Delete content (length {bytes})?</value>
+    <value>Inhoud verwijderen (grootte {bytes})?</value>
   </data>
 	<data name="Document.ContentReplaceQuery" xml:space="preserve">
-    <value>Replace content?</value>
+    <value>Inhoud vervangen?</value>
   </data>
 	<data name="Document.ContentUnchanged" xml:space="preserve">
-    <value>Document {document} unchanged</value>
+    <value>Document {document} ongewijzigd</value>
   </data>
 	<data name="Document.ContentUpload" xml:space="preserve">
-    <value>Content upload</value>
+    <value>Inhoud uploaden</value>
   </data>
 	<data name="Document.ContentUploaded" xml:space="preserve">
-    <value>Content {document} uploaded</value>
+    <value>Inhoud {document} geüpload</value>
   </data>
 	<data name="Document.Document" xml:space="preserve">
     <value>Document</value>
   </data>
 	<data name="Document.DocumentRemoved" xml:space="preserve">
-    <value>Document removed</value>
+    <value>Document verwijderd</value>
   </data>
 	<data name="Document.Documents" xml:space="preserve">
-    <value>Documents</value>
+    <value>Documenten</value>
   </data>
 	<data name="Document.FileSize" xml:space="preserve">
-    <value>Size {bytes}</value>
+    <value>Grootte {bytes}</value>
   </data>
 	<data name="Document.NotAvailable" xml:space="preserve">
-    <value>No documents available</value>
+    <value>Geen documenten beschikbaar</value>
   </data>
 	<data name="Document.Replace" xml:space="preserve">
-    <value>Replace</value>
+    <value>Vervangen</value>
   </data>
 	<data name="Employee.AllEmployees" xml:space="preserve">
-    <value>All {count} employees</value>
+    <value>Alle {count} werknemers</value>
   </data>
 	<data name="Employee.Employee" xml:space="preserve">
-    <value>Employee</value>
+    <value>Werknemer</value>
   </data>
 	<data name="Employee.Employees" xml:space="preserve">
-    <value>Employees</value>
+    <value>Werknemers</value>
   </data>
 	<data name="Employee.FirstName" xml:space="preserve">
-    <value>First name</value>
+    <value>Voornaam</value>
   </data>
 	<data name="Employee.LastName" xml:space="preserve">
-    <value>Last name</value>
+    <value>Achternaam</value>
   </data>
 	<data name="Employee.NotAvailable" xml:space="preserve">
-    <value>No employees available</value>
+    <value>Geen werknemers beschikbaar</value>
   </data>
 	<data name="Employee.OneEmployee" xml:space="preserve">
-    <value>1 employee</value>
+    <value>1 werknemer</value>
   </data>
 	<data name="Employee.SelectedEmployees" xml:space="preserve">
-    <value>{selected} of {total} employees</value>
+    <value>{selected} van {total} werknemers</value>
   </data>
 	<data name="Error.EmptyActionField" xml:space="preserve">
-    <value>Field {field} has no actions.</value>
+    <value>Veld {field} heeft geen acties.</value>
   </data>
 	<data name="Error.EmptyCollection" xml:space="preserve">
-    <value>Empty collection.</value>
+    <value>Lege verzameling.</value>
   </data>
 	<data name="Error.RequiredField" xml:space="preserve">
-    <value>{field} is required.</value>
+    <value>{field} is verplicht.</value>
   </data>
 	<data name="Error.FileDownloadError" xml:space="preserve">
-    <value>Download error.</value>
+    <value>Downloadfout.</value>
   </data>
 	<data name="Error.FileUploadError" xml:space="preserve">
-    <value>File upload error.</value>
+    <value>Bestandsuploadfout.</value>
   </data>
 	<data name="Error.ItemUnknown" xml:space="preserve">
-    <value>Unknown {type} {item}.</value>
+    <value>Onbekend {type} {item}.</value>
   </data>
 	<data name="Error.JsonFormatError" xml:space="preserve">
-    <value>Json format error.</value>
+    <value>Json-opmaakfout.</value>
   </data>
 	<data name="Error.MissingEmployee" xml:space="preserve">
-    <value>Please ensure an existing employee with identifier {identifier}.</value>
+    <value>Zorg voor een bestaande werknemer met identificatie {identifier}.</value>
   </data>
 	<data name="Error.UniqueConflict" xml:space="preserve">
-    <value>{key} already in use.</value>
+    <value>{key} is al in gebruik.</value>
   </data>
 	<data name="Forecast.Copy" xml:space="preserve">
-    <value>Forecast copy</value>
+    <value>Prognose kopiëren</value>
   </data>
 	<data name="Forecast.CopyQuery" xml:space="preserve">
-    <value>Replace all forecast values?</value>
+    <value>Alle prognosewaarden vervangen?</value>
   </data>
 	<data name="Forecast.CopyToForecast" xml:space="preserve">
-    <value>Copy job to forecast</value>
+    <value>Taak naar prognose kopiëren</value>
   </data>
 	<data name="Forecast.Forecast" xml:space="preserve">
-    <value>Forecast</value>
+    <value>Prognose</value>
   </data>
 	<data name="Forecast.JobHistory" xml:space="preserve">
-    <value>Job history</value>
+    <value>Taakgeschiedenis</value>
   </data>
 	<data name="Forecast.JobName" xml:space="preserve">
-    <value>Forecast name</value>
+    <value>Prognosenaam</value>
   </data>
 	<data name="Forecast.JobNotSupported" xml:space="preserve">
-    <value>Forecast payrun jobs not supported</value>
+    <value>Prognose-loonverwerkingstaken niet ondersteund</value>
   </data>
 	<data name="Forecast.JobPeriod" xml:space="preserve">
-    <value>Forecast period</value>
+    <value>Prognoseperiode</value>
   </data>
 	<data name="Forecast.JobDate" xml:space="preserve">
-    <value>Forecast date</value>
+    <value>Prognosedatum</value>
   </data>
 	<data name="Forecast.Name" xml:space="preserve">
-    <value>Forecast name</value>
+    <value>Prognosenaam</value>
   </data>
 	<data name="Forecast.NotAvailable" xml:space="preserve">
-    <value>No forecasts available</value>
+    <value>Geen prognoses beschikbaar</value>
   </data>
 	<data name="Forecast.PayrunJob" xml:space="preserve">
-    <value>Forecast payrun job</value>
+    <value>Prognose-loonverwerkingstaak</value>
   </data>
 	<data name="Forecast.StartForecastPayrun" xml:space="preserve">
-    <value>Start forecast payrun</value>
+    <value>Prognose-loonverwerking starten</value>
   </data>
 	<data name="Item.Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Toevoegen</value>
   </data>
 	<data name="Item.Added" xml:space="preserve">
-    <value>{item} added</value>
+    <value>{item} toegevoegd</value>
   </data>
 	<data name="Item.AddHelp" xml:space="preserve">
-    <value>Add new {item}</value>
+    <value>Nieuw {item} toevoegen</value>
   </data>
 	<data name="Item.AddTitle" xml:space="preserve">
-    <value>Add {item}</value>
+    <value>{item} toevoegen</value>
   </data>
 	<data name="Item.Create" xml:space="preserve">
-    <value>Create</value>
+    <value>Aanmaken</value>
   </data>
 	<data name="Item.Created" xml:space="preserve">
-    <value>{item} created</value>
+    <value>{item} aangemaakt</value>
   </data>
 	<data name="Item.CreateHelp" xml:space="preserve">
-    <value>Create new {item}</value>
+    <value>Nieuw {item} aanmaken</value>
   </data>
 	<data name="Item.CreateTitle" xml:space="preserve">
-    <value>Create {item}</value>
+    <value>{item} aanmaken</value>
   </data>
 	<data name="Item.Derived" xml:space="preserve">
-    <value>Created derived copy of {item}</value>
+    <value>Afgeleide kopie van {item} aangemaakt</value>
   </data>
 	<data name="Item.BaseField" xml:space="preserve">
-    <value>base</value>
+    <value>basis</value>
   </data>
 	<data name="Item.CSharpExpression" xml:space="preserve">
-    <value>C# expression</value>
+    <value>C#-expressie</value>
   </data>
 	<data name="Item.Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Verwijderen</value>
   </data>
 	<data name="Item.Deleted" xml:space="preserve">
-    <value>{item} deleted</value>
+    <value>{item} verwijderd</value>
   </data>
 	<data name="Item.DeleteHelp" xml:space="preserve">
-    <value>Delete {item}</value>
+    <value>{item} verwijderen</value>
   </data>
 	<data name="Item.UndoHelp" xml:space="preserve">
-    <value>Undo {item}</value>
+    <value>{item} ongedaan maken</value>
   </data>
 	<data name="Item.DeleteMarkupQuery" xml:space="preserve">
-    <value>Delete &lt;b&gt;{item}&lt;/b&gt; permanently?</value>
+    <value>&lt;b&gt;{item}&lt;/b&gt; definitief verwijderen?</value>
   </data>
 	<data name="Item.DeleteQuery" xml:space="preserve">
-    <value>Delete {item} permanently?</value>
+    <value>{item} definitief verwijderen?</value>
   </data>
 	<data name="Item.DeleteTitle" xml:space="preserve">
-    <value>Delete {item}</value>
+    <value>{item} verwijderen</value>
   </data>
 	<data name="Item.DeriveHelp" xml:space="preserve">
-    <value>Derive {item}</value>
+    <value>{item} afleiden</value>
   </data>
 	<data name="Item.Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bewerken</value>
   </data>
 	<data name="Item.EditHelp" xml:space="preserve">
-    <value>Edit {item}</value>
+    <value>{item} bewerken</value>
   </data>
 	<data name="Item.EditTitle" xml:space="preserve">
-    <value>Edit {item}</value>
+    <value>{item} bewerken</value>
   </data>
 	<data name="Item.InitOnlyField" xml:space="preserve">
-    <value>init-only</value>
+    <value>alleen initialisatie</value>
   </data>
 	<data name="Item.NotAvailable" xml:space="preserve">
-    <value>No {item} available</value>
+    <value>Geen {item} beschikbaar</value>
   </data>
 	<data name="Item.ReadOnlyField" xml:space="preserve">
-    <value>read-only</value>
+    <value>alleen-lezen</value>
   </data>
 	<data name="Item.Remove" xml:space="preserve">
-    <value>Remove</value>
+    <value>Verwijderen</value>
   </data>
 	<data name="Item.RemoveAll" xml:space="preserve">
-    <value>Remove all</value>
+    <value>Alles verwijderen</value>
   </data>
 	<data name="Item.SelectToChange" xml:space="preserve">
-    <value>Select an item to view and edit it.</value>
+    <value>Selecteer een item om het te bekijken en te bewerken.</value>
   </data>
 	<data name="Item.RemoveQuery" xml:space="preserve">
-    <value>Remove {item}?</value>
+    <value>{item} verwijderen?</value>
   </data>
 	<data name="Item.RemoveHelp" xml:space="preserve">
-    <value>Remove {item}</value>
+    <value>{item} verwijderen</value>
   </data>
 	<data name="Item.Removed" xml:space="preserve">
-    <value>Removed {item}</value>
+    <value>{item} verwijderd</value>
   </data>
 	<data name="Item.SaveHelp" xml:space="preserve">
-    <value>Save {item}</value>
+    <value>{item} opslaan</value>
   </data>
 	<data name="Item.Saved" xml:space="preserve">
-    <value>{item} saved</value>
+    <value>{item} opgeslagen</value>
   </data>
 	<data name="Item.SelectParent" xml:space="preserve">
-    <value>Select {item}</value>
+    <value>{item} selecteren</value>
   </data>
 	<data name="Item.Updated" xml:space="preserve">
-    <value>{item} updated</value>
+    <value>{item} bijgewerkt</value>
   </data>
 	<data name="Localization.DialogTitle" xml:space="preserve">
-    <value>{localization} localizations</value>
+    <value>{localization} lokalisaties</value>
   </data>
 	<data name="Localization.Localization" xml:space="preserve">
-    <value>Localization</value>
+    <value>Lokalisatie</value>
   </data>
 	<data name="Localization.LocalizationBase" xml:space="preserve">
-    <value>Localization base</value>
+    <value>Lokalisatiebasis</value>
   </data>
 	<data name="Localization.Localizations" xml:space="preserve">
-    <value>Localizations</value>
+    <value>Lokalisaties</value>
   </data>
 	<data name="Localization.NotAvailable" xml:space="preserve">
-    <value>No localizations available</value>
+    <value>Geen lokalisaties beschikbaar</value>
   </data>
 	<data name="Log.Comment" xml:space="preserve">
-    <value>Comment</value>
+    <value>Opmerking</value>
   </data>
 	<data name="Log.Level" xml:space="preserve">
-    <value>Level</value>
+    <value>Niveau</value>
   </data>
 	<data name="Log.Log" xml:space="preserve">
-    <value>Log</value>
+    <value>Logboek</value>
   </data>
 	<data name="Log.Logs" xml:space="preserve">
-    <value>Logs</value>
+    <value>Logboeken</value>
   </data>
 	<data name="Log.Message" xml:space="preserve">
-    <value>Message</value>
+    <value>Bericht</value>
   </data>
 	<data name="Log.NotAvailable" xml:space="preserve">
-    <value>No logs available</value>
+    <value>Geen logboeken beschikbaar</value>
   </data>
 	<data name="Log.OwnerType" xml:space="preserve">
-    <value>Owner type</value>
+    <value>Eigenaartype</value>
   </data>
 	<data name="Login.Login" xml:space="preserve">
-    <value>Login</value>
+    <value>Inloggen</value>
   </data>
 	<data name="Login.NewPasswordTitle" xml:space="preserve">
-    <value>Create new password</value>
+    <value>Nieuw wachtwoord aanmaken</value>
   </data>
 	<data name="Login.Password" xml:space="preserve">
-    <value>Password</value>
+    <value>Wachtwoord</value>
   </data>
 	<data name="Login.PasswordInfo" xml:space="preserve">
-    <value>Password: 1 digit, 1 lowercase, 1 uppercase, 1 special character and minimum 8 characters</value>
+    <value>Wachtwoord: 1 cijfer, 1 kleine letter, 1 hoofdletter, 1 speciaal teken en minimaal 8 tekens</value>
   </data>
 	<data name="Login.TenantHelp" xml:space="preserve">
-    <value>Please select a tenant</value>
+    <value>Selecteer een huurder</value>
   </data>
 	<data name="Login.UserHelp" xml:space="preserve">
-    <value>Please enter your identification</value>
+    <value>Voer uw identificatie in</value>
   </data>
 	<data name="Lookup.Lookup" xml:space="preserve">
     <value>Lookup</value>
   </data>
 	<data name="Lookup.LookupName" xml:space="preserve">
-    <value>Lookup name</value>
+    <value>Lookup-naam</value>
   </data>
 	<data name="Lookup.Lookups" xml:space="preserve">
     <value>Lookups</value>
   </data>
 	<data name="Lookup.RangeSize" xml:space="preserve">
-    <value>Range size</value>
+    <value>Bereikgrootte</value>
   </data>
 	<data name="Lookup.TextFieldName" xml:space="preserve">
-    <value>Text field name</value>
+    <value>Tekstveldnaam</value>
   </data>
 	<data name="Lookup.ValueFieldName" xml:space="preserve">
-    <value>Value field name</value>
+    <value>Waardeveldnaam</value>
   </data>
 	<data name="LookupValue.LookupValue" xml:space="preserve">
-    <value>Lookup value</value>
+    <value>Lookup-waarde</value>
   </data>
 	<data name="LookupValue.LookupValues" xml:space="preserve">
-    <value>Lookup values</value>
+    <value>Lookup-waarden</value>
   </data>
 	<data name="LookupValue.RangeValue" xml:space="preserve">
-    <value>Range value</value>
+    <value>Bereikwaarde</value>
   </data>
 	<data name="Payroll.CollectorRetro" xml:space="preserve">
     <value>Collector retro</value>
   </data>
 	<data name="Payroll.NotAvailable" xml:space="preserve">
-    <value>No payroll available</value>
+    <value>Geen payroll beschikbaar</value>
   </data>
 	<data name="Payroll.Payroll" xml:space="preserve">
     <value>Payroll</value>
@@ -1418,127 +1418,127 @@
     <value>Payrolls</value>
   </data>
 	<data name="Payroll.WageTypePeriod" xml:space="preserve">
-    <value>Wage type period</value>
+    <value>Looncomponentperiode</value>
   </data>
 	<data name="Payroll.WageTypeRetro" xml:space="preserve">
-    <value>Wage type retro</value>
+    <value>Looncomponent retro</value>
   </data>
 	<data name="PayrollLayer.DefaultLevel" xml:space="preserve">
-    <value>Default level is 1</value>
+    <value>Standaardniveau is 1</value>
   </data>
 	<data name="PayrollLayer.InvalidBaseRegulation" xml:space="preserve">
-    <value>Invalid base regulation</value>
+    <value>Ongeldige basisregeling</value>
   </data>
 	<data name="PayrollLayer.InvalidPayrollRegulation" xml:space="preserve">
-    <value>No regulations available, please add a regulation to the payroll.</value>
+    <value>Geen regelingen beschikbaar, voeg een regeling toe aan de payroll.</value>
   </data>
 	<data name="PayrollLayer.Level" xml:space="preserve">
-    <value>Level</value>
+    <value>Niveau</value>
   </data>
 	<data name="PayrollLayer.MissingBaseRegulation" xml:space="preserve">
-    <value>Missing base regulation {regulation}</value>
+    <value>Ontbrekende basisregeling {regulation}</value>
   </data>
 	<data name="PayrollLayer.MissingRegulation" xml:space="preserve">
-    <value>Missing regulation {regulation}</value>
+    <value>Ontbrekende regeling {regulation}</value>
   </data>
 	<data name="PayrollLayer.NextLevelHelp" xml:space="preserve">
-    <value>Set the next free level</value>
+    <value>Volgend vrij niveau instellen</value>
   </data>
 	<data name="PayrollLayer.NextPriorityHelp" xml:space="preserve">
-    <value>Set the next free priority</value>
+    <value>Volgende vrije prioriteit instellen</value>
   </data>
 	<data name="PayrollLayer.PayrollLayer" xml:space="preserve">
-    <value>Payroll layer</value>
+    <value>Payroll-laag</value>
   </data>
 	<data name="PayrollLayer.PayrollLayers" xml:space="preserve">
-    <value>Payroll layers</value>
+    <value>Payroll-lagen</value>
   </data>
 	<data name="PayrollLayer.Priority" xml:space="preserve">
-    <value>Priority</value>
+    <value>Prioriteit</value>
   </data>
 	<data name="PayrollLayer.RuleLevelMin" xml:space="preserve">
-    <value>Level must be 1 or greater</value>
+    <value>Niveau moet 1 of hoger zijn</value>
   </data>
 	<data name="PayrollLayer.RulePriorityMin" xml:space="preserve">
-    <value>Priority must be 1 or greater</value>
+    <value>Prioriteit moet 1 of hoger zijn</value>
   </data>
 	<data name="Payrun.DefaultReason" xml:space="preserve">
-    <value>Default reason</value>
+    <value>Standaardreden</value>
   </data>
 	<data name="Payrun.EmployeeAvailableExpression" xml:space="preserve">
-    <value>Employee available expression</value>
+    <value>Werknemer beschikbaarheidsexpressie</value>
   </data>
 	<data name="Payrun.EmployeeEndExpression" xml:space="preserve">
-    <value>Employee end expression</value>
+    <value>Werknemer eindexpressie</value>
   </data>
 	<data name="Payrun.EmployeeStartExpression" xml:space="preserve">
-    <value>Employee start expression</value>
+    <value>Werknemer startexpressie</value>
   </data>
 	<data name="Payrun.EndExpression" xml:space="preserve">
-    <value>End expression</value>
+    <value>Eindexpressie</value>
   </data>
 	<data name="Payrun.Expressions" xml:space="preserve">
-    <value>Expressions</value>
+    <value>Expressies</value>
   </data>
 	<data name="Payrun.NotAvailable" xml:space="preserve">
-    <value>No payruns available</value>
+    <value>Geen loonverwerkingen beschikbaar</value>
   </data>
 	<data name="Payrun.Parameters" xml:space="preserve">
     <value>Parameters</value>
   </data>
 	<data name="Payrun.Payrun" xml:space="preserve">
-    <value>Payrun</value>
+    <value>Loonverwerking</value>
   </data>
 	<data name="Payrun.Payruns" xml:space="preserve">
-    <value>Payruns</value>
+    <value>Loonverwerkingen</value>
   </data>
 	<data name="Payrun.RetroTimeType" xml:space="preserve">
-    <value>Retro time type</value>
+    <value>Retro-tijdtype</value>
   </data>
 	<data name="Payrun.StartExpression" xml:space="preserve">
-    <value>Start expression</value>
+    <value>Startexpressie</value>
   </data>
 	<data name="Payrun.UnknownPayrun" xml:space="preserve">
-    <value>Unknown payrun {payrun}</value>
+    <value>Onbekende loonverwerking {payrun}</value>
   </data>
 	<data name="Payrun.WageTypeAvailableExpression" xml:space="preserve">
-    <value>Wage type available expression</value>
+    <value>Looncomponent beschikbaarheidsexpressie</value>
   </data>
 	<data name="PayrunJob.Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>Kopiëren</value>
   </data>
 	<data name="PayrunJob.DefaultReason" xml:space="preserve">
-    <value>Change to status {status}</value>
+    <value>Wijziging naar status {status}</value>
   </data>
 	<data name="PayrunJob.JobCompleted" xml:space="preserve">
-    <value>Payrun job completed successfully</value>
+    <value>Loonverwerkingstaak succesvol voltooid</value>
   </data>
 	<data name="PayrunJob.JobDate" xml:space="preserve">
-    <value>Job date</value>
+    <value>Taakdatum</value>
   </data>
 	<data name="PayrunJob.JobProcessing" xml:space="preserve">
-    <value>Completed {percent}%</value>
+    <value>{percent}% voltooid</value>
   </data>
 	<data name="PayrunJob.JobFailed" xml:space="preserve">
-    <value>Payrun job execution failed</value>
+    <value>Uitvoering loonverwerkingstaak mislukt</value>
   </data>
 	<data name="PayrunJob.JobHistory" xml:space="preserve">
-    <value>History</value>
+    <value>Geschiedenis</value>
   </data>
 	<data name="PayrunJob.EvaluationDate" xml:space="preserve">
-    <value>Evaluation date</value>
+    <value>Evaluatiedatum</value>
   </data>
 	<data name="PayrunJob.JobName" xml:space="preserve">
-    <value>Name</value>
+    <value>Naam</value>
   </data>
 	<data name="PayrunJob.JobPeriod" xml:space="preserve">
-    <value>Period</value>
+    <value>Periode</value>
   </data>
 	<data name="PayrunJob.JobReason" xml:space="preserve">
-    <value>Reason</value>
+    <value>Reden</value>
   </data>
 	<data name="PayrunJob.JobResults" xml:space="preserve">
-    <value>Job results</value>
+    <value>Taakresultaten</value>
   </data>
 	<data name="PayrunJob.JobStart" xml:space="preserve">
     <value>Start</value>
@@ -1547,202 +1547,202 @@
     <value>Status</value>
   </data>
 	<data name="PayrunJob.JobValidationFailed" xml:space="preserve">
-    <value>Payrun job validation failed</value>
+    <value>Validatie loonverwerkingstaak mislukt</value>
   </data>
 	<data name="PayrunJob.Legal" xml:space="preserve">
-    <value>Legal</value>
+    <value>Definitief</value>
   </data>
 	<data name="PayrunJob.MissingJobPeriod" xml:space="preserve">
-    <value>Missing job period</value>
+    <value>Ontbrekende taakperiode</value>
   </data>
 	<data name="PayrunJob.MissingJobReason" xml:space="preserve">
-    <value>Missing job reason</value>
+    <value>Ontbrekende taakreden</value>
   </data>
 	<data name="PayrunJob.New" xml:space="preserve">
-    <value>New</value>
+    <value>Nieuw</value>
   </data>
 	<data name="PayrunJob.NotAvailable" xml:space="preserve">
-    <value>No payrun jobs available</value>
+    <value>Geen loonverwerkingstaken beschikbaar</value>
   </data>
 	<data name="PayrunJob.PayrunJob" xml:space="preserve">
-    <value>Payrun job</value>
+    <value>Loonverwerkingstaak</value>
   </data>
 	<data name="PayrunJob.PayrunJobs" xml:space="preserve">
-    <value>Payrun jobs</value>
+    <value>Loonverwerkingstaken</value>
   </data>
 	<data name="PayrunJob.ShowJobDetails" xml:space="preserve">
-    <value>Show job details</value>
+    <value>Taakdetails tonen</value>
   </data>
 	<data name="PayrunJob.StartPayrun" xml:space="preserve">
-    <value>Start payrun</value>
+    <value>Loonverwerking starten</value>
   </data>
 	<data name="PayrunJob.StatusChanged" xml:space="preserve">
-    <value>Changed payrun job status to {status}</value>
+    <value>Status loonverwerkingstaak gewijzigd naar {status}</value>
   </data>
 	<data name="PayrunJob.ChangeStatusQuery" xml:space="preserve">
-    <value>Changed job status from «{source}» to «{target}»?</value>
+    <value>Taakstatus wijzigen van «{source}» naar «{target}»?</value>
   </data>
 	<data name="PayrunParameter.CountParameters" xml:space="preserve">
     <value>{count} parameters</value>
   </data>
 	<data name="PayrunParameter.NoParameters" xml:space="preserve">
-    <value>No parameters</value>
+    <value>Geen parameters</value>
   </data>
 	<data name="PayrunParameter.NotAvailable" xml:space="preserve">
-    <value>No payrun parameters available</value>
+    <value>Geen loonverwerkingsparameters beschikbaar</value>
   </data>
 	<data name="PayrunParameter.PayrunParameter" xml:space="preserve">
-    <value>Payrun parameter</value>
+    <value>Loonverwerkingsparameter</value>
   </data>
 	<data name="PayrunParameter.PayrunParameters" xml:space="preserve">
-    <value>Payrun parameters</value>
+    <value>Loonverwerkingsparameters</value>
   </data>
 	<data name="PayrunResult.KindName" xml:space="preserve">
-    <value>Name</value>
+    <value>Naam</value>
   </data>
 	<data name="PayrunResult.NotAvailable" xml:space="preserve">
-    <value>No payrun results available</value>
+    <value>Geen loonverwerkingsresultaten beschikbaar</value>
   </data>
 	<data name="PayrunResult.PayrunResult" xml:space="preserve">
-    <value>Payrun result</value>
+    <value>Loonverwerkingsresultaat</value>
   </data>
 	<data name="PayrunResult.PayrunResults" xml:space="preserve">
-    <value>Payrun results</value>
+    <value>Loonverwerkingsresultaten</value>
   </data>
 	<data name="PayrunResult.Period" xml:space="preserve">
-    <value>Period</value>
+    <value>Periode</value>
   </data>
 	<data name="PayrunResult.ResultKind" xml:space="preserve">
-    <value>Result type</value>
+    <value>Resultaattype</value>
   </data>
 	<data name="Shared.NumericValue" xml:space="preserve">
-    <value># Value</value>
+    <value># Waarde</value>
   </data>
 	<data name="Regulation.InheritanceBase" xml:space="preserve">
-    <value>Base</value>
+    <value>Basis</value>
   </data>
 	<data name="Regulation.InheritanceDerived" xml:space="preserve">
-    <value>Derived</value>
+    <value>Afgeleid</value>
   </data>
 	<data name="Regulation.InheritanceNew" xml:space="preserve">
-    <value>New</value>
+    <value>Nieuw</value>
   </data>
 	<data name="Regulation.Missing" xml:space="preserve">
-    <value>Please create the regulation before</value>
+    <value>Maak eerst de regeling aan</value>
   </data>
 	<data name="Regulation.NotAvailable" xml:space="preserve">
-    <value>No regulations available</value>
+    <value>Geen regelingen beschikbaar</value>
   </data>
 	<data name="Regulation.Regulation" xml:space="preserve">
-    <value>Regulation</value>
+    <value>Regeling</value>
   </data>
 	<data name="Regulation.Regulations" xml:space="preserve">
-    <value>Regulations</value>
+    <value>Regelingen</value>
   </data>
 	<data name="Regulation.SharedRegulation" xml:space="preserve">
-    <value>Shared regulation</value>
+    <value>Gedeelde regeling</value>
   </data>
 	<data name="Regulation.ValidFrom" xml:space="preserve">
-    <value>Valid from</value>
+    <value>Geldig vanaf</value>
   </data>
 	<data name="Regulation.Namespace" xml:space="preserve">
     <value>Namespace</value>
   </data>
 	<data name="Regulation.Version" xml:space="preserve">
-    <value>Version</value>
+    <value>Versie</value>
   </data>
 	<data name="RegulationShare.ConsumerDivision" xml:space="preserve">
-    <value>Consumer division</value>
+    <value>Afnemerafdeling</value>
   </data>
 	<data name="RegulationShare.ConsumerTenant" xml:space="preserve">
-    <value>Consumer tenant</value>
+    <value>Afnemerhuurder</value>
   </data>
 	<data name="RegulationShare.MissingTenants" xml:space="preserve">
-    <value>Missing tenants</value>
+    <value>Ontbrekende huurders</value>
   </data>
 	<data name="RegulationShare.MissingDivisions" xml:space="preserve">
-    <value>Missing divisions</value>
+    <value>Ontbrekende afdelingen</value>
   </data>
 	<data name="RegulationShare.MissingSharedRegulations" xml:space="preserve">
-    <value>Missing shared regulations</value>
+    <value>Ontbrekende gedeelde regelingen</value>
   </data>
 	<data name="RegulationShare.MissingShares" xml:space="preserve">
-    <value>Please select a tenant with shared regulations</value>
+    <value>Selecteer een huurder met gedeelde regelingen</value>
   </data>
 	<data name="RegulationShare.NotAvailable" xml:space="preserve">
-    <value>No regulation shares available</value>
+    <value>Geen regelingsshares beschikbaar</value>
   </data>
 	<data name="RegulationShare.ProviderRegulation" xml:space="preserve">
-    <value>Provider regulation</value>
+    <value>Aanbiederregeling</value>
   </data>
 	<data name="RegulationShare.ProviderTenant" xml:space="preserve">
-    <value>Provider tenant</value>
+    <value>Aanbiederhuurder</value>
   </data>
 	<data name="RegulationShare.RegulationShare" xml:space="preserve">
-    <value>Regulation share</value>
+    <value>Regelingsshare</value>
   </data>
 	<data name="RegulationShare.RegulationShares" xml:space="preserve">
-    <value>Regulation shares</value>
+    <value>Regelingsshares</value>
   </data>
 	<data name="RegulationShare.IsolationLevel" xml:space="preserve">
-    <value>Isolation level</value>
+    <value>Isolatieniveau</value>
   </data>
 	<data name="Report.AttributeMode" xml:space="preserve">
-    <value>Attribute mode</value>
+    <value>Attribuutmodus</value>
   </data>
 	<data name="Report.BuildExpression" xml:space="preserve">
-    <value>Build expression</value>
+    <value>Opbouwexpressie</value>
   </data>
 	<data name="Report.Category" xml:space="preserve">
-    <value>Category</value>
+    <value>Categorie</value>
   </data>
 	<data name="Report.EndExpression" xml:space="preserve">
-    <value>End expression</value>
+    <value>Eindexpressie</value>
   </data>
 	<data name="Report.Excel" xml:space="preserve">
     <value>Excel</value>
   </data>
 	<data name="Report.ExecutionError" xml:space="preserve">
-    <value>Report execution failure</value>
+    <value>Uitvoering rapport mislukt</value>
   </data>
 	<data name="Report.NotAvailable" xml:space="preserve">
-    <value>No reports available</value>
+    <value>Geen rapporten beschikbaar</value>
   </data>
 	<data name="Report.Pdf" xml:space="preserve">
     <value>Pdf</value>
   </data>
 	<data name="Report.BuildingReport" xml:space="preserve">
-    <value>Building report...</value>
+    <value>Rapport wordt opgebouwd...</value>
   </data>
 	<data name="Report.Relation" xml:space="preserve">
-    <value>Relation</value>
+    <value>Relatie</value>
   </data>
 	<data name="Report.RelationChildColumn" xml:space="preserve">
-    <value>Child column</value>
+    <value>Onderliggende kolom</value>
   </data>
 	<data name="Report.RelationChildTable" xml:space="preserve">
-    <value>Child table</value>
+    <value>Onderliggende tabel</value>
   </data>
 	<data name="Report.RelationNotAvailable" xml:space="preserve">
-    <value>No relations available</value>
+    <value>Geen relaties beschikbaar</value>
   </data>
 	<data name="Report.RelationParentColumn" xml:space="preserve">
-    <value>Parent column</value>
+    <value>Bovenliggende kolom</value>
   </data>
 	<data name="Report.RelationParentTable" xml:space="preserve">
-    <value>Parent table</value>
+    <value>Bovenliggende tabel</value>
   </data>
 	<data name="Report.Relations" xml:space="preserve">
-    <value>Relations</value>
+    <value>Relaties</value>
   </data>
 	<data name="Report.Report" xml:space="preserve">
-    <value>Report</value>
+    <value>Rapport</value>
   </data>
 	<data name="Report.Reports" xml:space="preserve">
-    <value>Reports</value>
+    <value>Rapporten</value>
   </data>
 	<data name="Report.StartExpression" xml:space="preserve">
-    <value>Start expression</value>
+    <value>Startexpressie</value>
   </data>
 	<data name="Report.Word" xml:space="preserve">
     <value>Word</value>
@@ -1754,64 +1754,64 @@
     <value>XML</value>
   </data>
 	<data name="ReportLog.Message" xml:space="preserve">
-    <value>Message</value>
+    <value>Bericht</value>
   </data>
 	<data name="ReportLog.NotAvailable" xml:space="preserve">
-    <value>No report logs available</value>
+    <value>Geen rapportlogboeken beschikbaar</value>
   </data>
 	<data name="ReportLog.ReportDate" xml:space="preserve">
-    <value>Report date</value>
+    <value>Rapportdatum</value>
   </data>
 	<data name="ReportLog.ReportLog" xml:space="preserve">
-    <value>Report log</value>
+    <value>Rapportlogboek</value>
   </data>
 	<data name="ReportLog.ReportLogs" xml:space="preserve">
-    <value>Report logs</value>
+    <value>Rapportlogboeken</value>
   </data>
 	<data name="ReportParameter.ParameterType" xml:space="preserve">
-    <value>Parameter type</value>
+    <value>Parametertype</value>
   </data>
 	<data name="ReportParameter.ReportParameter" xml:space="preserve">
-    <value>Report parameter</value>
+    <value>Rapportparameter</value>
   </data>
 	<data name="ReportParameter.ReportParameters" xml:space="preserve">
-    <value>Report parameters</value>
+    <value>Rapportparameters</value>
   </data>
 	<data name="ReportQuery.NotAvailable" xml:space="preserve">
-    <value>No report queries available</value>
+    <value>Geen rapportquery's beschikbaar</value>
   </data>
 	<data name="ReportQuery.ReportQuery" xml:space="preserve">
-    <value>Report query</value>
+    <value>Rapportquery</value>
   </data>
 	<data name="ReportQuery.ReportQuerys" xml:space="preserve">
-    <value>Report queries</value>
+    <value>Rapportquery's</value>
   </data>
 	<data name="ReportTemplate.Content" xml:space="preserve">
-    <value>Content</value>
+    <value>Inhoud</value>
   </data>
 	<data name="ReportTemplate.ContentType" xml:space="preserve">
-    <value>Content type</value>
+    <value>Inhoudstype</value>
   </data>
 	<data name="ReportTemplate.ReportTemplate" xml:space="preserve">
-    <value>Report template</value>
+    <value>Rapportsjabloon</value>
   </data>
 	<data name="ReportTemplate.ReportTemplates" xml:space="preserve">
-    <value>Report templates</value>
+    <value>Rapportsjablonen</value>
   </data>
 	<data name="ReportTemplate.Resource" xml:space="preserve">
     <value>Resource</value>
   </data>
 	<data name="ReportTemplate.MissingContentError" xml:space="preserve">
-    <value>Missing template content.</value>
+    <value>Ontbrekende sjablooninhoud.</value>
   </data>
 	<data name="ReportTemplate.Schema" xml:space="preserve">
     <value>Schema</value>
   </data>
 	<data name="Script.FunctionTypes" xml:space="preserve">
-    <value>Function types</value>
+    <value>Functietypen</value>
   </data>
 	<data name="Script.FunctionCount" xml:space="preserve">
-    <value>{count} functions</value>
+    <value>{count} functies</value>
   </data>
 	<data name="Script.Script" xml:space="preserve">
     <value>Script</value>
@@ -1820,91 +1820,91 @@
     <value>Scripts</value>
   </data>
 	<data name="Script.SingleFunction" xml:space="preserve">
-    <value>1 function</value>
+    <value>1 functie</value>
   </data>
 	<data name="Shared,Text" xml:space="preserve">
-    <value>Text</value>
+    <value>Tekst</value>
   </data>
 	<data name="Shared.All" xml:space="preserve">
-    <value>All</value>
+    <value>Alle</value>
   </data>
 	<data name="Shared.Calendar" xml:space="preserve">
-    <value>Calendar</value>
+    <value>Kalender</value>
   </data>
 	<data name="Shared.Clusters" xml:space="preserve">
     <value>Clusters</value>
   </data>
 	<data name="Shared.CommonFields" xml:space="preserve">
-    <value>Common</value>
+    <value>Algemeen</value>
   </data>
 	<data name="Shared.Properties" xml:space="preserve">
-    <value>Properties</value>
+    <value>Eigenschappen</value>
   </data>
 	<data name="Shared.Property" xml:space="preserve">
-    <value>Property</value>
+    <value>Eigenschap</value>
   </data>
 	<data name="Shared.Culture" xml:space="preserve">
-    <value>Culture</value>
+    <value>Cultuur</value>
   </data>
 	<data name="Shared.Description" xml:space="preserve">
-    <value>Description</value>
+    <value>Beschrijving</value>
   </data>
 	<data name="Shared.DownloadCompleted" xml:space="preserve">
-    <value>Download completed</value>
+    <value>Download voltooid</value>
   </data>
 	<data name="Shared.End" xml:space="preserve">
-    <value>End</value>
+    <value>Einde</value>
   </data>
 	<data name="Shared.ExcelDownload" xml:space="preserve">
-    <value>Excel download</value>
+    <value>Excel-download</value>
   </data>
 	<data name="Shared.FeaturesAdmin" xml:space="preserve">
-    <value>Administration</value>
+    <value>Beheer</value>
   </data>
 	<data name="Shared.FeaturesSystem" xml:space="preserve">
-    <value>System</value>
+    <value>Systeem</value>
   </data>
 	<data name="Shared.Field" xml:space="preserve">
-    <value>Field</value>
+    <value>Veld</value>
   </data>
 	<data name="Shared.FilterReset" xml:space="preserve">
-    <value>Filter reset</value>
+    <value>Filter herstellen</value>
   </data>
 	<data name="Shared.Identifier" xml:space="preserve">
-    <value>Identifier</value>
+    <value>Identificatie</value>
   </data>
 	<data name="Shared.ImmediateChanges" xml:space="preserve">
-    <value>Changes are applied immediately</value>
+    <value>Wijzigingen worden direct toegepast</value>
   </data>
 	<data name="Shared.Immutable" xml:space="preserve">
-    <value>Immutable</value>
+    <value>Onveranderlijk</value>
   </data>
 	<data name="Shared.Inheritance" xml:space="preserve">
-    <value>Inheritance</value>
+    <value>Overerving</value>
   </data>
 	<data name="Shared.JsonReformat" xml:space="preserve">
-    <value>Json reformat</value>
+    <value>Json herformatteren</value>
   </data>
 	<data name="Shared.Key" xml:space="preserve">
-    <value>Key</value>
+    <value>Sleutel</value>
   </data>
 	<data name="Shared.Language" xml:space="preserve">
-    <value>Language</value>
+    <value>Taal</value>
   </data>
 	<data name="Shared.Mandatory" xml:space="preserve">
-    <value>Mandatory</value>
+    <value>Verplicht</value>
   </data>
 	<data name="Shared.Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Naam</value>
   </data>
 	<data name="Shared.None" xml:space="preserve">
-    <value>None</value>
+    <value>Geen</value>
   </data>
 	<data name="Shared.NotAvailable" xml:space="preserve">
-    <value>Not available</value>
+    <value>Niet beschikbaar</value>
   </data>
 	<data name="Shared.ObjectCreated" xml:space="preserve">
-    <value>Created</value>
+    <value>Aangemaakt</value>
   </data>
 	<data name="Shared.ObjectId" xml:space="preserve">
     <value>Id</value>
@@ -1913,19 +1913,19 @@
     <value>Status</value>
   </data>
 	<data name="Shared.ObjectUpdated" xml:space="preserve">
-    <value>Updated</value>
+    <value>Bijgewerkt</value>
   </data>
 	<data name="Shared.Order" xml:space="preserve">
-    <value>Order</value>
+    <value>Volgorde</value>
   </data>
 	<data name="Shared.OverrideType" xml:space="preserve">
-    <value>Override type</value>
+    <value>Overschrijvingstype</value>
   </data>
 	<data name="Shared.Owner" xml:space="preserve">
-    <value>Owner</value>
+    <value>Eigenaar</value>
   </data>
 	<data name="Shared.SelectAll" xml:space="preserve">
-    <value>Select all</value>
+    <value>Alles selecteren</value>
   </data>
 	<data name="Shared.Start" xml:space="preserve">
     <value>Start</value>
@@ -1937,151 +1937,151 @@
     <value>Type</value>
   </data>
 	<data name="Shared.Value" xml:space="preserve">
-    <value>Value</value>
+    <value>Waarde</value>
   </data>
 	<data name="Shared.ValueType" xml:space="preserve">
-    <value>Value type</value>
+    <value>Waardetype</value>
   </data>
 	<data name="Storage.Cleared" xml:space="preserve">
-    <value>Storage cleared</value>
+    <value>Opslag gewist</value>
   </data>
 	<data name="Storage.ClearQuery" xml:space="preserve">
-    <value>Remove all {count} storage items?</value>
+    <value>Alle {count} opslagitems verwijderen?</value>
   </data>
 	<data name="Storage.ClearStorage" xml:space="preserve">
-    <value>Clear storage</value>
+    <value>Opslag wissen</value>
   </data>
 	<data name="Storage.NotAvailable" xml:space="preserve">
-    <value>No storage items available</value>
+    <value>Geen opslagitems beschikbaar</value>
   </data>
 	<data name="Storage.Storage" xml:space="preserve">
-    <value>User storage</value>
+    <value>Gebruikersopslag</value>
   </data>
 	<data name="Storage.StorageItem" xml:space="preserve">
-    <value>Storage item</value>
+    <value>Opslagitem</value>
   </data>
 	<data name="Task.Category" xml:space="preserve">
-    <value>Category</value>
+    <value>Categorie</value>
   </data>
 	<data name="Task.Complete" xml:space="preserve">
-    <value>Complete</value>
+    <value>Voltooid</value>
   </data>
 	<data name="Task.CompletedDate" xml:space="preserve">
-    <value>Completed date</value>
+    <value>Voltooiingsdatum</value>
   </data>
 	<data name="Task.CompleteToggle" xml:space="preserve">
-    <value>Show completed</value>
+    <value>Voltooide tonen</value>
   </data>
 	<data name="Task.CompleteToggleHelp" xml:space="preserve">
-    <value>Show or hide completed tasks</value>
+    <value>Voltooide taken tonen of verbergen</value>
   </data>
 	<data name="Task.Instruction" xml:space="preserve">
-    <value>Instruction</value>
+    <value>Instructie</value>
   </data>
 	<data name="Task.NotAvailable" xml:space="preserve">
-    <value>No tasks available</value>
+    <value>Geen taken beschikbaar</value>
   </data>
 	<data name="Task.ScheduledDate" xml:space="preserve">
-    <value>Scheduled date</value>
+    <value>Geplande datum</value>
   </data>
 	<data name="Task.Task" xml:space="preserve">
-    <value>Task</value>
+    <value>Taak</value>
   </data>
 	<data name="Task.Tasks" xml:space="preserve">
-    <value>Tasks</value>
+    <value>Taken</value>
   </data>
 	<data name="Tenant.NotAvailable" xml:space="preserve">
-    <value>No tenants available</value>
+    <value>Geen huurders beschikbaar</value>
   </data>
 	<data name="Tenant.Tenant" xml:space="preserve">
-    <value>Tenant</value>
+    <value>Huurder</value>
   </data>
 	<data name="Tenant.Tenants" xml:space="preserve">
-    <value>Tenants</value>
+    <value>Huurders</value>
   </data>
 	<data name="User.ChangePasswordButton" xml:space="preserve">
-    <value>Change</value>
+    <value>Wijzigen</value>
   </data>
 	<data name="User.ChangePasswordTitle" xml:space="preserve">
-    <value>Change password</value>
+    <value>Wachtwoord wijzigen</value>
   </data>
 	<data name="User.ExistingPassword" xml:space="preserve">
-    <value>Existing password</value>
+    <value>Huidig wachtwoord</value>
   </data>
 	<data name="User.ExistingPasswordHelp" xml:space="preserve">
-    <value>Please enter your existing password</value>
+    <value>Voer uw huidige wachtwoord in</value>
   </data>
 	<data name="User.Features" xml:space="preserve">
-    <value>Features</value>
+    <value>Functies</value>
   </data>
 	<data name="User.FirstName" xml:space="preserve">
-    <value>First name</value>
+    <value>Voornaam</value>
   </data>
 	<data name="User.LastName" xml:space="preserve">
-    <value>Last name</value>
+    <value>Achternaam</value>
   </data>
 	<data name="User.NewPassword" xml:space="preserve">
-    <value>New password</value>
+    <value>Nieuw wachtwoord</value>
   </data>
 	<data name="User.NewPasswordHelp" xml:space="preserve">
-    <value>Please enter new password</value>
+    <value>Voer een nieuw wachtwoord in</value>
   </data>
 	<data name="User.NewPasswordRepeat" xml:space="preserve">
-    <value>Repeat password</value>
+    <value>Wachtwoord herhalen</value>
   </data>
 	<data name="User.NewPasswordRepeatHelp" xml:space="preserve">
-    <value>Please repeat new password</value>
+    <value>Herhaal het nieuwe wachtwoord</value>
   </data>
 	<data name="User.NotAvailable" xml:space="preserve">
-    <value>No users available</value>
+    <value>Geen gebruikers beschikbaar</value>
   </data>
 	<data name="User.ShowPassword" xml:space="preserve">
-    <value>Show password</value>
+    <value>Wachtwoord tonen</value>
   </data>
 	<data name="User.User" xml:space="preserve">
-    <value>User</value>
+    <value>Gebruiker</value>
   </data>
 	<data name="User.Users" xml:space="preserve">
-    <value>Users</value>
+    <value>Gebruikers</value>
   </data>
 	<data name="User.UserSettings" xml:space="preserve">
-    <value>User settings</value>
+    <value>Gebruikersinstellingen</value>
   </data>
 	<data name="User.UserType" xml:space="preserve">
-    <value>User type</value>
+    <value>Gebruikerstype</value>
   </data>
 	<data name="WageType.CollectorGroups" xml:space="preserve">
-    <value>Collector groups</value>
+    <value>Collectorgroepen</value>
   </data>
 	<data name="WageType.ResultExpression" xml:space="preserve">
-    <value>Result expression</value>
+    <value>Resultaatexpressie</value>
   </data>
 	<data name="WageType.ValueExpression" xml:space="preserve">
-    <value>Value expression</value>
+    <value>Waarde-expressie</value>
   </data>
 	<data name="WageType.ResultActions" xml:space="preserve">
-    <value>Result actions</value>
+    <value>Resultaatacties</value>
   </data>
 	<data name="WageType.ValueActions" xml:space="preserve">
-    <value>Value actions</value>
+    <value>Waarde-acties</value>
   </data>
 	<data name="WageType.WageType" xml:space="preserve">
-    <value>Wage type</value>
+    <value>Looncomponent</value>
   </data>
 	<data name="WageType.WageTypeNumber" xml:space="preserve">
-    <value>Wage type number</value>
+    <value>Looncomponentnummer</value>
   </data>
 	<data name="WageType.WageTypes" xml:space="preserve">
-    <value>Wage types</value>
+    <value>Looncomponenten</value>
   </data>
 	<data name="Webhook.Action" xml:space="preserve">
-    <value>Action</value>
+    <value>Actie</value>
   </data>
 	<data name="Webhook.NotAvailable" xml:space="preserve">
-    <value>No webhooks available</value>
+    <value>Geen webhooks beschikbaar</value>
   </data>
 	<data name="Webhook.ReceiverAddress" xml:space="preserve">
-    <value>Receiver address</value>
+    <value>Ontvangstadres</value>
   </data>
 	<data name="Webhook.Webhook" xml:space="preserve">
     <value>Webhook</value>
@@ -2090,229 +2090,229 @@
     <value>Webhooks</value>
   </data>
 	<data name="WebhookMessage.NotAvailable" xml:space="preserve">
-    <value>No webhook messages available</value>
+    <value>Geen webhookberichten beschikbaar</value>
   </data>
 	<data name="WebhookMessage.RequestDate" xml:space="preserve">
-    <value>Request date</value>
+    <value>Aanvraagdatum</value>
   </data>
 	<data name="WebhookMessage.RequestMessage" xml:space="preserve">
-    <value>Request message</value>
+    <value>Aanvraagbericht</value>
   </data>
 	<data name="WebhookMessage.RequestOperation" xml:space="preserve">
-    <value>Request operation</value>
+    <value>Aanvraagbewerking</value>
   </data>
 	<data name="WebhookMessage.ResponseDate" xml:space="preserve">
-    <value>Response date</value>
+    <value>Antwoorddatum</value>
   </data>
 	<data name="WebhookMessage.ResponseMessage" xml:space="preserve">
-    <value>Response message</value>
+    <value>Antwoordbericht</value>
   </data>
 	<data name="WebhookMessage.ResponseStatus" xml:space="preserve">
-    <value>Response status</value>
+    <value>Antwoordstatus</value>
   </data>
 	<data name="WebhookMessage.WebhookMessage" xml:space="preserve">
-    <value>Webhook message</value>
+    <value>Webhookbericht</value>
   </data>
 	<data name="WebhookMessage.WebhookMessages" xml:space="preserve">
-    <value>Webhook messages</value>
+    <value>Webhookberichten</value>
   </data>
 	<data name="App.AccessDenied" xml:space="preserve">
-    <value>Access denied</value>
+    <value>Toegang geweigerd</value>
   </data>
 	<data name="Calendar.Day" xml:space="preserve">
-    <value>Day</value>
+    <value>Dag</value>
   </data>
 	<data name="Calendar.Month" xml:space="preserve">
-    <value>Month</value>
+    <value>Maand</value>
   </data>
 	<data name="Calendar.Year" xml:space="preserve">
-    <value>Year</value>
+    <value>Jaar</value>
   </data>
 	<data name="Case.AvailableCases" xml:space="preserve">
-    <value>Available cases</value>
+    <value>Beschikbare dossiers</value>
   </data>
 	<data name="Case.CaseWithoutFields" xml:space="preserve">
-    <value>Case without fields</value>
+    <value>Dossier zonder velden</value>
   </data>
 	<data name="Case.SelectCase" xml:space="preserve">
-    <value>Please select a case</value>
+    <value>Selecteer een dossier</value>
   </data>
 	<data name="CaseChange.CaseChangeGroup" xml:space="preserve">
-    <value>Case change {group}</value>
+    <value>Dossierwijziging {group}</value>
   </data>
 	<data name="CaseField.FieldDocuments" xml:space="preserve">
-    <value>Field documents</value>
+    <value>Velddocumenten</value>
   </data>
 	<data name="ClusterSet.ExcludeClusters" xml:space="preserve">
-    <value>Exclude clusters</value>
+    <value>Clusters uitsluiten</value>
   </data>
 	<data name="ClusterSet.IncludeClusters" xml:space="preserve">
-    <value>Include clusters</value>
+    <value>Clusters insluiten</value>
   </data>
 	<data name="Document.Attachments" xml:space="preserve">
-    <value>Attachments</value>
+    <value>Bijlagen</value>
   </data>
 	<data name="Document.ContentType" xml:space="preserve">
-    <value>Content type</value>
+    <value>Inhoudstype</value>
   </data>
 	<data name="Document.DownloadTitle" xml:space="preserve">
-    <value>Download {document}</value>
+    <value>{document} downloaden</value>
   </data>
 	<data name="Error.Error" xml:space="preserve">
-    <value>Error</value>
+    <value>Fout</value>
   </data>
 	<data name="Error.MissingMandatoryValue" xml:space="preserve">
-    <value>Value is required.</value>
+    <value>Waarde is verplicht.</value>
   </data>
 	<data name="Item.RemoveTitle" xml:space="preserve">
-    <value>Remove {item}</value>
+    <value>{item} verwijderen</value>
   </data>
 	<data name="Shared.CommaSeparatedList" xml:space="preserve">
-    <value>Comma separated list</value>
+    <value>Kommagescheiden lijst</value>
   </data>
 	<data name="Shared.Search" xml:space="preserve">
-    <value>Search</value>
+    <value>Zoeken</value>
   </data>
 	<data name="Shared.TrueToggle" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ja</value>
   </data>
 	<data name="Shared.FalseToggle" xml:space="preserve">
-    <value>No</value>
+    <value>Nee</value>
   </data>
 	<data name="Report.BuildReport" xml:space="preserve">
-    <value>Build report</value>
+    <value>Rapport opbouwen</value>
   </data>
 	<data name="Report.EmptyReport" xml:space="preserve">
-    <value>Report without data</value>
+    <value>Rapport zonder gegevens</value>
   </data>
 	<data name="Report.EmptyXml" xml:space="preserve">
-    <value>Empty XML report {report}</value>
+    <value>Leeg XML-rapport {report}</value>
   </data>
 	<data name="Report.TemplateNotAvailable" xml:space="preserve">
-    <value>Report {report} not available in {culture}</value>
+    <value>Rapport {report} niet beschikbaar in {culture}</value>
   </data>
 	<data name="Report.XmlValidationError" xml:space="preserve">
-    <value>Invalid XML report {report}, please check the XSD schema</value>
+    <value>Ongeldig XML-rapport {report}, controleer het XSD-schema</value>
   </data>
 	<data name="DataGrid.AddFilter" xml:space="preserve">
-    <value>Add filter</value>
+    <value>Filter toevoegen</value>
   </data>
 	<data name="DataGrid.Apply" xml:space="preserve">
-    <value>Apply</value>
+    <value>Toepassen</value>
   </data>
 	<data name="DataGrid.Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Wissen</value>
   </data>
 	<data name="DataGrid.ClearFilter" xml:space="preserve">
-    <value>Clear Filter</value>
+    <value>Filter wissen</value>
   </data>
 	<data name="DataGrid.CollapseAllGroups" xml:space="preserve">
-    <value>Collapse all groups</value>
+    <value>Alle groepen inklappen</value>
   </data>
 	<data name="DataGrid.Column" xml:space="preserve">
-    <value>Column</value>
+    <value>Kolom</value>
   </data>
 	<data name="DataGrid.Columns" xml:space="preserve">
-    <value>Columns</value>
+    <value>Kolommen</value>
   </data>
 	<data name="DataGrid.Contains" xml:space="preserve">
-    <value>contains</value>
+    <value>bevat</value>
   </data>
 	<data name="DataGrid.EndsWith" xml:space="preserve">
-    <value>ends with</value>
+    <value>eindigt op</value>
   </data>
 	<data name="DataGrid.Equals" xml:space="preserve">
-    <value>equals</value>
+    <value>gelijk aan</value>
   </data>
 	<data name="DataGrid.ExpandAllGroups" xml:space="preserve">
-    <value>Expand all groups</value>
+    <value>Alle groepen uitklappen</value>
   </data>
 	<data name="DataGrid.False" xml:space="preserve">
-    <value>false</value>
+    <value>onwaar</value>
   </data>
 	<data name="DataGrid.Filter" xml:space="preserve">
     <value>Filter</value>
   </data>
 	<data name="DataGrid.FilterValue" xml:space="preserve">
-    <value>Filter value</value>
+    <value>Filterwaarde</value>
   </data>
 	<data name="DataGrid.Group" xml:space="preserve">
-    <value>Group</value>
+    <value>Groep</value>
   </data>
 	<data name="DataGrid.Hide" xml:space="preserve">
-    <value>Hide</value>
+    <value>Verbergen</value>
   </data>
 	<data name="DataGrid.HideAll" xml:space="preserve">
-    <value>Hide All</value>
+    <value>Alles verbergen</value>
   </data>
 	<data name="DataGrid.Is" xml:space="preserve">
     <value>is</value>
   </data>
 	<data name="DataGrid.IsAfter" xml:space="preserve">
-    <value>is after</value>
+    <value>is na</value>
   </data>
 	<data name="DataGrid.IsBefore" xml:space="preserve">
-    <value>is before</value>
+    <value>is voor</value>
   </data>
 	<data name="DataGrid.IsEmpty" xml:space="preserve">
-    <value>is empty</value>
+    <value>is leeg</value>
   </data>
 	<data name="DataGrid.IsNot" xml:space="preserve">
-    <value>is not</value>
+    <value>is niet</value>
   </data>
 	<data name="DataGrid.IsNotEmpty" xml:space="preserve">
-    <value>is not empty</value>
+    <value>is niet leeg</value>
   </data>
 	<data name="DataGrid.IsOnOrAfter" xml:space="preserve">
-    <value>is on or after</value>
+    <value>is op of na</value>
   </data>
 	<data name="DataGrid.IsOnOrBefore" xml:space="preserve">
-    <value>is on or before</value>
+    <value>is op of voor</value>
   </data>
 	<data name="DataGrid.Loading" xml:space="preserve">
-    <value>Loading...</value>
+    <value>Laden...</value>
   </data>
 	<data name="DataGrid.MoveDown" xml:space="preserve">
-    <value>Move Down</value>
+    <value>Omlaag</value>
   </data>
 	<data name="DataGrid.MoveUp" xml:space="preserve">
-    <value>Move Up</value>
+    <value>Omhoog</value>
   </data>
 	<data name="DataGrid.NotContains" xml:space="preserve">
-    <value>not contains</value>
+    <value>bevat niet</value>
   </data>
 	<data name="DataGrid.NotEquals" xml:space="preserve">
-    <value>not equals</value>
+    <value>niet gelijk aan</value>
   </data>
 	<data name="DataGrid.OpenFilters" xml:space="preserve">
-    <value>Open Filters</value>
+    <value>Filters openen</value>
   </data>
 	<data name="DataGrid.Operator" xml:space="preserve">
     <value>Operator</value>
   </data>
 	<data name="DataGrid.RemoveFilter" xml:space="preserve">
-    <value>Remove Filter</value>
+    <value>Filter verwijderen</value>
   </data>
 	<data name="DataGrid.RefreshData" xml:space="preserve">
-    <value>Refresh data</value>
+    <value>Gegevens vernieuwen</value>
   </data>
 	<data name="Dialog.Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Opslaan</value>
   </data>
 	<data name="DataGrid.ShowColumnOptions" xml:space="preserve">
-    <value>Show Column Options</value>
+    <value>Kolomopties tonen</value>
   </data>
 	<data name="DataGrid.ShowAll" xml:space="preserve">
-    <value>Show all</value>
+    <value>Alles tonen</value>
   </data>
 	<data name="DataGrid.Sort" xml:space="preserve">
-    <value>Sort</value>
+    <value>Sorteren</value>
   </data>
 	<data name="DataGrid.StartsWith" xml:space="preserve">
-    <value>starts with</value>
+    <value>begint met</value>
   </data>
 	<data name="DataGrid.ToggleGroupExpansion" xml:space="preserve">
-    <value>Toggle Group Expansion</value>
+    <value>Groep in-/uitklappen</value>
   </data>
 	<data name="DataGrid.SymbolEquals" xml:space="preserve">
     <value>=</value>
@@ -2333,213 +2333,213 @@
     <value>!=</value>
   </data>
 	<data name="DataGrid.True" xml:space="preserve">
-    <value>true</value>
+    <value>waar</value>
   </data>
 	<data name="DataGrid.Ungroup" xml:space="preserve">
-    <value>Ungroup</value>
+    <value>Groepering opheffen</value>
   </data>
 	<data name="DataGrid.Unsort" xml:space="preserve">
-    <value>Unsort</value>
+    <value>Sortering opheffen</value>
   </data>
 	<data name="DataGridPager.AllItems" xml:space="preserve">
-    <value>All</value>
+    <value>Alle</value>
   </data>
 	<data name="DataGridPager.FirstPage" xml:space="preserve">
-    <value>First Page</value>
+    <value>Eerste pagina</value>
   </data>
 	<data name="DataGridPager.InfoFormat" xml:space="preserve">
-    <value>{0}-{1} of {2}</value>
+    <value>{0}-{1} van {2}</value>
   </data>
 	<data name="DataGridPager.LastPage" xml:space="preserve">
-    <value>Last Page</value>
+    <value>Laatste pagina</value>
   </data>
 	<data name="DataGridPager.NextPage" xml:space="preserve">
-    <value>Next Page</value>
+    <value>Volgende pagina</value>
   </data>
 	<data name="DataGridPager.PreviousPage" xml:space="preserve">
-    <value>Previous Page</value>
+    <value>Vorige pagina</value>
   </data>
 	<data name="DataGridPager.RowsPerPage" xml:space="preserve">
-    <value>Rows per page:</value>
+    <value>Rijen per pagina:</value>
   </data>
 	<data name="Input.Clear" xml:space="preserve">
-    <value>Clear</value>
+    <value>Wissen</value>
   </data>
 	<data name="Input.Decrement" xml:space="preserve">
-    <value>Decrement</value>
+    <value>Verlagen</value>
   </data>
 	<data name="Input.Increment" xml:space="preserve">
-    <value>Increment</value>
+    <value>Verhogen</value>
   </data>
 	<data name="NavGroup.ToggleExpand" xml:space="preserve">
-    <value>Toggle {0}</value>
+    <value>{0} in-/uitklappen</value>
   </data>
 	<data name="SnackBar.Close" xml:space="preserve">
-    <value>Close snackbar</value>
+    <value>Snackbar sluiten</value>
   </data>
 	<data name="TimePicker.Open" xml:space="preserve">
-    <value>Open</value>
+    <value>Openen</value>
   </data>
 	<data name="DatePicker.Open" xml:space="preserve">
-    <value>Open</value>
+    <value>Openen</value>
   </data>
 	<data name="DatePicker.PrevMonth" xml:space="preserve">
-    <value>Previous month {0}</value>
+    <value>Vorige maand {0}</value>
   </data>
 	<data name="DatePicker.NextMonth" xml:space="preserve">
-    <value>Next month {0}</value>
+    <value>Volgende maand {0}</value>
   </data>
 	<data name="DatePicker.PrevYear" xml:space="preserve">
-    <value>Previous year {0}</value>
+    <value>Vorig jaar {0}</value>
   </data>
 	<data name="DatePicker.NextYear" xml:space="preserve">
-    <value>Next year {0}</value>
+    <value>Volgend jaar {0}</value>
   </data>
 	<data name="DataGrid.PagerInfoFormat" xml:space="preserve">
-    <value>{first_item}-{last_item} of {all_items}</value>
+    <value>{first_item}-{last_item} van {all_items}</value>
   </data>
 	<data name="DataGrid.PagerRowsPerPage" xml:space="preserve">
-    <value>Rows per page:</value>
+    <value>Rijen per pagina:</value>
   </data>
 	<data name="Calendar.InvalidPeriodTimeUnit" xml:space="preserve">
-    <value>Periods of '{period}' do not fit into the cycle '{cycle}'</value>
+    <value>Perioden van '{period}' passen niet in de cyclus '{cycle}'</value>
   </data>
 	<data name="Calendar.PeriodTimeUnitHelp" xml:space="preserve">
-    <value>Period time unit must fit into the cycle time unit</value>
+    <value>Periodetijdeenheid moet passen in de cyclustijdeenheid</value>
   </data>
 	<data name="Action.Action" xml:space="preserve">
-    <value>Action</value>
+    <value>Actie</value>
   </data>
 	<data name="Division.CalendarHelp" xml:space="preserve">
-    <value>Override the tenant calendar</value>
+    <value>De huurderkalender overschrijven</value>
   </data>
 	<data name="Division.CultureHelp" xml:space="preserve">
-    <value>Override the tenant culture</value>
+    <value>De huurdercultuur overschrijven</value>
   </data>
 	<data name="Employee.CalendarHelp" xml:space="preserve">
-    <value>Override the division calendar</value>
+    <value>De afdelingskalender overschrijven</value>
   </data>
 	<data name="Employee.CultureHelp" xml:space="preserve">
-    <value>Override the division culture</value>
+    <value>De afdelingscultuur overschrijven</value>
   </data>
 	<data name="Login.InvalidPassword" xml:space="preserve">
-    <value>Invalid password</value>
+    <value>Ongeldig wachtwoord</value>
   </data>
 	<data name="Login.InvalidPasswordConfirmation" xml:space="preserve">
-    <value>Invalid password confirmation</value>
+    <value>Ongeldige wachtwoordbevestiging</value>
   </data>
 	<data name="Login.MissingBackendService" xml:space="preserve">
-    <value>The payroll service is not available</value>
+    <value>De payroll-service is niet beschikbaar</value>
   </data>
 	<data name="Login.PasswordChangeError" xml:space="preserve">
-    <value>Password change error</value>
+    <value>Fout bij wachtwoordwijziging</value>
   </data>
 	<data name="Login.TenantReadError" xml:space="preserve">
-    <value>The tenant selection is currently not available</value>
+    <value>De huurderselectie is momenteel niet beschikbaar</value>
   </data>
 	<data name="Login.UnknownUser" xml:space="preserve">
-    <value>Unknown user {user}</value>
+    <value>Onbekende gebruiker {user}</value>
   </data>
 	<data name="Login.UserReadError" xml:space="preserve">
-    <value>The user selection is currently not available</value>
+    <value>De gebruikersselectie is momenteel niet beschikbaar</value>
   </data>
 	<data name="Tenant.CalendarHelp" xml:space="preserve">
-    <value>Override the default calendar</value>
+    <value>De standaardkalender overschrijven</value>
   </data>
 	<data name="Tenant.UserTenant" xml:space="preserve">
-    <value>Tenant: {tenant}</value>
+    <value>Huurder: {tenant}</value>
   </data>
 	<data name="Tenant.CultureHelp" xml:space="preserve">
-    <value>Override the system culture</value>
+    <value>De systeemcultuur overschrijven</value>
   </data>
 	<data name="CaseField.CultureHelp" xml:space="preserve">
-    <value>RFC 4646 language code: en-US, de-DE...</value>
+    <value>RFC 4646-taalcode: en-US, de-DE...</value>
   </data>
 	<data name="WageType.CalendarHelp" xml:space="preserve">
-    <value>Wage type calendar</value>
+    <value>Looncomponentkalender</value>
   </data>
 	<data name="Calendar.PeriodDayCountHelp" xml:space="preserve">
-    <value>Override the effective period day count</value>
+    <value>Het effectieve aantal dagen in de periode overschrijven</value>
   </data>
 	<data name="Calendar.PeriodCycleHelp" xml:space="preserve">
-    <value>{count} periods of '{period}' in the cycle '{cycle}'</value>
+    <value>{count} perioden van '{period}' in de cyclus '{cycle}'</value>
   </data>
 	<data name="Case.CaseAdded" xml:space="preserve">
-    <value>Case {case} successfully submitted</value>
+    <value>Dossier {case} succesvol ingediend</value>
   </data>
 	<data name="Case.CaseIgnored" xml:space="preserve">
-    <value>No data change, the case {case} was ignored</value>
+    <value>Geen gegevenswijziging, het dossier {case} is genegeerd</value>
   </data>
 	<data name="Case.MissingCase" xml:space="preserve">
-    <value>The case {name} cannot be executed</value>
+    <value>Het dossier {name} kan niet worden uitgevoerd</value>
   </data>
 	<data name="Case.SubmitCase" xml:space="preserve">
-    <value>Submit case</value>
+    <value>Dossier indienen</value>
   </data>
 	<data name="Case.SubmitCaseTitle" xml:space="preserve">
-    <value>Submit {case}</value>
+    <value>{case} indienen</value>
   </data>
 	<data name="Case.ValidationFailed" xml:space="preserve">
-    <value>Validation failed</value>
+    <value>Validatie mislukt</value>
   </data>
 	<data name="CaseField.MissingAttachment" xml:space="preserve">
-    <value>Missing attachment</value>
+    <value>Ontbrekende bijlage</value>
   </data>
 	<data name="CaseField.CaseFieldDocuments" xml:space="preserve">
-    <value>Documents</value>
+    <value>Documenten</value>
   </data>
 	<data name="CaseField.EmptyChangeHistory" xml:space="preserve">
-    <value>No change history</value>
+    <value>Geen wijzigingsgeschiedenis</value>
   </data>
 	<data name="CaseField.ChangeHistory" xml:space="preserve">
-    <value>Change history</value>
+    <value>Wijzigingsgeschiedenis</value>
   </data>
 	<data name="CaseField.MissingEnd" xml:space="preserve">
-    <value>Missing end date</value>
+    <value>Ontbrekende einddatum</value>
   </data>
 	<data name="CaseField.MissingStart" xml:space="preserve">
-    <value>Missing start date</value>
+    <value>Ontbrekende startdatum</value>
   </data>
 	<data name="CaseField.MissingValue" xml:space="preserve">
-    <value>Missing value</value>
+    <value>Ontbrekende waarde</value>
   </data>
 	<data name="Shared.Hidden" xml:space="preserve">
-    <value>Hidden</value>
+    <value>Verborgen</value>
   </data>
 	<data name="Shared.UnsaveChangesTitle" xml:space="preserve">
-    <value>Unsaved Changes</value>
+    <value>Niet-opgeslagen wijzigingen</value>
   </data>
 	<data name="Shared.UnsaveChangesQuery" xml:space="preserve">
-    <value>You have unsaved changes. Are you sure you want to leave?</value>
+    <value>U heeft niet-opgeslagen wijzigingen. Weet u zeker dat u wilt vertrekken?</value>
   </data>
 	<data name="Shared.Leave" xml:space="preserve">
-    <value>Leave</value>
+    <value>Vertrekken</value>
   </data>
 	<data name="Shared.Stay" xml:space="preserve">
-    <value>Stay</value>
+    <value>Blijven</value>
   </data>
 	<data name="Case.SubmitForecastCase" xml:space="preserve">
-    <value>Submit forecast case</value>
+    <value>Prognosedossier indienen</value>
   </data>
 	<data name="Collector.Negated" xml:space="preserve">
-    <value>Negated value</value>
+    <value>Genegeerde waarde</value>
   </data>
 	<data name="Error.ItemCreate" xml:space="preserve">
-    <value>{type} create error.</value>
+    <value>{type} aanmaakfout.</value>
   </data>
 	<data name="Error.ItemDerive" xml:space="preserve">
-    <value>{type} derive error.</value>
+    <value>{type} afleidingsfout.</value>
   </data>
 	<data name="Error.ItemDelete" xml:space="preserve">
-    <value>{type} delete error.</value>
+    <value>{type} verwijderingsfout.</value>
   </data>
 	<data name="Error.ItemRead" xml:space="preserve">
-    <value>{type} read error.</value>
+    <value>{type} leesfout.</value>
   </data>
 	<data name="Error.ItemUpdate" xml:space="preserve">
-    <value>{type} update error.</value>
+    <value>{type} bijwerkfout.</value>
   </data>
 	<data name="User.PasswordChanged" xml:space="preserve">
-    <value>Password changed</value>
+    <value>Wachtwoord gewijzigd</value>
   </data>
 </root>

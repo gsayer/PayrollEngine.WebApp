@@ -374,7 +374,7 @@
                                                     Style="max-width: 20em">
                                             <MudStack Spacing="0">
                                                 <MudList T="string" Style="overflow-y: auto; max-height: 40em"
-                                                         SelectedValueChanged="@(x => SelectForecast(x))"
+                                                         SelectedValueChanged="@SelectForecast"
                                                          SelectionMode="SelectionMode.SingleSelection">
                                                     <div style="overflow-y:auto">
                                                         <Virtualize Items="@ForecastHistory" Context="history">

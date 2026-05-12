@@ -168,7 +168,7 @@
     #region Division
 
     private void SetupConsumerDivisions(ClientModel.Tenant tenant) =>
-        ConsumerDivisions = Divisions[tenant];
+        ConsumerDivisions = Divisions.TryGetValue(tenant, out var divisions) ? divisions : [];
 
     private void ConsumerDivisionChanged(string consumerDivisionName)
     {
@@ -221,6 +221,18 @@
     protected override void OnInitialized()
     {
         var share = RegulationShare;
+
+        // provider regulations (edit mode)
+        if (!string.IsNullOrWhiteSpace(share.ProviderTenantIdentifier))
+        {
+            var providerTenant = Tenants.FirstOrDefault(x => string.Equals(x.Identifier, share.ProviderTenantIdentifier));
+            if (providerTenant != null && SharedRegulations.ContainsKey(providerTenant))
+            {
+                SetupProviderRegulations(providerTenant);
+            }
+        }
+
+        // consumer divisions (edit mode)
         if (!string.IsNullOrWhiteSpace(share.ConsumerTenantIdentifier))
         {
             var customerTenant = Tenants.FirstOrDefault(x => string.Equals(x.Identifier, share.ConsumerTenantIdentifier));

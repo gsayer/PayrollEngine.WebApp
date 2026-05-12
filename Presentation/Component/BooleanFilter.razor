@@ -9,7 +9,7 @@
             Style="max-width: 20em">
     <MudStack Spacing="0">
         <MudList T="string" Style="overflow-y: auto; max-height: 40em"
-                 SelectedValueChanged="@(x => SelectFilterAsync(x))">
+                 SelectedValueChanged="@SelectFilterAsync">
             <MudListItem T="string" Value="@bool.TrueString">@Localizer.Shared.TrueToggle</MudListItem>
             <MudListItem T="string" Value="@bool.FalseString">@Localizer.Shared.FalseToggle</MudListItem>
         </MudList>
