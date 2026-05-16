@@ -134,7 +134,7 @@
     <value>مسودة</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Forecast" xml:space="preserve">
-    <value>التوقعات</value>
+    <value>توقع</value>
   </data>
 	<data name="Enum.PayrunJobStatus.Process" xml:space="preserve">
     <value>معالجة</value>
@@ -1181,43 +1181,43 @@
     <value>{key} مستخدم بالفعل.</value>
   </data>
 	<data name="Forecast.Copy" xml:space="preserve">
-    <value>نسخ التوقعات</value>
+    <value>نسخ التوقع</value>
   </data>
 	<data name="Forecast.CopyQuery" xml:space="preserve">
-    <value>استبدال جميع قيم التوقعات؟</value>
+    <value>استبدال جميع قيم التوقع؟</value>
   </data>
 	<data name="Forecast.CopyToForecast" xml:space="preserve">
-    <value>نسخ المهمة إلى التوقعات</value>
+    <value>نسخ المهمة إلى التوقع</value>
   </data>
 	<data name="Forecast.Forecast" xml:space="preserve">
-    <value>التوقعات</value>
+    <value>التوقع</value>
   </data>
 	<data name="Forecast.JobHistory" xml:space="preserve">
     <value>سجل المهام</value>
   </data>
 	<data name="Forecast.JobName" xml:space="preserve">
-    <value>اسم التوقعات</value>
+    <value>اسم التوقع</value>
   </data>
 	<data name="Forecast.JobNotSupported" xml:space="preserve">
-    <value>مهام دورة رواتب التوقعات غير مدعومة</value>
+    <value>مهام دورة رواتب التوقع غير مدعومة</value>
   </data>
 	<data name="Forecast.JobPeriod" xml:space="preserve">
-    <value>فترة التوقعات</value>
+    <value>فترة التوقع</value>
   </data>
 	<data name="Forecast.JobDate" xml:space="preserve">
-    <value>تاريخ التوقعات</value>
+    <value>تاريخ التوقع</value>
   </data>
 	<data name="Forecast.Name" xml:space="preserve">
-    <value>اسم التوقعات</value>
+    <value>اسم التوقع</value>
   </data>
 	<data name="Forecast.NotAvailable" xml:space="preserve">
     <value>لا توجد توقعات متاحة</value>
   </data>
 	<data name="Forecast.PayrunJob" xml:space="preserve">
-    <value>مهمة دورة رواتب التوقعات</value>
+    <value>مهمة دورة رواتب التوقع</value>
   </data>
 	<data name="Forecast.StartForecastPayrun" xml:space="preserve">
-    <value>بدء دورة رواتب التوقعات</value>
+    <value>بدء دورة رواتب التوقع</value>
   </data>
 	<data name="Item.Add" xml:space="preserve">
     <value>إضافة</value>
@@ -2519,7 +2519,7 @@
     <value>البقاء</value>
   </data>
 	<data name="Case.SubmitForecastCase" xml:space="preserve">
-    <value>تقديم حالة التوقعات</value>
+    <value>تقديم حالة التوقع</value>
   </data>
 	<data name="Collector.Negated" xml:space="preserve">
     <value>قيمة معكوسة</value>
