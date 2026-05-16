@@ -551,7 +551,7 @@
     <value>محلي</value>
   </data>
 	<data name="Enum.ValueType.Boolean" xml:space="preserve">
-    <value>قيمة منطقية</value>
+    <value>قيمة منطقية (نعم/لا)</value>
   </data>
 	<data name="Enum.ValueType.Date" xml:space="preserve">
     <value>تاريخ</value>
