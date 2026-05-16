@@ -215,10 +215,10 @@
     <value>الحالات الوطنية</value>
   </data>
 	<data name="Enum.Feature.PayrollLayers" xml:space="preserve">
-    <value>طبقات Payroll</value>
+    <value>طبقات كشف الرواتب</value>
   </data>
 	<data name="Enum.Feature.Payrolls" xml:space="preserve">
-    <value>Payrolls</value>
+    <value>كشوف الرواتب</value>
   </data>
 	<data name="Enum.Feature.PayrunJobs" xml:space="preserve">
     <value>مهام تشغيل الرواتب</value>
@@ -296,7 +296,7 @@
     <value>بداية المُجمِّع</value>
   </data>
 	<data name="Enum.FunctionType.Payroll" xml:space="preserve">
-    <value>Payroll</value>
+    <value>كشف الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.Payrun" xml:space="preserve">
     <value>تشغيل الرواتب</value>
@@ -518,7 +518,7 @@
     <value>الآن</value>
   </data>
 	<data name="Enum.ReportParameterType.PayrollId" xml:space="preserve">
-    <value>معرّف Payroll</value>
+    <value>معرّف كشف الرواتب</value>
   </data>
 	<data name="Enum.ReportParameterType.PayrunId" xml:space="preserve">
     <value>معرّف تشغيل الرواتب</value>
@@ -737,10 +737,10 @@
     <value>يُرجى اختيار موظف</value>
   </data>
 	<data name="App.SelectPayroll" xml:space="preserve">
-    <value>يُرجى اختيار Payroll</value>
+    <value>يُرجى اختيار كشف الرواتب</value>
   </data>
 	<data name="App.SelectPayrollWithPayrun" xml:space="preserve">
-    <value>يُرجى اختيار Payroll مع تشغيل الرواتب</value>
+    <value>يُرجى اختيار كشف الرواتب مع تشغيل الرواتب</value>
   </data>
 	<data name="App.SelectPayrun" xml:space="preserve">
     <value>يُرجى اختيار تشغيل الرواتب</value>
@@ -1409,13 +1409,13 @@
     <value>المُجمِّع بأثر رجعي</value>
   </data>
 	<data name="Payroll.NotAvailable" xml:space="preserve">
-    <value>لا يوجد Payroll متاح</value>
+    <value>لا يوجد كشف رواتب متاح</value>
   </data>
 	<data name="Payroll.Payroll" xml:space="preserve">
-    <value>Payroll</value>
+    <value>كشف الرواتب</value>
   </data>
 	<data name="Payroll.Payrolls" xml:space="preserve">
-    <value>Payrolls</value>
+    <value>كشوف الرواتب</value>
   </data>
 	<data name="Payroll.WageTypePeriod" xml:space="preserve">
     <value>فترة نوع الأجر</value>
@@ -1430,7 +1430,7 @@
     <value>لائحة أساسية غير صالحة</value>
   </data>
 	<data name="PayrollLayer.InvalidPayrollRegulation" xml:space="preserve">
-    <value>لا توجد لوائح متاحة، يُرجى إضافة لائحة إلى Payroll.</value>
+    <value>لا توجد لوائح متاحة، يُرجى إضافة لائحة إلى كشف الرواتب.</value>
   </data>
 	<data name="PayrollLayer.Level" xml:space="preserve">
     <value>المستوى</value>
@@ -1448,10 +1448,10 @@
     <value>تعيين الأولوية التالية المتاحة</value>
   </data>
 	<data name="PayrollLayer.PayrollLayer" xml:space="preserve">
-    <value>طبقة Payroll</value>
+    <value>طبقة كشف الرواتب</value>
   </data>
 	<data name="PayrollLayer.PayrollLayers" xml:space="preserve">
-    <value>طبقات Payroll</value>
+    <value>طبقات كشف الرواتب</value>
   </data>
 	<data name="PayrollLayer.Priority" xml:space="preserve">
     <value>الأولوية</value>
