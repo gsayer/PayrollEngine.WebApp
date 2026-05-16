@@ -152,10 +152,10 @@
     <value>تشغيل الرواتب</value>
   </data>
 	<data name="Enum.ResultKind.WageType" xml:space="preserve">
-    <value>نوع الأجر</value>
+    <value>بند الأجر</value>
   </data>
 	<data name="Enum.ResultKind.WageTypeCustom" xml:space="preserve">
-    <value>نوع الأجر المخصص</value>
+    <value>بند الأجر المخصص</value>
   </data>
 	<data name="Enum.RetroTimeType.Anytime" xml:space="preserve">
     <value>في أي وقت</value>
@@ -320,7 +320,7 @@
     <value>بداية تشغيل الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunWageTypeAvailable" xml:space="preserve">
-    <value>توفر نوع أجر تشغيل الرواتب</value>
+    <value>توفر بند أجر تشغيل الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.Report" xml:space="preserve">
     <value>تقرير</value>
@@ -335,13 +335,13 @@
     <value>بداية التقرير</value>
   </data>
 	<data name="Enum.FunctionType.WageType" xml:space="preserve">
-    <value>نوع الأجر</value>
+    <value>بند الأجر</value>
   </data>
 	<data name="Enum.FunctionType.WageTypeResult" xml:space="preserve">
-    <value>نتيجة نوع الأجر</value>
+    <value>نتيجة بند الأجر</value>
   </data>
 	<data name="Enum.FunctionType.WageTypeValue" xml:space="preserve">
-    <value>قيمة نوع الأجر</value>
+    <value>قيمة بند الأجر</value>
   </data>
 	<data name="Enum.CaseCancellationType.Case" xml:space="preserve">
     <value>حالة</value>
@@ -650,7 +650,7 @@
     <value>المُجمِّع</value>
   </data>
 	<data name="Enum.MarkerType.WageType" xml:space="preserve">
-    <value>نوع الأجر</value>
+    <value>بند الأجر</value>
   </data>
 	<data name="Action.ActionSyntax" xml:space="preserve">
     <value>صيغة الإجراء</value>
@@ -1418,10 +1418,10 @@
     <value>كشوف الرواتب</value>
   </data>
 	<data name="Payroll.WageTypePeriod" xml:space="preserve">
-    <value>فترة نوع الأجر</value>
+    <value>فترة بند الأجر</value>
   </data>
 	<data name="Payroll.WageTypeRetro" xml:space="preserve">
-    <value>نوع الأجر بأثر رجعي</value>
+    <value>بند الأجر بأثر رجعي</value>
   </data>
 	<data name="PayrollLayer.DefaultLevel" xml:space="preserve">
     <value>المستوى الافتراضي هو 1</value>
@@ -1502,7 +1502,7 @@
     <value>تشغيل رواتب غير معروف {payrun}</value>
   </data>
 	<data name="Payrun.WageTypeAvailableExpression" xml:space="preserve">
-    <value>تعبير توفر نوع الأجر</value>
+    <value>تعبير توفر بند الأجر</value>
   </data>
 	<data name="PayrunJob.Copy" xml:space="preserve">
     <value>نسخ</value>
@@ -2066,13 +2066,13 @@
     <value>إجراءات القيمة</value>
   </data>
 	<data name="WageType.WageType" xml:space="preserve">
-    <value>نوع الأجر</value>
+    <value>بند الأجر</value>
   </data>
 	<data name="WageType.WageTypeNumber" xml:space="preserve">
-    <value>رقم نوع الأجر</value>
+    <value>رقم بند الأجر</value>
   </data>
 	<data name="WageType.WageTypes" xml:space="preserve">
-    <value>أنواع الأجور</value>
+    <value>بنود الأجور</value>
   </data>
 	<data name="Webhook.Action" xml:space="preserve">
     <value>الإجراء</value>
@@ -2456,7 +2456,7 @@
     <value>رمز لغة RFC 4646: en-US, de-DE...</value>
   </data>
 	<data name="WageType.CalendarHelp" xml:space="preserve">
-    <value>تقويم نوع الأجر</value>
+    <value>تقويم بند الأجر</value>
   </data>
 	<data name="Calendar.PeriodDayCountHelp" xml:space="preserve">
     <value>تجاوز عدد أيام الفترة الفعلي</value>
