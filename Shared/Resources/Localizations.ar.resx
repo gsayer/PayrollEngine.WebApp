@@ -188,7 +188,7 @@
     <value>مسؤول النظام</value>
   </data>
 	<data name="Enum.Feature.Calendars" xml:space="preserve">
-    <value>التقاويم</value>
+    <value>التقويمات</value>
   </data>
 	<data name="Enum.Feature.CompanyCases" xml:space="preserve">
     <value>حالات الشركة</value>
@@ -197,7 +197,7 @@
     <value>الأقسام</value>
   </data>
 	<data name="Enum.Feature.EmployeeCases" xml:space="preserve">
-    <value>حالات الموظف</value>
+    <value>حالات الموظفين</value>
   </data>
 	<data name="Enum.Feature.Employees" xml:space="preserve">
     <value>الموظفون</value>
@@ -356,7 +356,7 @@
     <value>الأخير</value>
   </data>
 	<data name="Enum.CaseFieldAggregationType.Summary" xml:space="preserve">
-    <value>ملخص</value>
+    <value>مجموع</value>
   </data>
 	<data name="Enum.CaseFieldCancellationMode.Invert" xml:space="preserve">
     <value>عكس</value>
@@ -443,13 +443,13 @@
     <value>فترة تقويمية</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Moment" xml:space="preserve">
-    <value>لحظة</value>
+    <value>نقطة زمنية</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Period" xml:space="preserve">
     <value>فترة</value>
   </data>
 	<data name="Enum.CaseFieldTimeType.Timeless" xml:space="preserve">
-    <value>بلا وقت</value>
+    <value>غير محدد بمدة</value>
   </data>
 	<data name="Enum.CaseFieldTimeUnit.Day" xml:space="preserve">
     <value>يوم</value>
@@ -638,10 +638,10 @@
     <value>حقل الحالة</value>
   </data>
 	<data name="Enum.MarkerType.SourceCaseField" xml:space="preserve">
-    <value>حقل الحالة المصدر</value>
+    <value>حقل الحالة (المصدر)</value>
   </data>
 	<data name="Enum.MarkerType.TargetCaseField" xml:space="preserve">
-    <value>حقل الحالة الهدف</value>
+    <value>حقل الحالة (الهدف)</value>
   </data>
 	<data name="Enum.MarkerType.PayrunResult" xml:space="preserve">
     <value>نتيجة دورة الرواتب</value>
@@ -707,7 +707,7 @@
     <value>البريد الإلكتروني للتواصل</value>
   </data>
 	<data name="App.BackendVersion" xml:space="preserve">
-    <value>الخادم الخلفي: v{version}</value>
+    <value>الخادم: v{version}</value>
   </data>
 	<data name="App.CollapseGroups" xml:space="preserve">
     <value>طي المجموعات</value>
@@ -725,7 +725,7 @@
     <value>توسيع المجموعات</value>
   </data>
 	<data name="App.LightMode" xml:space="preserve">
-    <value>الوضع الفاتح</value>
+    <value>الوضع الساطع</value>
   </data>
 	<data name="App.Logout" xml:space="preserve">
     <value>تسجيل الخروج</value>
@@ -848,7 +848,7 @@
     <value>السبب الافتراضي</value>
   </data>
 	<data name="Case.EmployeeCases" xml:space="preserve">
-    <value>حالات الموظف</value>
+    <value>حالات الموظفين</value>
   </data>
 	<data name="Case.GlobalCases" xml:space="preserve">
     <value>الحالات العامة</value>
@@ -980,13 +980,13 @@
     <value>العلاقة</value>
   </data>
 	<data name="CaseRelation.SourceCaseName" xml:space="preserve">
-    <value>اسم الحالة المصدر</value>
+    <value>اسم المصدر</value>
   </data>
 	<data name="CaseRelation.SourceCaseSlot" xml:space="preserve">
     <value>خانة المصدر</value>
   </data>
 	<data name="CaseRelation.TargetCaseName" xml:space="preserve">
-    <value>اسم الحالة الهدف</value>
+    <value>اسم الهدف</value>
   </data>
 	<data name="CaseRelation.TargetCaseSlot" xml:space="preserve">
     <value>خانة الهدف</value>
@@ -998,7 +998,7 @@
     <value>معادلة التحقق</value>
   </data>
 	<data name="CaseRelation.SourceEqualsTargetError" xml:space="preserve">
-    <value>لا يمكن أن تكون الحالة الهدف هي الحالة المصدر.</value>
+    <value>لا يمكن أن يكون المصدر هو الهدف نفسه.</value>
   </data>
 	<data name="CaseSlot.CaseSlot" xml:space="preserve">
     <value>خانة الحالة</value>
@@ -1151,7 +1151,7 @@
     <value>موظف واحد</value>
   </data>
 	<data name="Employee.SelectedEmployees" xml:space="preserve">
-    <value>{selected} من {total} موظف</value>
+    <value>الموظفون: {selected} من أصل {total}</value>
   </data>
 	<data name="Error.EmptyActionField" xml:space="preserve">
     <value>الحقل {field} لا يحتوي على إجراءات.</value>
@@ -1226,7 +1226,7 @@
     <value>تمت إضافة {item}</value>
   </data>
 	<data name="Item.AddHelp" xml:space="preserve">
-    <value>إضافة {item} جديد</value>
+    <value>إضافة عنصر جديد: {item}</value>
   </data>
 	<data name="Item.AddTitle" xml:space="preserve">
     <value>إضافة {item}</value>
@@ -1238,7 +1238,7 @@
     <value>تم إنشاء {item}</value>
   </data>
 	<data name="Item.CreateHelp" xml:space="preserve">
-    <value>إنشاء {item} جديد</value>
+    <value>إنشاء عنصر جديد: {item}</value>
   </data>
 	<data name="Item.CreateTitle" xml:space="preserve">
     <value>إنشاء {item}</value>
@@ -1289,7 +1289,7 @@
     <value>للتهيئة فقط</value>
   </data>
 	<data name="Item.NotAvailable" xml:space="preserve">
-    <value>لا يوجد {item} متاح</value>
+    <value>لا توجد عناصر متاحة: {item}</value>
   </data>
 	<data name="Item.ReadOnlyField" xml:space="preserve">
     <value>للقراءة فقط</value>
@@ -1370,7 +1370,7 @@
     <value>كلمة المرور</value>
   </data>
 	<data name="Login.PasswordInfo" xml:space="preserve">
-    <value>كلمة المرور: رقم واحد، حرف صغير، حرف كبير، رمز خاص و8 أحرف كحد أدنى</value>
+    <value>كلمة المرور: رقم واحد، حرف لاتيني صغير، حرف لاتيني كبير، رمز خاص و8 أحرف كحد أدنى</value>
   </data>
 	<data name="Login.TenantHelp" xml:space="preserve">
     <value>يُرجى اختيار منشأة</value>
@@ -1652,7 +1652,7 @@
     <value>الإصدار</value>
   </data>
 	<data name="RegulationShare.ConsumerDivision" xml:space="preserve">
-    <value>قسم المستهلك</value>
+    <value>قسم المستفيد</value>
   </data>
 	<data name="RegulationShare.ConsumerTenant" xml:space="preserve">
     <value>المنشأة المستفيدة</value>
@@ -2462,7 +2462,7 @@
     <value>تجاوز عدد أيام الفترة الفعلي</value>
   </data>
 	<data name="Calendar.PeriodCycleHelp" xml:space="preserve">
-    <value>{count} فترة من '{period}' في الدورة '{cycle}'</value>
+    <value>عدد الفترات: {count} من نوع '{period}' في الدورة '{cycle}'</value>
   </data>
 	<data name="Case.CaseAdded" xml:space="preserve">
     <value>تم تقديم الحالة {case} بنجاح</value>
