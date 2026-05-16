@@ -629,7 +629,7 @@
     <value>قيمة وقت التشغيل</value>
   </data>
 	<data name="Enum.MarkerType.LookupValue" xml:space="preserve">
-    <value>قيمة Lookup</value>
+    <value>قيمة مرجعية</value>
   </data>
 	<data name="Enum.MarkerType.CaseValue" xml:space="preserve">
     <value>قيمة الحالة</value>
@@ -938,10 +938,10 @@
     <value>النهاية إلزامية</value>
   </data>
 	<data name="CaseField.LookupSettings" xml:space="preserve">
-    <value>إعدادات Lookup</value>
+    <value>إعدادات القائمة المرجعية</value>
   </data>
 	<data name="CaseField.LookupSettingsRemoved" xml:space="preserve">
-    <value>تمت إزالة إعدادات Lookup</value>
+    <value>تمت إزالة إعدادات القائمة المرجعية</value>
   </data>
 	<data name="CaseField.StartDateType" xml:space="preserve">
     <value>نوع تاريخ البداية</value>
@@ -1379,13 +1379,13 @@
     <value>يُرجى إدخال معرّفك</value>
   </data>
 	<data name="Lookup.Lookup" xml:space="preserve">
-    <value>Lookup</value>
+    <value>قائمة مرجعية</value>
   </data>
 	<data name="Lookup.LookupName" xml:space="preserve">
-    <value>اسم Lookup</value>
+    <value>اسم القائمة المرجعية</value>
   </data>
 	<data name="Lookup.Lookups" xml:space="preserve">
-    <value>Lookups</value>
+    <value>القوائم المرجعية</value>
   </data>
 	<data name="Lookup.RangeSize" xml:space="preserve">
     <value>حجم النطاق</value>
@@ -1397,10 +1397,10 @@
     <value>اسم حقل القيمة</value>
   </data>
 	<data name="LookupValue.LookupValue" xml:space="preserve">
-    <value>قيمة Lookup</value>
+    <value>قيمة مرجعية</value>
   </data>
 	<data name="LookupValue.LookupValues" xml:space="preserve">
-    <value>قيم Lookup</value>
+    <value>قيم مرجعية</value>
   </data>
 	<data name="LookupValue.RangeValue" xml:space="preserve">
     <value>قيمة النطاق</value>
