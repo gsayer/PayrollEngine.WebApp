@@ -65,7 +65,7 @@
     <value>غير نشط</value>
   </data>
 	<data name="Enum.AttributeValueType.Boolean" xml:space="preserve">
-    <value>Boolean</value>
+    <value>قيمة منطقية</value>
   </data>
 	<data name="Enum.AttributeValueType.Numeric" xml:space="preserve">
     <value>رقمي</value>
@@ -551,7 +551,7 @@
     <value>محلي</value>
   </data>
 	<data name="Enum.ValueType.Boolean" xml:space="preserve">
-    <value>Boolean</value>
+    <value>قيمة منطقية</value>
   </data>
 	<data name="Enum.ValueType.Date" xml:space="preserve">
     <value>تاريخ</value>
@@ -575,7 +575,7 @@
     <value>لا شيء</value>
   </data>
 	<data name="Enum.ValueType.NumericBoolean" xml:space="preserve">
-    <value>Boolean رقمي</value>
+    <value>قيمة منطقية رقمية</value>
   </data>
 	<data name="Enum.ValueType.Percent" xml:space="preserve">
     <value>نسبة مئوية</value>
@@ -584,7 +584,7 @@
     <value>نص</value>
   </data>
 	<data name="Enum.ValueType.WebResource" xml:space="preserve">
-    <value>مورد ويب</value>
+    <value>رابط ويب</value>
   </data>
 	<data name="Enum.ValueType.Weekday" xml:space="preserve">
     <value>يوم من الأسبوع</value>
@@ -1646,7 +1646,7 @@
     <value>صالح من</value>
   </data>
 	<data name="Regulation.Namespace" xml:space="preserve">
-    <value>Namespace</value>
+    <value>المجال</value>
   </data>
 	<data name="Regulation.Version" xml:space="preserve">
     <value>الإصدار</value>
@@ -1805,7 +1805,7 @@
     <value>محتوى القالب مفقود.</value>
   </data>
 	<data name="ReportTemplate.Schema" xml:space="preserve">
-    <value>Schema</value>
+    <value>مخطط</value>
   </data>
 	<data name="Script.FunctionTypes" xml:space="preserve">
     <value>أنواع الدوال</value>
@@ -1822,7 +1822,7 @@
 	<data name="Script.SingleFunction" xml:space="preserve">
     <value>دالة واحدة</value>
   </data>
-	<data name="Shared,Text" xml:space="preserve">
+	<data name="Shared.Text" xml:space="preserve">
     <value>نص</value>
   </data>
 	<data name="Shared.All" xml:space="preserve">
@@ -1907,7 +1907,7 @@
     <value>تاريخ الإنشاء</value>
   </data>
 	<data name="Shared.ObjectId" xml:space="preserve">
-    <value>Id</value>
+    <value>رقم تعريفي</value>
   </data>
 	<data name="Shared.ObjectStatus" xml:space="preserve">
     <value>الحالة</value>
@@ -1931,7 +1931,7 @@
     <value>البداية</value>
   </data>
 	<data name="Shared.Tags" xml:space="preserve">
-    <value>Tags</value>
+    <value>العلامات</value>
   </data>
 	<data name="Shared.Type" xml:space="preserve">
     <value>النوع</value>
