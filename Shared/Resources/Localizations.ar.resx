@@ -149,7 +149,7 @@
     <value>المُجمِّع المخصص</value>
   </data>
 	<data name="Enum.ResultKind.Payrun" xml:space="preserve">
-    <value>تشغيل الرواتب</value>
+    <value>دورة الرواتب</value>
   </data>
 	<data name="Enum.ResultKind.WageType" xml:space="preserve">
     <value>بند الأجر</value>
@@ -221,13 +221,13 @@
     <value>كشوف الرواتب</value>
   </data>
 	<data name="Enum.Feature.PayrunJobs" xml:space="preserve">
-    <value>مهام تشغيل الرواتب</value>
+    <value>مهام دورة الرواتب</value>
   </data>
 	<data name="Enum.Feature.PayrunResults" xml:space="preserve">
-    <value>نتائج تشغيل الرواتب</value>
+    <value>نتائج دورة الرواتب</value>
   </data>
 	<data name="Enum.Feature.Payruns" xml:space="preserve">
-    <value>عمليات تشغيل الرواتب</value>
+    <value>دورات الرواتب</value>
   </data>
 	<data name="Enum.Feature.Regulation" xml:space="preserve">
     <value>اللائحة</value>
@@ -299,28 +299,28 @@
     <value>كشف الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.Payrun" xml:space="preserve">
-    <value>تشغيل الرواتب</value>
+    <value>دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunBase" xml:space="preserve">
-    <value>قاعدة تشغيل الرواتب</value>
+    <value>قاعدة دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeAvailable" xml:space="preserve">
-    <value>توفر موظف تشغيل الرواتب</value>
+    <value>توفر موظف دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeEnd" xml:space="preserve">
-    <value>نهاية موظف تشغيل الرواتب</value>
+    <value>نهاية موظف دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEmployeeStart" xml:space="preserve">
-    <value>بداية موظف تشغيل الرواتب</value>
+    <value>بداية موظف دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunEnd" xml:space="preserve">
-    <value>نهاية تشغيل الرواتب</value>
+    <value>نهاية دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunStart" xml:space="preserve">
-    <value>بداية تشغيل الرواتب</value>
+    <value>بداية دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.PayrunWageTypeAvailable" xml:space="preserve">
-    <value>توفر بند أجر تشغيل الرواتب</value>
+    <value>توفر بند أجر دورة الرواتب</value>
   </data>
 	<data name="Enum.FunctionType.Report" xml:space="preserve">
     <value>تقرير</value>
@@ -521,7 +521,7 @@
     <value>معرّف كشف الرواتب</value>
   </data>
 	<data name="Enum.ReportParameterType.PayrunId" xml:space="preserve">
-    <value>معرّف تشغيل الرواتب</value>
+    <value>معرّف دورة الرواتب</value>
   </data>
 	<data name="Enum.ReportParameterType.RegulationId" xml:space="preserve">
     <value>معرّف اللائحة</value>
@@ -602,13 +602,13 @@
     <value>لا شيء</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunFunctionRequest" xml:space="preserve">
-    <value>طلب دالة تشغيل الرواتب</value>
+    <value>طلب دالة دورة الرواتب</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunJobFinish" xml:space="preserve">
-    <value>انتهاء مهمة تشغيل الرواتب</value>
+    <value>انتهاء مهمة دورة الرواتب</value>
   </data>
 	<data name="Enum.WebhookAction.PayrunJobProcess" xml:space="preserve">
-    <value>معالجة مهمة تشغيل الرواتب</value>
+    <value>معالجة مهمة دورة الرواتب</value>
   </data>
 	<data name="Enum.WebhookAction.ReportFunctionRequest" xml:space="preserve">
     <value>طلب دالة التقرير</value>
@@ -644,7 +644,7 @@
     <value>حقل الحالة الهدف</value>
   </data>
 	<data name="Enum.MarkerType.PayrunResult" xml:space="preserve">
-    <value>نتيجة تشغيل الرواتب</value>
+    <value>نتيجة دورة الرواتب</value>
   </data>
 	<data name="Enum.MarkerType.Collector" xml:space="preserve">
     <value>المُجمِّع</value>
@@ -740,10 +740,10 @@
     <value>يُرجى اختيار كشف الرواتب</value>
   </data>
 	<data name="App.SelectPayrollWithPayrun" xml:space="preserve">
-    <value>يُرجى اختيار كشف الرواتب مع تشغيل الرواتب</value>
+    <value>يُرجى اختيار كشف الرواتب مع دورة الرواتب</value>
   </data>
 	<data name="App.SelectPayrun" xml:space="preserve">
-    <value>يُرجى اختيار تشغيل الرواتب</value>
+    <value>يُرجى اختيار دورة الرواتب</value>
   </data>
 	<data name="App.SelectTenant" xml:space="preserve">
     <value>يُرجى اختيار منشأة</value>
@@ -1199,7 +1199,7 @@
     <value>اسم التوقعات</value>
   </data>
 	<data name="Forecast.JobNotSupported" xml:space="preserve">
-    <value>مهام تشغيل رواتب التوقعات غير مدعومة</value>
+    <value>مهام دورة رواتب التوقعات غير مدعومة</value>
   </data>
 	<data name="Forecast.JobPeriod" xml:space="preserve">
     <value>فترة التوقعات</value>
@@ -1214,10 +1214,10 @@
     <value>لا توجد توقعات متاحة</value>
   </data>
 	<data name="Forecast.PayrunJob" xml:space="preserve">
-    <value>مهمة تشغيل رواتب التوقعات</value>
+    <value>مهمة دورة رواتب التوقعات</value>
   </data>
 	<data name="Forecast.StartForecastPayrun" xml:space="preserve">
-    <value>بدء تشغيل رواتب التوقعات</value>
+    <value>بدء دورة رواتب التوقعات</value>
   </data>
 	<data name="Item.Add" xml:space="preserve">
     <value>إضافة</value>
@@ -1481,16 +1481,16 @@
     <value>التعبيرات</value>
   </data>
 	<data name="Payrun.NotAvailable" xml:space="preserve">
-    <value>لا يوجد تشغيل رواتب متاح</value>
+    <value>لا توجد دورات رواتب متاحة</value>
   </data>
 	<data name="Payrun.Parameters" xml:space="preserve">
     <value>المعلمات</value>
   </data>
 	<data name="Payrun.Payrun" xml:space="preserve">
-    <value>تشغيل الرواتب</value>
+    <value>دورة الرواتب</value>
   </data>
 	<data name="Payrun.Payruns" xml:space="preserve">
-    <value>تشغيلات الرواتب</value>
+    <value>دورات الرواتب</value>
   </data>
 	<data name="Payrun.RetroTimeType" xml:space="preserve">
     <value>نوع الوقت بأثر رجعي</value>
@@ -1499,7 +1499,7 @@
     <value>تعبير البداية</value>
   </data>
 	<data name="Payrun.UnknownPayrun" xml:space="preserve">
-    <value>تشغيل رواتب غير معروف {payrun}</value>
+    <value>دورة رواتب غير معروفة {payrun}</value>
   </data>
 	<data name="Payrun.WageTypeAvailableExpression" xml:space="preserve">
     <value>تعبير توفر بند الأجر</value>
@@ -1511,7 +1511,7 @@
     <value>تغيير إلى الحالة {status}</value>
   </data>
 	<data name="PayrunJob.JobCompleted" xml:space="preserve">
-    <value>اكتملت مهمة تشغيل الرواتب بنجاح</value>
+    <value>اكتملت مهمة دورة الرواتب بنجاح</value>
   </data>
 	<data name="PayrunJob.JobDate" xml:space="preserve">
     <value>تاريخ المهمة</value>
@@ -1520,7 +1520,7 @@
     <value>اكتمل {percent}%</value>
   </data>
 	<data name="PayrunJob.JobFailed" xml:space="preserve">
-    <value>فشل تنفيذ مهمة تشغيل الرواتب</value>
+    <value>فشل تنفيذ مهمة دورة الرواتب</value>
   </data>
 	<data name="PayrunJob.JobHistory" xml:space="preserve">
     <value>السجل</value>
@@ -1547,7 +1547,7 @@
     <value>الحالة</value>
   </data>
 	<data name="PayrunJob.JobValidationFailed" xml:space="preserve">
-    <value>فشل التحقق من مهمة تشغيل الرواتب</value>
+    <value>فشل التحقق من مهمة دورة الرواتب</value>
   </data>
 	<data name="PayrunJob.Legal" xml:space="preserve">
     <value>قانوني</value>
@@ -1562,22 +1562,22 @@
     <value>جديد</value>
   </data>
 	<data name="PayrunJob.NotAvailable" xml:space="preserve">
-    <value>لا توجد مهام تشغيل رواتب متاحة</value>
+    <value>لا توجد مهام دورة رواتب متاحة</value>
   </data>
 	<data name="PayrunJob.PayrunJob" xml:space="preserve">
-    <value>مهمة تشغيل الرواتب</value>
+    <value>مهمة دورة الرواتب</value>
   </data>
 	<data name="PayrunJob.PayrunJobs" xml:space="preserve">
-    <value>مهام تشغيل الرواتب</value>
+    <value>مهام دورة الرواتب</value>
   </data>
 	<data name="PayrunJob.ShowJobDetails" xml:space="preserve">
     <value>عرض تفاصيل المهمة</value>
   </data>
 	<data name="PayrunJob.StartPayrun" xml:space="preserve">
-    <value>بدء تشغيل الرواتب</value>
+    <value>بدء دورة الرواتب</value>
   </data>
 	<data name="PayrunJob.StatusChanged" xml:space="preserve">
-    <value>تم تغيير حالة مهمة تشغيل الرواتب إلى {status}</value>
+    <value>تم تغيير حالة مهمة دورة الرواتب إلى {status}</value>
   </data>
 	<data name="PayrunJob.ChangeStatusQuery" xml:space="preserve">
     <value>تغيير حالة المهمة من «{source}» إلى «{target}»؟</value>
@@ -1589,25 +1589,25 @@
     <value>لا توجد معلمات</value>
   </data>
 	<data name="PayrunParameter.NotAvailable" xml:space="preserve">
-    <value>لا توجد معلمات تشغيل رواتب متاحة</value>
+    <value>لا توجد معلمات دورة رواتب متاحة</value>
   </data>
 	<data name="PayrunParameter.PayrunParameter" xml:space="preserve">
-    <value>معلمة تشغيل الرواتب</value>
+    <value>معلمة دورة الرواتب</value>
   </data>
 	<data name="PayrunParameter.PayrunParameters" xml:space="preserve">
-    <value>معلمات تشغيل الرواتب</value>
+    <value>معلمات دورة الرواتب</value>
   </data>
 	<data name="PayrunResult.KindName" xml:space="preserve">
     <value>الاسم</value>
   </data>
 	<data name="PayrunResult.NotAvailable" xml:space="preserve">
-    <value>لا توجد نتائج تشغيل رواتب متاحة</value>
+    <value>لا توجد نتائج دورة رواتب متاحة</value>
   </data>
 	<data name="PayrunResult.PayrunResult" xml:space="preserve">
-    <value>نتيجة تشغيل الرواتب</value>
+    <value>نتيجة دورة الرواتب</value>
   </data>
 	<data name="PayrunResult.PayrunResults" xml:space="preserve">
-    <value>نتائج تشغيل الرواتب</value>
+    <value>نتائج دورة الرواتب</value>
   </data>
 	<data name="PayrunResult.Period" xml:space="preserve">
     <value>الفترة</value>
