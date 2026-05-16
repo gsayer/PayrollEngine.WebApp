@@ -803,7 +803,7 @@
     <value>معادلة التوفر</value>
   </data>
 	<data name="Case.AvailableScript" xml:space="preserve">
-    <value>Script التوفر</value>
+    <value>نص برمجي للتوفر</value>
   </data>
 	<data name="Case.BaseCase" xml:space="preserve">
     <value>الحالة الأساسية</value>
@@ -821,7 +821,7 @@
     <value>معادلة البناء</value>
   </data>
 	<data name="Case.BuildScript" xml:space="preserve">
-    <value>Script البناء</value>
+    <value>نص برمجي للبناء</value>
   </data>
 	<data name="Case.CancellationType" xml:space="preserve">
     <value>نوع الإلغاء</value>
@@ -878,7 +878,7 @@
     <value>معادلة التحقق</value>
   </data>
 	<data name="Case.ValidateScript" xml:space="preserve">
-    <value>Script التحقق</value>
+    <value>نص برمجي للتحقق</value>
   </data>
 	<data name="CaseChange.CaseChange" xml:space="preserve">
     <value>تغيير الحالة</value>
@@ -1811,13 +1811,13 @@
     <value>أنواع الدوال</value>
   </data>
 	<data name="Script.FunctionCount" xml:space="preserve">
-    <value>{count} دالة</value>
+    <value>الدوال: {count}</value>
   </data>
 	<data name="Script.Script" xml:space="preserve">
-    <value>Script</value>
+    <value>نص برمجي</value>
   </data>
 	<data name="Script.Scripts" xml:space="preserve">
-    <value>Scripts</value>
+    <value>نصوص برمجية</value>
   </data>
 	<data name="Script.SingleFunction" xml:space="preserve">
     <value>دالة واحدة</value>
