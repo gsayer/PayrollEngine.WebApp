@@ -800,7 +800,7 @@
     <value>الإجراءات المتاحة</value>
   </data>
 	<data name="Case.AvailableExpression" xml:space="preserve">
-    <value>تعبير التوفر</value>
+    <value>معادلة التوفر</value>
   </data>
 	<data name="Case.AvailableScript" xml:space="preserve">
     <value>Script التوفر</value>
@@ -818,7 +818,7 @@
     <value>إجراءات البناء</value>
   </data>
 	<data name="Case.BuildExpression" xml:space="preserve">
-    <value>تعبير البناء</value>
+    <value>معادلة البناء</value>
   </data>
 	<data name="Case.BuildScript" xml:space="preserve">
     <value>Script البناء</value>
@@ -875,7 +875,7 @@
     <value>إجراءات التحقق</value>
   </data>
 	<data name="Case.ValidateExpression" xml:space="preserve">
-    <value>تعبير التحقق</value>
+    <value>معادلة التحقق</value>
   </data>
 	<data name="Case.ValidateScript" xml:space="preserve">
     <value>Script التحقق</value>
@@ -968,7 +968,7 @@
     <value>إجراءات البناء</value>
   </data>
 	<data name="CaseRelation.BuildExpression" xml:space="preserve">
-    <value>تعبير البناء</value>
+    <value>معادلة البناء</value>
   </data>
 	<data name="CaseRelation.CaseRelation" xml:space="preserve">
     <value>علاقة الحالة</value>
@@ -995,7 +995,7 @@
     <value>إجراءات التحقق</value>
   </data>
 	<data name="CaseRelation.ValidateExpression" xml:space="preserve">
-    <value>تعبير التحقق</value>
+    <value>معادلة التحقق</value>
   </data>
 	<data name="CaseRelation.SourceEqualsTargetError" xml:space="preserve">
     <value>لا يمكن أن تكون الحالة الهدف هي الحالة المصدر.</value>
@@ -1031,7 +1031,7 @@
     <value>لا توجد مجموعات Cluster متاحة</value>
   </data>
 	<data name="Collector.ApplyExpression" xml:space="preserve">
-    <value>تعبير التطبيق</value>
+    <value>معادلة التطبيق</value>
   </data>
 	<data name="Collector.Collector" xml:space="preserve">
     <value>المجمع</value>
@@ -1043,7 +1043,7 @@
     <value>وضع التجميع</value>
   </data>
 	<data name="Collector.EndExpression" xml:space="preserve">
-    <value>تعبير النهاية</value>
+    <value>معادلة النهاية</value>
   </data>
 	<data name="Collector.MaxResult" xml:space="preserve">
     <value>الحد الأقصى للنتيجة</value>
@@ -1052,7 +1052,7 @@
     <value>الحد الأدنى للنتيجة</value>
   </data>
 	<data name="Collector.StartExpression" xml:space="preserve">
-    <value>تعبير البداية</value>
+    <value>معادلة البداية</value>
   </data>
 	<data name="Collector.StartActions" xml:space="preserve">
     <value>إجراءات البداية</value>
@@ -1250,7 +1250,7 @@
     <value>أساسي</value>
   </data>
 	<data name="Item.CSharpExpression" xml:space="preserve">
-    <value>تعبير C#</value>
+    <value>معادلة C#</value>
   </data>
 	<data name="Item.Delete" xml:space="preserve">
     <value>حذف</value>
@@ -1466,19 +1466,19 @@
     <value>السبب الافتراضي</value>
   </data>
 	<data name="Payrun.EmployeeAvailableExpression" xml:space="preserve">
-    <value>تعبير توفر الموظف</value>
+    <value>معادلة توفر الموظف</value>
   </data>
 	<data name="Payrun.EmployeeEndExpression" xml:space="preserve">
-    <value>تعبير نهاية الموظف</value>
+    <value>معادلة نهاية الموظف</value>
   </data>
 	<data name="Payrun.EmployeeStartExpression" xml:space="preserve">
-    <value>تعبير بداية الموظف</value>
+    <value>معادلة بداية الموظف</value>
   </data>
 	<data name="Payrun.EndExpression" xml:space="preserve">
-    <value>تعبير النهاية</value>
+    <value>معادلة النهاية</value>
   </data>
 	<data name="Payrun.Expressions" xml:space="preserve">
-    <value>التعبيرات</value>
+    <value>المعادلات</value>
   </data>
 	<data name="Payrun.NotAvailable" xml:space="preserve">
     <value>لا توجد دورات رواتب متاحة</value>
@@ -1496,13 +1496,13 @@
     <value>نوع الوقت بأثر رجعي</value>
   </data>
 	<data name="Payrun.StartExpression" xml:space="preserve">
-    <value>تعبير البداية</value>
+    <value>معادلة البداية</value>
   </data>
 	<data name="Payrun.UnknownPayrun" xml:space="preserve">
     <value>دورة رواتب غير معروفة {payrun}</value>
   </data>
 	<data name="Payrun.WageTypeAvailableExpression" xml:space="preserve">
-    <value>تعبير توفر بند الأجر</value>
+    <value>معادلة توفر بند الأجر</value>
   </data>
 	<data name="PayrunJob.Copy" xml:space="preserve">
     <value>نسخ</value>
@@ -1691,13 +1691,13 @@
     <value>وضع السمة</value>
   </data>
 	<data name="Report.BuildExpression" xml:space="preserve">
-    <value>تعبير البناء</value>
+    <value>معادلة البناء</value>
   </data>
 	<data name="Report.Category" xml:space="preserve">
     <value>الفئة</value>
   </data>
 	<data name="Report.EndExpression" xml:space="preserve">
-    <value>تعبير النهاية</value>
+    <value>معادلة النهاية</value>
   </data>
 	<data name="Report.Excel" xml:space="preserve">
     <value>Excel</value>
@@ -1742,7 +1742,7 @@
     <value>التقارير</value>
   </data>
 	<data name="Report.StartExpression" xml:space="preserve">
-    <value>تعبير البداية</value>
+    <value>معادلة البداية</value>
   </data>
 	<data name="Report.Word" xml:space="preserve">
     <value>Word</value>
@@ -2054,10 +2054,10 @@
     <value>مجموعات المجمع</value>
   </data>
 	<data name="WageType.ResultExpression" xml:space="preserve">
-    <value>تعبير النتيجة</value>
+    <value>معادلة النتيجة</value>
   </data>
 	<data name="WageType.ValueExpression" xml:space="preserve">
-    <value>تعبير القيمة</value>
+    <value>معادلة القيمة</value>
   </data>
 	<data name="WageType.ResultActions" xml:space="preserve">
     <value>إجراءات النتيجة</value>
