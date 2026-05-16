@@ -143,10 +143,10 @@
     <value>إصدار</value>
   </data>
 	<data name="Enum.ResultKind.Collector" xml:space="preserve">
-    <value>المُجمِّع</value>
+    <value>المجمع</value>
   </data>
 	<data name="Enum.ResultKind.CollectorCustom" xml:space="preserve">
-    <value>المُجمِّع المخصص</value>
+    <value>المجمع المخصص</value>
   </data>
 	<data name="Enum.ResultKind.Payrun" xml:space="preserve">
     <value>دورة الرواتب</value>
@@ -284,16 +284,16 @@
     <value>التحقق من الحالة</value>
   </data>
 	<data name="Enum.FunctionType.Collector" xml:space="preserve">
-    <value>المُجمِّع</value>
+    <value>المجمع</value>
   </data>
 	<data name="Enum.FunctionType.CollectorApply" xml:space="preserve">
-    <value>تطبيق المُجمِّع</value>
+    <value>تطبيق المجمع</value>
   </data>
 	<data name="Enum.FunctionType.CollectorEnd" xml:space="preserve">
-    <value>نهاية المُجمِّع</value>
+    <value>نهاية المجمع</value>
   </data>
 	<data name="Enum.FunctionType.CollectorStart" xml:space="preserve">
-    <value>بداية المُجمِّع</value>
+    <value>بداية المجمع</value>
   </data>
 	<data name="Enum.FunctionType.Payroll" xml:space="preserve">
     <value>كشف الرواتب</value>
@@ -647,7 +647,7 @@
     <value>نتيجة دورة الرواتب</value>
   </data>
 	<data name="Enum.MarkerType.Collector" xml:space="preserve">
-    <value>المُجمِّع</value>
+    <value>المجمع</value>
   </data>
 	<data name="Enum.MarkerType.WageType" xml:space="preserve">
     <value>بند الأجر</value>
@@ -1034,10 +1034,10 @@
     <value>تعبير التطبيق</value>
   </data>
 	<data name="Collector.Collector" xml:space="preserve">
-    <value>المُجمِّع</value>
+    <value>المجمع</value>
   </data>
 	<data name="Collector.Collectors" xml:space="preserve">
-    <value>المُجمِّعات</value>
+    <value>المجمعات</value>
   </data>
 	<data name="Collector.CollectMode" xml:space="preserve">
     <value>وضع التجميع</value>
@@ -1406,7 +1406,7 @@
     <value>قيمة النطاق</value>
   </data>
 	<data name="Payroll.CollectorRetro" xml:space="preserve">
-    <value>المُجمِّع بأثر رجعي</value>
+    <value>المجمع بأثر رجعي</value>
   </data>
 	<data name="Payroll.NotAvailable" xml:space="preserve">
     <value>لا يوجد كشف رواتب متاح</value>
@@ -2051,7 +2051,7 @@
     <value>نوع المستخدم</value>
   </data>
 	<data name="WageType.CollectorGroups" xml:space="preserve">
-    <value>مجموعات المُجمِّع</value>
+    <value>مجموعات المجمع</value>
   </data>
 	<data name="WageType.ResultExpression" xml:space="preserve">
     <value>تعبير النتيجة</value>
