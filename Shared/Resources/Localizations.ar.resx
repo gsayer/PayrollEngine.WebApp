@@ -863,7 +863,7 @@
     <value>بحث عن الحالة {case}</value>
   </data>
 	<data name="Case.Slots" xml:space="preserve">
-    <value>الفتحات</value>
+    <value>الخانات</value>
   </data>
 	<data name="Case.StartCase" xml:space="preserve">
     <value>بدء الحالة {case}</value>
@@ -983,13 +983,13 @@
     <value>اسم الحالة المصدر</value>
   </data>
 	<data name="CaseRelation.SourceCaseSlot" xml:space="preserve">
-    <value>فتحة الحالة المصدر</value>
+    <value>خانة المصدر</value>
   </data>
 	<data name="CaseRelation.TargetCaseName" xml:space="preserve">
     <value>اسم الحالة الهدف</value>
   </data>
 	<data name="CaseRelation.TargetCaseSlot" xml:space="preserve">
-    <value>فتحة الحالة الهدف</value>
+    <value>خانة الهدف</value>
   </data>
 	<data name="CaseRelation.ValidateActions" xml:space="preserve">
     <value>إجراءات التحقق</value>
@@ -1001,16 +1001,16 @@
     <value>لا يمكن أن تكون الحالة الهدف هي الحالة المصدر.</value>
   </data>
 	<data name="CaseSlot.CaseSlot" xml:space="preserve">
-    <value>فتحة الحالة</value>
+    <value>خانة الحالة</value>
   </data>
 	<data name="CaseSlot.CaseSlots" xml:space="preserve">
-    <value>فتحات الحالة</value>
+    <value>خانات الحالات</value>
   </data>
 	<data name="CaseSlot.Localizations" xml:space="preserve">
-    <value>ترجمات فتحة الحالة</value>
+    <value>ترجمات خانة الحالة</value>
   </data>
 	<data name="CaseSlot.NotAvailable" xml:space="preserve">
-    <value>لا توجد فتحة حالة متاحة</value>
+    <value>لا توجد خانة حالة متاحة</value>
   </data>
 	<data name="CaseValue.CaseValue" xml:space="preserve">
     <value>قيمة الحالة</value>
