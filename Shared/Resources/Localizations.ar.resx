@@ -692,7 +692,7 @@
     <value>لا يوجد إجراء متاح</value>
   </data>
 	<data name="Action.Parameters" xml:space="preserve">
-    <value>المعلمات</value>
+    <value>المعاملات</value>
   </data>
 	<data name="Action.Source" xml:space="preserve">
     <value>المصدر</value>
@@ -1484,7 +1484,7 @@
     <value>لا توجد دورات رواتب متاحة</value>
   </data>
 	<data name="Payrun.Parameters" xml:space="preserve">
-    <value>المعلمات</value>
+    <value>المعاملات</value>
   </data>
 	<data name="Payrun.Payrun" xml:space="preserve">
     <value>دورة الرواتب</value>
@@ -1583,19 +1583,19 @@
     <value>تغيير حالة المهمة من «{source}» إلى «{target}»؟</value>
   </data>
 	<data name="PayrunParameter.CountParameters" xml:space="preserve">
-    <value>{count} معلمات</value>
+    <value>المعاملات: {count}</value>
   </data>
 	<data name="PayrunParameter.NoParameters" xml:space="preserve">
-    <value>لا توجد معلمات</value>
+    <value>لا توجد معاملات</value>
   </data>
 	<data name="PayrunParameter.NotAvailable" xml:space="preserve">
-    <value>لا توجد معلمات دورة رواتب متاحة</value>
+    <value>لا توجد معاملات دورة رواتب متاحة</value>
   </data>
 	<data name="PayrunParameter.PayrunParameter" xml:space="preserve">
-    <value>معلمة دورة الرواتب</value>
+    <value>معامل دورة الرواتب</value>
   </data>
 	<data name="PayrunParameter.PayrunParameters" xml:space="preserve">
-    <value>معلمات دورة الرواتب</value>
+    <value>معاملات دورة الرواتب</value>
   </data>
 	<data name="PayrunResult.KindName" xml:space="preserve">
     <value>الاسم</value>
@@ -1769,13 +1769,13 @@
     <value>سجلات التقارير</value>
   </data>
 	<data name="ReportParameter.ParameterType" xml:space="preserve">
-    <value>نوع المعلمة</value>
+    <value>نوع المعامل</value>
   </data>
 	<data name="ReportParameter.ReportParameter" xml:space="preserve">
-    <value>معلمة التقرير</value>
+    <value>معامل التقرير</value>
   </data>
 	<data name="ReportParameter.ReportParameters" xml:space="preserve">
-    <value>معلمات التقرير</value>
+    <value>معاملات التقرير</value>
   </data>
 	<data name="ReportQuery.NotAvailable" xml:space="preserve">
     <value>لا توجد استعلامات تقارير متاحة</value>
