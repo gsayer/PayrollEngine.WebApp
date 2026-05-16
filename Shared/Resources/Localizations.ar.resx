@@ -1022,13 +1022,13 @@
     <value>لا توجد قيمة حالة متاحة</value>
   </data>
 	<data name="ClusterSet.ClusterSet" xml:space="preserve">
-    <value>مجموعة Cluster</value>
+    <value>مجموعة عناقيد</value>
   </data>
 	<data name="ClusterSet.ClusterSets" xml:space="preserve">
-    <value>مجموعات Cluster</value>
+    <value>مجموعات تكتلات</value>
   </data>
 	<data name="ClusterSet.NotAvailable" xml:space="preserve">
-    <value>لا توجد مجموعات Cluster متاحة</value>
+    <value>لا توجد مجموعات تكتلات متاحة</value>
   </data>
 	<data name="Collector.ApplyExpression" xml:space="preserve">
     <value>معادلة التطبيق</value>
@@ -1832,7 +1832,7 @@
     <value>التقويم</value>
   </data>
 	<data name="Shared.Clusters" xml:space="preserve">
-    <value>Clusters</value>
+    <value>عناقيد</value>
   </data>
 	<data name="Shared.CommonFields" xml:space="preserve">
     <value>عام</value>
@@ -2144,10 +2144,10 @@
     <value>مستندات الحقل</value>
   </data>
 	<data name="ClusterSet.ExcludeClusters" xml:space="preserve">
-    <value>استبعاد Clusters</value>
+    <value>استبعاد تكتلات</value>
   </data>
 	<data name="ClusterSet.IncludeClusters" xml:space="preserve">
-    <value>تضمين Clusters</value>
+    <value>تضمين تكتلات</value>
   </data>
 	<data name="Document.Attachments" xml:space="preserve">
     <value>المرفقات</value>
