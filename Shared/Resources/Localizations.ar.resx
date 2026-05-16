@@ -1844,7 +1844,7 @@
     <value>خاصية</value>
   </data>
 	<data name="Shared.Culture" xml:space="preserve">
-    <value>الثقافة</value>
+    <value>التنسيق الإقليمي</value>
   </data>
 	<data name="Shared.Description" xml:space="preserve">
     <value>الوصف</value>
@@ -2189,7 +2189,7 @@
     <value>تقرير XML فارغ {report}</value>
   </data>
 	<data name="Report.TemplateNotAvailable" xml:space="preserve">
-    <value>التقرير {report} غير متاح بالثقافة {culture}</value>
+    <value>التقرير {report} غير متاح للتنسيق الإقليمي {culture}</value>
   </data>
 	<data name="Report.XmlValidationError" xml:space="preserve">
     <value>تقرير XML غير صالح {report}، يُرجى التحقق من مخطط XSD</value>
@@ -2414,13 +2414,13 @@
     <value>تجاوز تقويم المنشأة</value>
   </data>
 	<data name="Division.CultureHelp" xml:space="preserve">
-    <value>تجاوز ثقافة المنشأة</value>
+    <value>تجاوز التنسيق الإقليمي للمنشأة</value>
   </data>
 	<data name="Employee.CalendarHelp" xml:space="preserve">
     <value>تجاوز تقويم القسم</value>
   </data>
 	<data name="Employee.CultureHelp" xml:space="preserve">
-    <value>تجاوز ثقافة القسم</value>
+    <value>تجاوز التنسيق الإقليمي للقسم</value>
   </data>
 	<data name="Login.InvalidPassword" xml:space="preserve">
     <value>كلمة مرور غير صالحة</value>
@@ -2450,7 +2450,7 @@
     <value>المنشأة: {tenant}</value>
   </data>
 	<data name="Tenant.CultureHelp" xml:space="preserve">
-    <value>تجاوز ثقافة النظام</value>
+    <value>تجاوز التنسيق الإقليمي للنظام</value>
   </data>
 	<data name="CaseField.CultureHelp" xml:space="preserve">
     <value>رمز لغة RFC 4646: en-US, de-DE...</value>
