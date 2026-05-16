@@ -182,7 +182,7 @@
     <value>المستخدم</value>
   </data>
 	<data name="Enum.UserType.TenantAdministrator" xml:space="preserve">
-    <value>مسؤول المستأجر</value>
+    <value>مسؤول المنشأة</value>
   </data>
 	<data name="Enum.UserType.SystemAdministrator" xml:space="preserve">
     <value>مسؤول النظام</value>
@@ -245,7 +245,7 @@
     <value>المهام</value>
   </data>
 	<data name="Enum.Feature.Tenants" xml:space="preserve">
-    <value>المستأجرون</value>
+    <value>المنشآت</value>
   </data>
 	<data name="Enum.Feature.Users" xml:space="preserve">
     <value>المستخدمون</value>
@@ -530,7 +530,7 @@
     <value>معرّف التقرير</value>
   </data>
 	<data name="Enum.ReportParameterType.TenantId" xml:space="preserve">
-    <value>معرّف المستأجر</value>
+    <value>معرّف المنشأة</value>
   </data>
 	<data name="Enum.ReportParameterType.Today" xml:space="preserve">
     <value>اليوم</value>
@@ -746,7 +746,7 @@
     <value>يُرجى اختيار تشغيل الرواتب</value>
   </data>
 	<data name="App.SelectTenant" xml:space="preserve">
-    <value>يُرجى اختيار مستأجر</value>
+    <value>يُرجى اختيار منشأة</value>
   </data>
 	<data name="App.ToggleSidebar" xml:space="preserve">
     <value>تبديل الشريط الجانبي</value>
@@ -1373,7 +1373,7 @@
     <value>كلمة المرور: رقم واحد، حرف صغير، حرف كبير، رمز خاص و8 أحرف كحد أدنى</value>
   </data>
 	<data name="Login.TenantHelp" xml:space="preserve">
-    <value>يُرجى اختيار مستأجر</value>
+    <value>يُرجى اختيار منشأة</value>
   </data>
 	<data name="Login.UserHelp" xml:space="preserve">
     <value>يُرجى إدخال معرّفك</value>
@@ -1655,10 +1655,10 @@
     <value>قسم المستهلك</value>
   </data>
 	<data name="RegulationShare.ConsumerTenant" xml:space="preserve">
-    <value>مستأجر المستهلك</value>
+    <value>المنشأة المستفيدة</value>
   </data>
 	<data name="RegulationShare.MissingTenants" xml:space="preserve">
-    <value>مستأجرون مفقودون</value>
+    <value>منشآت مفقودة</value>
   </data>
 	<data name="RegulationShare.MissingDivisions" xml:space="preserve">
     <value>أقسام مفقودة</value>
@@ -1667,7 +1667,7 @@
     <value>لوائح مشتركة مفقودة</value>
   </data>
 	<data name="RegulationShare.MissingShares" xml:space="preserve">
-    <value>يُرجى اختيار مستأجر لديه لوائح مشتركة</value>
+    <value>يُرجى اختيار منشأة لديها لوائح مشتركة</value>
   </data>
 	<data name="RegulationShare.NotAvailable" xml:space="preserve">
     <value>لا توجد مشاركات لوائح متاحة</value>
@@ -1676,7 +1676,7 @@
     <value>لائحة المزوّد</value>
   </data>
 	<data name="RegulationShare.ProviderTenant" xml:space="preserve">
-    <value>مستأجر المزوّد</value>
+    <value>المنشأة المانحة</value>
   </data>
 	<data name="RegulationShare.RegulationShare" xml:space="preserve">
     <value>مشاركة اللائحة</value>
@@ -1991,13 +1991,13 @@
     <value>المهام</value>
   </data>
 	<data name="Tenant.NotAvailable" xml:space="preserve">
-    <value>لا يوجد مستأجرون متاحون</value>
+    <value>لا توجد منشآت متاحة</value>
   </data>
 	<data name="Tenant.Tenant" xml:space="preserve">
-    <value>المستأجر</value>
+    <value>منشأة</value>
   </data>
 	<data name="Tenant.Tenants" xml:space="preserve">
-    <value>المستأجرون</value>
+    <value>المنشآت</value>
   </data>
 	<data name="User.ChangePasswordButton" xml:space="preserve">
     <value>تغيير</value>
@@ -2411,10 +2411,10 @@
     <value>إجراء</value>
   </data>
 	<data name="Division.CalendarHelp" xml:space="preserve">
-    <value>تجاوز تقويم المستأجر</value>
+    <value>تجاوز تقويم المنشأة</value>
   </data>
 	<data name="Division.CultureHelp" xml:space="preserve">
-    <value>تجاوز ثقافة المستأجر</value>
+    <value>تجاوز ثقافة المنشأة</value>
   </data>
 	<data name="Employee.CalendarHelp" xml:space="preserve">
     <value>تجاوز تقويم القسم</value>
@@ -2435,7 +2435,7 @@
     <value>خطأ في تغيير كلمة المرور</value>
   </data>
 	<data name="Login.TenantReadError" xml:space="preserve">
-    <value>اختيار المستأجر غير متاح حالياً</value>
+    <value>اختيار المنشأة غير متاح حالياً</value>
   </data>
 	<data name="Login.UnknownUser" xml:space="preserve">
     <value>مستخدم غير معروف {user}</value>
@@ -2447,7 +2447,7 @@
     <value>تجاوز التقويم الافتراضي</value>
   </data>
 	<data name="Tenant.UserTenant" xml:space="preserve">
-    <value>المستأجر: {tenant}</value>
+    <value>المنشأة: {tenant}</value>
   </data>
 	<data name="Tenant.CultureHelp" xml:space="preserve">
     <value>تجاوز ثقافة النظام</value>
